@@ -1,0 +1,872 @@
+================================================================================
+ジェミニ添削用：語彙・中級 20問（問題全文＋解説一式）
+出典（アプリの表示順）:
+  1) client/src/data/vocabulary-final.ts … vocab-001〜005
+  2) client/src/data/vocabulary-quizzes-complete.ts … vocab_001〜003
+  3) client/src/data/vocabulary-intermediate-new.ts … vi-001〜012
+================================================================================
+
+【依頼文（そのままコピーして先頭に付けてもOK）】
+以下は英語学習アプリの「語彙・中級」20問です。各問について、(1) 問題文・選択肢・正解が英語として妥当か、(2) 日本語の解説・和訳・用語説明に誤りや不自然さがないか、(3) カタカナ表記（完成文の読み）が発音の目安として適切か、を指摘してください。問題がなければ「問題なし」と簡潔に。
+
+================================================================================
+■ vocab-001
+================================================================================
+【問題文（英語）】
+The professor's _____ on climate change influenced many students to pursue environmental science.
+
+【選択肢】
+A. lecture … 講義【正解】
+B. conversation … 会話
+C. discussion … 議論
+D. debate … 討論
+
+【正解の概要（explanation）】
+正解は「lecture」です。「professor's」（教授の）と「influenced many students」（多くの学生に影響を与えた）という文脈から、正式な教育的な講演を意味する「lecture」が最適です。
+
+【ヒント（hint）】
+大学の教授が学生に与える正式な講演は何でしょうか？
+
+① 和訳（questionTranslation）】
+教授の気候変動に関する講義は、多くの学生に環境科学を追求させるよう影響を与えました。
+
+② 重要単語（vocabularyItems）】
+- lecture … 意味: 講義、講演（大学や公式な場での教育的な話） / カタカナ: レクチャー / 例: I attended a lecture on modern history.
+- influence … 意味: 影響を与える、影響 / カタカナ: インフルエンス / 例: Your opinion influenced my decision.
+- pursue … 意味: 追求する、勉強する（専門分野を） / カタカナ: パースゥ / 例: She pursued a career in medicine.
+- environmental … 意味: 環境の、環境に関する / カタカナ: エンバイロンメンタル / 例: Environmental protection is important.
+
+③ カタカナ読み（questionKatakana）】
+ザ プロフェッサーズ レクチャー オン クライメット チェンジ インフルエンスド メニー スチューデンツ トゥ パースゥ エンバイロンメンタル サイエンス。
+
+④ 文法解説（grammarPoints）】
+ルール: Academic Word List (AWL) の重要語彙
+説明: 「lecture」「influence」「pursue」「environmental」はすべてAcademic Word Listに含まれる重要な学術語彙です。大学の講義や学術的な文脈で頻繁に使われます。
+例文: The lecture covered various environmental issues. = その講義は様々な環境問題をカバーしました。
+
+⑤ 音読・スピーキング練習（speakingPractice）】
+音読指示: 「The professor's lecture on climate change influenced many students to pursue environmental science.」を5回音読してください。「lecture」と「influenced」の発音に注意してください。
+置き換え練習:
+  元文: The professor's lecture on climate change influenced many students to pursue environmental science.
+  指示: 「lecture on climate change」と「pursue environmental science」の部分を変えて、同じ文法構造で文を作ってみてください。
+  例: The professor's lecture on psychology influenced many students to pursue a career in counseling. / The researcher's presentation on technology influenced many investors to pursue innovation projects. / The speaker's talk on economics influenced many people to pursue business studies.
+会話のヒント: 「lecture」は大学の講義を指すフォーマルな言葉です。「attend a lecture」（講義に出席する）や「give a lecture」（講義をする）という表現がよく使われます。
+
+================================================================================
+■ vocab-002
+================================================================================
+【問題文（英語）】
+The company's _____ to sustainability has led to significant changes in their production methods.
+
+【選択肢】
+A. commitment … 約束、献身【正解】
+B. interest … 興味
+C. attention … 注意
+D. concern … 懸念
+
+【正解の概要（explanation）】
+正解は「commitment」です。「has led to significant changes」という結果から、単なる興味や懸念ではなく、強い決意や約束を示す「commitment」が適切です。
+
+【ヒント（hint）】
+実際に行動を起こし、変化をもたらすような強い決意を表す言葉は？
+
+① 和訳（questionTranslation）】
+その企業の持続可能性への献身は、生産方法の大きな変化につながりました。
+
+② 重要単語（vocabularyItems）】
+- commitment … 意味: 献身、約束、コミットメント（強い決意） / カタカナ: コミットメント / 例: His commitment to education is admirable.
+- sustainability … 意味: 持続可能性、サステナビリティ / カタカナ: サスティナビリティ / 例: Environmental sustainability is crucial.
+- significant … 意味: 重要な、著しい、有意な / カタカナ: シグニフィカント / 例: There was a significant increase in sales.
+- production … 意味: 生産、製造 / カタカナ: プロダクション / 例: The factory increased its production.
+
+③ カタカナ読み（questionKatakana）】
+ザ カンパニーズ コミットメント トゥ サスティナビリティ ハズ レッド トゥ シグニフィカント チェンジズ イン ザイア プロダクション メソッズ。
+
+④ 文法解説（grammarPoints）】
+ルール: Academic Word List (AWL) の重要語彙
+説明: 「commitment」「sustainability」「significant」「production」はすべてAWLに含まれる重要な学術語彙です。ビジネスや学術的な文脈で頻繁に使われます。
+例文: The company's commitment to quality is evident in their products. = その企業の品質への献身は製品に明らかです。
+
+⑤ 音読・スピーキング練習（speakingPractice）】
+音読指示: 「The company's commitment to sustainability has led to significant changes in their production methods.」を5回音読してください。「commitment」と「sustainability」の発音に注意してください。
+置き換え練習:
+  元文: The company's commitment to sustainability has led to significant changes in their production methods.
+  指示: 「commitment to sustainability」と「production methods」の部分を変えて、同じ文法構造で文を作ってみてください。
+  例: The organization's commitment to education has led to significant improvements in their training programs. / The government's commitment to healthcare has led to significant changes in their medical policies. / The university's commitment to research has led to significant advances in their scientific discoveries.
+会話のヒント: 「commitment」は「be committed to」という形でよく使われます。「I'm committed to learning English.」（私は英語学習にコミットしています）のように、自分の決意を表現するのに役立ちます。
+
+================================================================================
+■ vocab-003
+================================================================================
+【問題文（英語）】
+The researcher's findings _____ the previous theory about human behavior.
+
+【選択肢】
+A. challenged … 異議を唱えた、挑戦した【正解】
+B. supported … 支持した
+C. confirmed … 確認した
+D. explained … 説明した
+
+【正解の概要（explanation）】
+正解は「challenged」です。「previous theory」（以前の理論）という文脈と、新しい研究結果が既存の理論に対して異議を唱えるという学術的な文脈から、「challenged」が最適です。
+
+【ヒント（hint）】
+新しい研究結果が古い理論に対して何をするでしょうか？
+
+① 和訳（questionTranslation）】
+その研究者の発見は、人間の行動に関する以前の理論に異議を唱えました。
+
+② 重要単語（vocabularyItems）】
+- challenged … 意味: 異議を唱えた、挑戦した、疑問を呈した / カタカナ: チャレンジド / 例: The study challenged conventional wisdom.
+- findings … 意味: 発見、調査結果、知見 / カタカナ: ファインディングズ / 例: The research findings were surprising.
+- theory … 意味: 理論、学説 / カタカナ: セオリー / 例: Einstein's theory of relativity changed science.
+- behavior … 意味: 行動、振る舞い / カタカナ: ビヘイビア / 例: The child's behavior improved significantly.
+
+③ カタカナ読み（questionKatakana）】
+ザ リサーチャーズ ファインディングズ チャレンジド ザ プリビアス セオリー アバウト ヒューマン ビヘイビア。
+
+④ 文法解説（grammarPoints）】
+ルール: Academic Word List (AWL) の重要語彙
+説明: 「challenged」「findings」「theory」「behavior」はすべてAWLに含まれる重要な学術語彙です。科学や研究の文脈で頻繁に使われます。
+例文: The new evidence challenged the existing theory. = 新しい証拠は既存の理論に異議を唱えました。
+
+⑤ 音読・スピーキング練習（speakingPractice）】
+音読指示: 「The researcher's findings challenged the previous theory about human behavior.」を5回音読してください。「challenged」と「theory」の発音に注意してください。
+置き換え練習:
+  元文: The researcher's findings challenged the previous theory about human behavior.
+  指示: 「findings challenged」と「theory about human behavior」の部分を変えて、同じ文法構造で文を作ってみてください。
+  例: The experiment's results challenged the previous theory about physics. / The survey's data challenged the previous theory about consumer preferences. / The study's conclusions challenged the previous theory about climate patterns.
+会話のヒント: 「challenge」は「異議を唱える」「疑問を呈する」という意味で、学術的な文脈で非常によく使われます。「That challenges my assumptions.」（それは私の仮定に異議を唱えます）のように使えます。
+
+================================================================================
+■ vocab-004
+================================================================================
+【問題文（英語）】
+The government implemented new policies to _____ economic growth and reduce unemployment.
+
+【選択肢】
+A. stimulate … 刺激する、促進する【正解】
+B. prevent … 防ぐ
+C. limit … 制限する
+D. maintain … 維持する
+
+【正解の概要（explanation）】
+正解は「stimulate」です。「economic growth」（経済成長）と「reduce unemployment」（失業率を減らす）という目的から、経済を活性化させるという意味の「stimulate」が適切です。
+
+【ヒント（hint）】
+経済を活性化させて成長させるという意味の動詞は？
+
+① 和訳（questionTranslation）】
+政府は経済成長を促進し、失業率を減らすための新しい政策を実施しました。
+
+② 重要単語（vocabularyItems）】
+- stimulate … 意味: 刺激する、促進する、活性化させる / カタカナ: スティミュレイト / 例: Exercise stimulates blood circulation.
+- economic … 意味: 経済の、経済的な / カタカナ: イコノミック / 例: The economic crisis affected many people.
+- growth … 意味: 成長、増加 / カタカナ: グロース / 例: The company experienced rapid growth.
+- unemployment … 意味: 失業、失業率 / カタカナ: アンエンプロイメント / 例: Unemployment rates have decreased.
+
+③ カタカナ読み（questionKatakana）】
+ザ ガバメント インプリメンティッド ニュー ポリシーズ トゥ スティミュレイト イコノミック グロース アンド リデュース アンエンプロイメント。
+
+④ 文法解説（grammarPoints）】
+ルール: Academic Word List (AWL) の重要語彙
+説明: 「stimulate」「economic」「growth」「unemployment」はすべてAWLに含まれる重要な学術語彙です。経済学やビジネスの文脈で頻繁に使われます。
+例文: The government's policies stimulated economic development. = 政府の政策は経済発展を促進しました。
+
+⑤ 音読・スピーキング練習（speakingPractice）】
+音読指示: 「The government implemented new policies to stimulate economic growth and reduce unemployment.」を5回音読してください。「stimulate」と「unemployment」の発音に注意してください。
+置き換え練習:
+  元文: The government implemented new policies to stimulate economic growth and reduce unemployment.
+  指示: 「stimulate economic growth」と「reduce unemployment」の部分を変えて、同じ文法構造で文を作ってみてください。
+  例: The company implemented new strategies to stimulate sales and reduce costs. / The school implemented new programs to stimulate student learning and reduce dropout rates. / The organization implemented new initiatives to stimulate innovation and reduce waste.
+会話のヒント: 「stimulate」は「刺激する」「促進する」という意味で、ビジネスや経済の文脈でよく使われます。「That stimulates my interest.」（それは私の興味を刺激します）のように、日常会話でも使えます。
+
+================================================================================
+■ vocab-005
+================================================================================
+【問題文（英語）】
+The company's _____ to innovation has resulted in the development of cutting-edge products.
+
+【選択肢】
+A. dedication … 献身、専念【正解】
+B. interest … 興味
+C. preference … 好み
+D. tendency … 傾向
+
+【正解の概要（explanation）】
+正解は「dedication」です。「has resulted in the development of cutting-edge products」という強い結果から、単なる興味や好みではなく、深い献身を示す「dedication」が適切です。
+
+【ヒント（hint）】
+革新的な製品開発に至るような強い決意や献身を表す言葉は？
+
+① 和訳（questionTranslation）】
+その企業のイノベーションへの献身は、最先端製品の開発をもたらしました。
+
+② 重要単語（vocabularyItems）】
+- dedication … 意味: 献身、専念、熱心さ / カタカナ: デディケーション / 例: Her dedication to her work is admirable.
+- innovation … 意味: 革新、イノベーション、新しい考え / カタカナ: イノベーション / 例: Innovation is key to success.
+- resulted … 意味: 結果として生じた、もたらした / カタカナ: リザルティッド / 例: The accident resulted in injuries.
+- cutting-edge … 意味: 最先端の、最新の / カタカナ: カッティング エッジ / 例: The company uses cutting-edge technology.
+
+③ カタカナ読み（questionKatakana）】
+ザ カンパニーズ デディケーション トゥ イノベーション ハズ リザルティッド イン ザ デベロップメント オブ カッティング エッジ プロダクツ。
+
+④ 文法解説（grammarPoints）】
+ルール: Academic Word List (AWL) の重要語彙
+説明: 「dedication」「innovation」「resulted」「cutting-edge」はすべてAWLに含まれる重要な学術語彙です。ビジネスや技術の文脈で頻繁に使われます。
+例文: The team's dedication to excellence resulted in success. = チームの卓越性への献身は成功をもたらしました。
+
+⑤ 音読・スピーキング練習（speakingPractice）】
+音読指示: 「The company's dedication to innovation has resulted in the development of cutting-edge products.」を5回音読してください。「dedication」と「innovation」の発音に注意してください。
+置き換え練習:
+  元文: The company's dedication to innovation has resulted in the development of cutting-edge products.
+  指示: 「dedication to innovation」と「cutting-edge products」の部分を変えて、同じ文法構造で文を作ってみてください。
+  例: The researcher's dedication to science has resulted in the discovery of groundbreaking findings. / The athlete's dedication to training has resulted in the achievement of world records. / The artist's dedication to perfection has resulted in the creation of masterpieces.
+会話のヒント: 「dedication」は「be dedicated to」という形でよく使われます。「I'm dedicated to my studies.」（私は勉強に献身しています）のように、自分の熱心さを表現するのに役立ちます。
+
+================================================================================
+■ vocab_001
+================================================================================
+【問題文（英語）】
+The _____ of the new hybrid work policy across all regional offices was completed ahead of schedule.
+
+【選択肢】
+A. implementation … 実施、導入、実行（インプリメンテーション）【正解】
+B. implication … 含意、示唆（インプリケーション）
+C. improvisation … 即興、即興演奏（インプロヴァイゼーション）
+D. imposition … 課すこと、押し付け（インポジション）
+
+【正解の概要（explanation）】
+正解は「implementation」です。「the implementation of 〜」は「〜の実施・導入」という意味で、政策やシステム、計画を現場に落とし込むときに使うアカデミック・ビジネス語彙です。他の選択肢は im- で始まりますが、意味は異なります。
+
+【ヒント（hint）】
+方針や計画を「実際に運用に移すこと」を表す名詞を選びます。
+
+① 和訳（questionTranslation）】
+新しいハイブリッド勤務方針を全地域のオフィスに導入する実施作業は、予定より早く完了しました。
+
+② 重要単語（vocabularyItems）】
+- implementation … 意味: 実施、導入、実行 / カタカナ: インプリメンテーション
+- policy … 意味: 方針、政策 / カタカナ: ポリシー
+- regional … 意味: 地域の、地方の / カタカナ: リージョナル
+- ahead of schedule … 意味: 予定より早く / カタカナ: アヘッド オブ スケジュール
+
+③ カタカナ読み（questionKatakana）】
+ザ インプリメンテーション オブ ザ ニュー ハイブリッド ワーク ポリシー アクロス オール リージョナル オフィシズ ワズ コンプリーテッド アヘッド オブ スケジュール
+
+④ 文法解説（grammarPoints）】
+（1）ルール: Academic Word List (AWL) - implementation
+説明: 「implementation」は「計画・政策・システムなどを実際に運用に移すこと」を表す名詞です。「implement（動詞：実施する）」とセットで覚えると定着しやすいです。
+例文: Successful implementation of the plan requires teamwork. （計画の成功裏の実施にはチームワークが必要です）
+（2）ルール: Noun Phrase - the implementation of ...
+説明: 「the implementation of + 名詞」で「〜の実施・導入」と言います。似た構文に the introduction of...（〜の導入）、the adoption of...（〜の採用）があります。
+例文: the implementation of new software （新ソフトウェアの導入）/ the implementation of safety measures （安全対策の実施）
+
+⑤ 音読・スピーキング練習（speakingPractice）】
+音読指示: この文を5回音読してください。特に「implementation of the new hybrid work policy」の部分をスムーズに発音することを意識してください。
+置き換え練習:
+  元文: The implementation of the new hybrid work policy across all regional offices was completed ahead of schedule.
+  指示: 「implementation of ...」の部分を別の政策やシステムに入れ替えて、同じ文法構造で文を作ってみましょう。
+  例: The implementation of the data backup system across all departments was completed ahead of schedule. / The implementation of the new training program for new hires was completed ahead of schedule. / The implementation of energy-saving measures in all buildings was completed ahead of schedule.
+会話のヒント: ビジネスでは「We're still in the implementation phase.（まだ実施段階にあります）」のように、プロジェクトの進行を説明するときに implementation がよく使われます。
+
+================================================================================
+■ vocab_002
+================================================================================
+【問題文（英語）】
+The professor's _____ explanation of the complex theory helped students understand it better.
+
+【選択肢】
+A. clear … 明確な、わかりやすい（クリア）【正解】
+B. clever … 賢い、巧妙な（クレバー）
+C. clean … きれいな、清潔な（クリーン）
+D. close … 近い、親密な（クロース）
+
+【正解の概要（explanation）】
+正解は「clear」です。「clear explanation」は「明確な説明」「わかりやすい説明」という意味で、アカデミック文脈でよく使われます。複雑な理論（complex theory）を学生が理解するのに役立ったという文脈から、「clear（明確な）」が最も適切です。
+
+【ヒント（hint）】
+複雑な理論を学生が理解するのに役立ったという文脈から、「明確な」という意味の形容詞を選びます。
+
+① 和訳（questionTranslation）】
+その教授の複雑な理論の明確な説明は、学生がそれをより良く理解するのに役立ちました。
+
+② 重要単語（vocabularyItems）】
+- clear … 意味: 明確な、わかりやすい、透明な / カタカナ: クリア
+- explanation … 意味: 説明、解説 / カタカナ: エクスプラネーション
+- complex … 意味: 複雑な、複合的な / カタカナ: コンプレックス
+- theory … 意味: 理論、学説 / カタカナ: セオリー
+- understand … 意味: 理解する、わかる / カタカナ: アンダースタンド
+
+③ カタカナ読み（questionKatakana）】
+ザ プロフェッサーズ クリア エクスプラネーション オブ ザ コンプレックス セオリー ヘルプド スチューデンツ アンダースタンド イット ベター
+
+④ 文法解説（grammarPoints）】
+（1）ルール: Adjective + Noun Collocation
+説明: 「clear explanation」は形容詞と名詞の組み合わせで、アカデミック英語でよく使われる表現です。「clear」は「明確な」「わかりやすい」という意味で、説明や指示に対してよく使われます。
+例文: The teacher gave a clear instruction. （その先生は明確な指示を与えました）
+（2）ルール: Academic Vocabulary - clear
+説明: 「clear」はアカデミック文脈で「明確な」「はっきりした」という意味でよく使われます。「clear evidence」「clear conclusion」など、学術的な文章では頻出です。
+例文: There is clear evidence that climate change is happening. （気候変動が起こっているという明確な証拠があります）
+
+⑤ 音読・スピーキング練習（speakingPractice）】
+音読指示: この文を5回音読してください。特に「clear explanation」の部分をスムーズに発音することを意識してください。
+置き換え練習:
+  元文: The professor's clear explanation of the complex theory helped students understand it better.
+  指示: 「complex theory」と「understand」の部分を別の複雑な概念や理解に入れ替えて、同じ文法構造で文を作ってみましょう。
+  例: The teacher's clear explanation of the difficult concept helped students grasp it better. / The author's clear explanation of the philosophical idea helped readers comprehend it better. / The trainer's clear explanation of the technical process helped participants learn it better.
+会話のヒント: 日常会話では、「Can you give me a clear explanation?（明確な説明をしてもらえますか？）」のように、相手にわかりやすく説明してもらうことをお願いすることがあります。
+
+================================================================================
+■ vocab_003
+================================================================================
+【問題文（英語）】
+The research _____ several important findings about climate change.
+
+【選択肢】
+A. disclosed … 明らかにした、開示した（ディスクローズド）【正解】
+B. discussed … 議論した、話し合った（ディスカッスド）
+C. discovered … 発見した（ディスカバード）
+D. displayed … 表示した、展示した（ディスプレイド）
+
+【正解の概要（explanation）】
+正解は「disclosed」です。「disclose」は「明らかにする」「開示する」という意味で、アカデミック・ビジネス文脈でよく使われます。特に「research disclosed findings」という表現は、研究が新しい発見を明らかにしたことを表します。他の選択肢も似た音ですが、文脈に合いません。
+
+【ヒント（hint）】
+「明らかにする」「開示する」という意味のアカデミック語彙を選びます。
+
+① 和訳（questionTranslation）】
+その研究は気候変動についていくつかの重要な発見を明らかにしました。
+
+② 重要単語（vocabularyItems）】
+- disclosed … 意味: 明らかにした、開示した、暴露した / カタカナ: ディスクローズド
+- findings … 意味: 発見、調査結果 / カタカナ: ファインディングス
+- climate change … 意味: 気候変動 / カタカナ: クライメット チェンジ
+- research … 意味: 研究、調査 / カタカナ: リサーチ
+
+③ カタカナ読み（questionKatakana）】
+ザ リサーチ ディスクローズド セバラル インポータント ファインディングス ア バウト クライメット チェンジ
+
+④ 文法解説（grammarPoints）】
+（1）ルール: Academic Vocabulary - disclose
+説明: 「disclose」はアカデミック・ビジネス英語で「明らかにする」「開示する」という意味です。「reveal」と似ていますが、「disclose」はより正式で、特に重要な情報や秘密を明かす場合に使われます。
+例文: The company disclosed its financial results. （その企業は財務結果を開示しました）
+（2）ルール: Research Findings
+説明: 「findings」は研究や調査の結果を表す名詞で、アカデミック文脈で頻出です。「research findings」「survey findings」など、学術的な文章では常に見かけます。
+例文: The study's findings suggest that exercise improves mental health. （その研究の発見は、運動がメンタルヘルスを改善することを示唆しています）
+
+⑤ 音読・スピーキング練習（speakingPractice）】
+音読指示: この文を5回音読してください。特に「disclosed several important findings」の部分をスムーズに発音することを意識してください。
+置き換え練習:
+  元文: The research disclosed several important findings about climate change.
+  指示: 「climate change」の部分を別の研究テーマに入れ替えて、同じ文法構造で文を作ってみましょう。
+  例: The research disclosed several important findings about artificial intelligence. / The study disclosed several important findings about human behavior. / The investigation disclosed several important findings about the accident.
+会話のヒント: 日常会話では、「What did the research disclose?（その研究は何を明らかにしましたか？）」のように、研究結果について尋ねることがあります。
+
+================================================================================
+■ vi-001
+================================================================================
+【問題文（英語）】
+The new safety regulations are _____ for all employees, not just managers.
+
+【選択肢】
+A. optional … 任意の、選択できる
+B. mandatory … 義務的な、強制的な【正解】
+C. temporary … 一時的な
+D. personal … 個人的な
+
+【正解の概要（explanation）】
+「not just managers（マネージャーだけでなく）」という表現から全員に適用されることが分かります。「mandatory（義務的な）」が正解です。optional（任意の）は逆の意味です。
+
+【ヒント（hint）】
+全従業員に適用されるということは、その規則は「任意」ですか「義務」ですか？
+
+① 和訳（questionTranslation）】
+新しい安全規則はマネージャーだけでなく、すべての従業員に義務付けられています。
+
+② 重要単語（vocabularyItems）】
+- mandatory … 意味: 義務的な、強制の / カタカナ: マンダトリー / 例: Attendance is mandatory for this course.
+- optional … 意味: 任意の、自由選択の / カタカナ: オプショナル / 例: The extra assignment is optional.
+- regulation … 意味: 規則、規制 / カタカナ: レギュレーション / 例: New environmental regulations were introduced.
+
+③ カタカナ読み（questionKatakana）】
+ザ ニュー セイフティー レギュレーションズ アー マンダトリー フォー オール エンプロイーズ、ノット ジャスト マネージャーズ。
+
+④ 文法解説（grammarPoints）】
+ルール: 義務・強制を表す形容詞の使い分け
+説明: mandatory（法律・規則で義務付けられた）、compulsory（強制的な、mandatory と近似）、required（必要とされる）、optional（任意）、voluntary（自発的な）。文脈に応じて使い分けましょう。
+例文: Wearing a seatbelt is mandatory. / Homework is compulsory in this class. / The final exam is required.
+
+⑤ 音読・スピーキング練習（speakingPractice）】
+音読指示: 「The new safety regulations are mandatory for all employees.」を5回音読してください。mandatory の /ˈmændətɔːri/ というアクセントに注意しましょう。
+置き換え練習:
+  元文: The new safety regulations are mandatory for all employees.
+  指示: mandatory と optional を使って規則について話しましょう。
+  例: Wearing a uniform is mandatory at this school. / Attendance at the orientation is mandatory for new students. / The seminar is optional, but highly recommended.
+会話のヒント: 「Is this mandatory or optional?」（これは義務ですか、任意ですか？）は授業やセミナーで必ず役立つ質問です。
+
+================================================================================
+■ vi-002
+================================================================================
+【問題文（英語）】
+Scientists use experiments to _____ their theories with real-world data.
+
+【選択肢】
+A. ignore … 無視する
+B. deny … 否定する
+C. validate … 検証する、正当性を確認する【正解】
+D. replace … 置き換える
+
+【正解の概要（explanation）】
+「experiments（実験）」と「real-world data（実際のデータ）」を使って理論の正しさを「検証する（validate）」のが科学的アプローチです。ignore や deny は科学の目的に反します。
+
+【ヒント（hint）】
+科学者が実験を使って理論に対して行うことは何ですか？
+
+① 和訳（questionTranslation）】
+科学者は実際のデータで理論を検証するために実験を行います。
+
+② 重要単語（vocabularyItems）】
+- validate … 意味: 検証する、正当性を確かめる / カタカナ: バリデイト / 例: The results validate our hypothesis.
+- theory … 意味: 理論 / カタカナ: セオリー / 例: Einstein's theory of relativity is famous.
+- data … 意味: データ（不可算名詞扱い） / カタカナ: データ / 例: The data supports the conclusion.
+
+③ カタカナ読み（questionKatakana）】
+サイエンティスツ ユーズ エクスペリメンツ トゥ バリデイト ゼア セオリーズ ウィズ リアルワールド データ。
+
+④ 文法解説（grammarPoints）】
+ルール: validate / verify / confirm の違い
+説明: validate（有効性や正確性を証明する）、verify（事実かどうかを確認する）、confirm（既に知っていることを確かめる）。「The experiment validated the theory.」「Please verify your email address.」「Can you confirm the meeting time?」
+例文: The study validated the new treatment. / I need to verify the information before sharing it. / Please confirm your reservation.
+
+⑤ 音読・スピーキング練習（speakingPractice）】
+音読指示: 「Scientists use experiments to validate their theories with real-world data.」を5回音読してください。validate の /ˈvælɪdeɪt/ というアクセントに注意しましょう。
+置き換え練習:
+  元文: Scientists use experiments to validate their theories.
+  指示: validate/verify/confirm を使ってアカデミックな文を作りましょう。
+  例: The researcher validated her findings with multiple tests. / Please verify the information before submitting the report. / The data confirms our initial hypothesis.
+会話のヒント: 「Can you verify that?」（それは確認できますか？）はビジネスや学術的な場面で使う便利なフレーズです。
+
+================================================================================
+■ vi-003
+================================================================================
+【問題文（英語）】
+The heavy rain had a significant _____ on the outdoor festival.
+
+【選択肢】
+A. reason … 理由
+B. impact … 影響、衝撃【正解】
+C. solution … 解決策
+D. schedule … スケジュール
+
+【正解の概要（explanation）】
+大雨がフェスティバルに「significant（重大な）」な「impact（影響）」を与えたという文脈です。impact は「have an impact on」という形でよく使われます。
+
+【ヒント（hint）】
+大雨がフェスティバルに「与えたもの」は何ですか？
+
+① 和訳（questionTranslation）】
+大雨は屋外フェスティバルに大きな影響を与えました。
+
+② 重要単語（vocabularyItems）】
+- impact … 意味: 影響、衝撃 / カタカナ: インパクト / 例: The new law had a major impact on business.
+- have an impact on … 意味: 〜に影響を与える / カタカナ: ハブ アン インパクト オン / 例: Social media has an impact on our daily lives.
+- significant … 意味: 重大な、かなりの / カタカナ: シグニフィカント / 例: There was a significant improvement in her grades.
+
+③ カタカナ読み（questionKatakana）】
+ザ ヘビー レイン ハッド ア シグニフィカント インパクト オン ザ アウトドア フェスティバル。
+
+④ 文法解説（grammarPoints）】
+ルール: impact vs effect vs influence の使い分け
+説明: impact（強い・直接的な影響）→ have an impact on。effect（影響・結果）→ have an effect on / the effects of。influence（間接的・継続的な影響）→ have an influence on / under the influence of。
+例文: The earthquake had a devastating impact on the city. / Exercise has a positive effect on health. / Parents have a strong influence on their children.
+
+⑤ 音読・スピーキング練習（speakingPractice）】
+音読指示: 「The heavy rain had a significant impact on the outdoor festival.」を5回音読してください。impact の/ˈɪmpækt/（名詞）というアクセントに注意しましょう。
+置き換え練習:
+  元文: The heavy rain had a significant impact on the outdoor festival.
+  指示: impact を使って影響について話しましょう。
+  例: Social media has a huge impact on young people's self-esteem. / The new policy had a positive impact on employee satisfaction. / Climate change is having a devastating impact on biodiversity.
+会話のヒント: 「What impact does this have on...?」（これは〜にどんな影響がありますか？）はビジネスや授業でのディスカッションに使える便利な質問フレーズです。
+
+================================================================================
+■ vi-004
+================================================================================
+【問題文（英語）】
+The company decided to _____ its marketing strategy to attract younger customers.
+
+【選択肢】
+A. maintain … 維持する
+B. ignore … 無視する
+C. modify … 修正する、変更する【正解】
+D. destroy … 破壊する
+
+【正解の概要（explanation）】
+「to attract younger customers（若い顧客を引き付けるために）」という目的から、マーケティング戦略を「modify（修正する・変更する）」することが適切です。
+
+【ヒント（hint）】
+若い顧客を引き付けるために戦略をどうする必要がありますか？
+
+① 和訳（questionTranslation）】
+同社は若い顧客を引き付けるために、マーケティング戦略を修正することにしました。
+
+② 重要単語（vocabularyItems）】
+- modify … 意味: 修正する、一部変更する / カタカナ: モディファイ / 例: We need to modify the plan slightly.
+- strategy … 意味: 戦略 / カタカナ: ストラテジー / 例: What's your strategy for the exam?
+- attract … 意味: 引き付ける、魅了する / カタカナ: アトラクト / 例: The discount attracted many customers.
+
+③ カタカナ読み（questionKatakana）】
+ザ カンパニー ディサイデッド トゥ モディファイ イッツ マーケティング ストラテジー トゥ アトラクト ヤンガー カスタマーズ。
+
+④ 文法解説（grammarPoints）】
+ルール: modify / adjust / revise / alter の違い
+説明: modify（部分的に変える）、adjust（細かく調整する）、revise（改訂する・見直す：文書・計画に使う）、alter（〔形・性質を〕変える）。「Modify the code.」「Adjust the settings.」「Revise the essay.」「Alter the design.」
+例文: Please revise your essay before submitting. / Adjust the volume on the speaker. / The plan was modified after the meeting.
+
+⑤ 音読・スピーキング練習（speakingPractice）】
+音読指示: 「The company decided to modify its marketing strategy.」を5回音読してください。modify の /ˈmɒdɪfaɪ/ というアクセントに注意しましょう。
+置き換え練習:
+  元文: The company decided to modify its marketing strategy.
+  指示: modify/adjust/revise を使って変更に関する文を作りましょう。
+  例: We need to modify our approach to the problem. / She revised her essay three times before submitting. / Adjust your schedule to make time for exercise.
+会話のヒント: 「I'll need to modify my plans.」（計画を変更する必要があります）はビジネスや日常会話で頻繁に使います。change より modify の方が formal でプロフェッショナルに聞こえます。
+
+================================================================================
+■ vi-005
+================================================================================
+【問題文（英語）】
+Her research paper _____ the link between diet and mental health.
+
+【選択肢】
+A. hides … 隠す
+B. denies … 否定する
+C. examines … 調べる、検討する【正解】
+D. ignores … 無視する
+
+【正解の概要（explanation）】
+研究論文が「食事とメンタルヘルスの関連性」について「examines（調べる・検討する）」のは学術的な文脈として最も自然です。hide や deny は研究の目的に反します。
+
+【ヒント（hint）】
+研究論文が食事とメンタルヘルスの関係について何をするか考えてください。
+
+① 和訳（questionTranslation）】
+彼女の研究論文は、食事とメンタルヘルスの関係を検討しています。
+
+② 重要単語（vocabularyItems）】
+- examine … 意味: 調べる、検討する / カタカナ: イグザミン / 例: The study examines the effects of stress.
+- investigate … 意味: 調査する / カタカナ: インベスティゲイト / 例: Police are investigating the incident.
+- link … 意味: つながり、関連性 / カタカナ: リンク / 例: There is a clear link between exercise and mood.
+
+③ カタカナ読み（questionKatakana）】
+ハー リサーチ ペイパー イグザミンズ ザ リンク ビトゥウィーン ダイエット アンド メンタル ヘルス。
+
+④ 文法解説（grammarPoints）】
+ルール: 学術論文で使う動詞（アカデミック動詞）
+説明: 論文でよく使われる動詞：examine（検討する）、investigate（調査する）、analyze（分析する）、explore（探究する）、demonstrate（証明する）、suggest（示唆する）、argue（主張する）。これらを使うと academic なライティングになります。
+例文: This paper examines the effects of... / The study investigates... / The results demonstrate that...
+
+⑤ 音読・スピーキング練習（speakingPractice）】
+音読指示: 「Her research paper examines the link between diet and mental health.」を5回音読してください。examines の /ɪgˈzæmɪnz/ という発音に注意しましょう。
+置き換え練習:
+  元文: Her research paper examines the link between diet and mental health.
+  指示: 学術的な動詞を使って研究について説明しましょう。
+  例: This study investigates the relationship between sleep and productivity. / The report analyzes the economic impact of climate change. / The article explores the benefits of bilingual education.
+会話のヒント: 「My paper examines...」（私の論文は〜を検討しています）はレポートや発表で自分の研究内容を説明するときの基本フレーズです。
+
+================================================================================
+■ vi-006
+================================================================================
+【問題文（英語）】
+The new software is very _____ because it saves hours of manual work each week.
+
+【選択肢】
+A. complicated … 複雑な
+B. expensive … 高価な
+C. efficient … 効率的な【正解】
+D. outdated … 時代遅れの
+
+【正解の概要（explanation）】
+「saves hours of manual work（毎週何時間もの手作業を節約する）」という文脈から、ソフトウェアが「efficient（効率的な）」であることが分かります。
+
+【ヒント（hint）】
+毎週何時間もの作業を節約するとは、どんなソフトウェアですか？
+
+① 和訳（questionTranslation）】
+その新しいソフトウェアは毎週何時間もの手作業を節約するため、非常に効率的です。
+
+② 重要単語（vocabularyItems）】
+- efficient … 意味: 効率的な（少ない労力で多くを達成） / カタカナ: エフィシェント / 例: She is an efficient worker.
+- effective … 意味: 効果的な（目的を達成する） / カタカナ: エフェクティブ / 例: Exercise is effective for weight loss.
+- manual … 意味: 手動の、手作業の / カタカナ: マニュアル / 例: Manual work takes a lot of time.
+
+③ カタカナ読み（questionKatakana）】
+ザ ニュー ソフトウェア イズ ベリー エフィシェント ビコーズ イット セイブズ アワーズ オブ マニュアル ワーク イーチ ウィーク。
+
+④ 文法解説（grammarPoints）】
+ルール: efficient と effective の違い
+説明: efficient（効率的・少ない労力で多くをこなす）vs effective（効果的・目的を達成する）。「She is efficient at her job.」（仕事が効率よい）「The medicine is effective.」（薬が効果的）。両方兼ね備えると「efficient and effective」です。
+例文: The new system is efficient. / The new drug is effective. / We need an effective AND efficient solution.
+
+⑤ 音読・スピーキング練習（speakingPractice）】
+音読指示: 「The new software is very efficient because it saves hours of manual work.」を5回音読してください。efficient の /ɪˈfɪʃənt/ というアクセントに注意しましょう。
+置き換え練習:
+  元文: The new software is very efficient because it saves hours of manual work.
+  指示: efficient と effective を使って比較の文を作りましょう。
+  例: Public transportation is more efficient than driving in big cities. / Regular practice is the most effective way to improve your English. / We need to find a more efficient method of data analysis.
+会話のヒント: 「How can we make this process more efficient?」（このプロセスをどうすれば効率化できますか？）はビジネスの改善提案でよく使う表現です。
+
+================================================================================
+■ vi-007
+================================================================================
+【問題文（英語）】
+Through years of practice, she _____ the skills needed to become a professional musician.
+
+【選択肢】
+A. lost … 失った
+B. forgot … 忘れた
+C. acquired … 習得した、身につけた【正解】
+D. avoided … 避けた
+
+【正解の概要（explanation）】
+「through years of practice（何年もの練習を通して）」という文脈から、プロのミュージシャンになるために必要なスキルを「acquired（習得した）」ことが分かります。
+
+【ヒント（hint）】
+何年もの練習を通してスキルをどうしましたか？
+
+① 和訳（questionTranslation）】
+何年もの練習を通して、彼女はプロのミュージシャンになるために必要なスキルを習得しました。
+
+② 重要単語（vocabularyItems）】
+- acquire … 意味: 習得する、入手する / カタカナ: アクワイア / 例: She acquired fluency in three languages.
+- develop … 意味: 発達させる、身につける / カタカナ: ディベロップ / 例: He developed strong leadership skills.
+- master … 意味: 習得する（完全に） / カタカナ: マスター / 例: It takes years to master a musical instrument.
+
+③ カタカナ読み（questionKatakana）】
+スルー イヤーズ オブ プラクティス、シー アクワイアド ザ スキルズ ニーデッド トゥ ビカム ア プロフェッショナル ミュージシャン。
+
+④ 文法解説（grammarPoints）】
+ルール: acquire / obtain / gain の違い
+説明: acquire（スキル・知識・習慣などを徐々に習得）、obtain（許可・情報・物を正式に入手）、gain（経験・利益・重さなどを得る）。「acquire a skill」「obtain a visa」「gain experience」が典型的な組み合わせです。
+例文: She acquired English fluency through immersion. / He obtained a license to drive a truck. / She gained confidence through public speaking.
+
+⑤ 音読・スピーキング練習（speakingPractice）】
+音読指示: 「Through years of practice, she acquired the skills needed to become a professional musician.」を5回音読してください。acquired の /əˈkwaɪərd/ というアクセントに注意しましょう。
+置き換え練習:
+  元文: She acquired the skills needed to become a professional musician.
+  指示: acquire/develop/gain を使ってスキル習得について話しましょう。
+  例: He acquired the ability to speak Japanese through self-study. / She developed strong communication skills during her internship. / I gained valuable experience working at the research lab.
+会話のヒント: 「I'm trying to acquire new skills for my career.」（キャリアのために新しいスキルを習得しようとしています）は就職面接や自己紹介で使える表現です。
+
+================================================================================
+■ vi-008
+================================================================================
+【問題文（英語）】
+The government's new education policy will _____ students from low-income families.
+
+【選択肢】
+A. harm … 害を与える
+B. ignore … 無視する
+C. benefit … 恩恵を与える、利益をもたらす【正解】
+D. exclude … 除外する
+
+【正解の概要（explanation）】
+教育政策が低所得世帯の学生に「benefit（恩恵をもたらす）」という文脈です。harm（害を与える）やexclude（除外する）は政策の目的に反します。
+
+【ヒント（hint）】
+教育政策が低所得世帯の学生に対して何をすると考えられますか？
+
+① 和訳（questionTranslation）】
+政府の新しい教育政策は、低所得家庭の学生に恩恵をもたらすでしょう。
+
+② 重要単語（vocabularyItems）】
+- benefit … 意味: 恩恵を与える（動詞）/ 恩恵（名詞） / カタカナ: ベネフィット / 例: Regular exercise benefits both body and mind.
+- policy … 意味: 政策、方針 / カタカナ: ポリシー / 例: The company has a strict privacy policy.
+- low-income … 意味: 低所得の / カタカナ: ロウ インカム / 例: Low-income families need more support.
+
+③ カタカナ読み（questionKatakana）】
+ザ ガバメンツ ニュー エデュケーション ポリシー ウィル ベネフィット スチューデンツ フロム ロウ インカム ファミリーズ。
+
+④ 文法解説（grammarPoints）】
+ルール: benefit（動詞・名詞）の使い方
+説明: benefit は動詞（恩恵を与える：benefit someone）と名詞（恩恵・利益：the benefits of...）の両方で使います。「The policy benefits students.」（動詞）「The benefits of exercise are well-known.」（名詞）「benefit from（〜から恩恵を受ける）」も重要。
+例文: Regular exercise benefits your health. / She benefited from the scholarship. / The main benefit is cost reduction.
+
+⑤ 音読・スピーキング練習（speakingPractice）】
+音読指示: 「The government's new education policy will benefit students from low-income families.」を5回音読してください。benefit の /ˈbenɪfɪt/ というアクセントに注意しましょう。
+置き換え練習:
+  元文: The new policy will benefit students from low-income families.
+  指示: benefit を動詞・名詞として使って文を作りましょう。
+  例: This program benefits the entire community. / She benefited greatly from her mentor's advice. / What are the main benefits of studying abroad?
+会話のヒント: 「How would this benefit us?」（これは私たちにどんな恩恵がありますか？）はビジネスの提案や政策の議論でよく使われる実践的な質問です。
+
+================================================================================
+■ vi-009
+================================================================================
+【問題文（英語）】
+The nurse asked the patient to _____ her symptoms in detail.
+
+【選択肢】
+A. create … 作り出す
+B. describe … 描写する、説明する【正解】
+C. forget … 忘れる
+D. prevent … 防ぐ
+
+【正解の概要（explanation）】
+看護師が患者に症状を「detail（詳しく）」「describe（説明する・描写する）」ように頼む文です。医療の場面で症状を言葉で伝えることを describe と言います。
+
+【ヒント（hint）】
+看護師が患者に症状について何を求めていますか？「in detail（詳しく）」がヒントです。
+
+① 和訳（questionTranslation）】
+看護師は患者に症状を詳しく説明するよう求めました。
+
+② 重要単語（vocabularyItems）】
+- describe … 意味: 描写する、説明する / カタカナ: ディスクライブ / 例: Can you describe what you saw?
+- symptom … 意味: 症状 / カタカナ: シンプトム / 例: What are your symptoms?
+- in detail … 意味: 詳しく、詳細に / カタカナ: イン ディテイル / 例: Please explain the process in detail.
+
+③ カタカナ読み（questionKatakana）】
+ザ ナース アスクド ザ ペイシェント トゥ ディスクライブ ハー シンプトムズ イン ディテイル。
+
+④ 文法解説（grammarPoints）】
+ルール: describe と explain の違い
+説明: describe（描写する・どんなものかを言葉で表す）vs explain（説明する・理由や方法を解説する）。「Describe the pain.」（痛みがどんな感じか言って）「Explain why you are here.」（なぜここにいるか説明して）。
+例文: Describe the man you saw. / Can you explain how this machine works? / She explained the rules clearly.
+
+⑤ 音読・スピーキング練習（speakingPractice）】
+音読指示: 「The nurse asked the patient to describe her symptoms in detail.」を5回音読してください。describe の /dɪˈskraɪb/ というアクセントに注意しましょう。
+置き換え練習:
+  元文: The nurse asked the patient to describe her symptoms in detail.
+  指示: describe を使って説明する文を作りましょう。
+  例: Can you describe the neighborhood where you grew up? / Please describe your work experience in the interview. / She described the accident to the police officer.
+会話のヒント: 病院やクリニックで「I'd like to describe my symptoms.」（症状を説明したいのですが）と言えると、より正確に状態を伝えられます。
+
+================================================================================
+■ vi-010
+================================================================================
+【問題文（英語）】
+The professor asked students to _____ the results of the experiment in class.
+
+【選択肢】
+A. hide … 隠す
+B. present … 発表する、提示する【正解】
+C. erase … 消去する
+D. copy … コピーする
+
+【正解の概要（explanation）】
+「in class（授業中に）」実験の結果を「present（発表する）」ことは学術的な文脈として最も自然です。hide や erase は学習の目的に反します。
+
+【ヒント（hint）】
+授業中に実験の結果をクラスメートや先生に何をするのが普通ですか？
+
+① 和訳（questionTranslation）】
+教授は学生に授業中に実験の結果を発表するよう求めました。
+
+② 重要単語（vocabularyItems）】
+- present … 意味: 発表する（動詞）/ 現在の（形容詞） / カタカナ: プリゼント（動詞） / 例: She presented her research findings.
+- report … 意味: 報告する、レポートする / カタカナ: リポート / 例: Please report your results by Friday.
+- demonstrate … 意味: 実演する、証明する / カタカナ: デモンストレイト / 例: He demonstrated how to use the equipment.
+
+③ カタカナ読み（questionKatakana）】
+ザ プロフェサー アスクド スチューデンツ トゥ プリゼント ザ リザルツ オブ ザ エクスペリメント イン クラス。
+
+④ 文法解説（grammarPoints）】
+ルール: present（動詞）の用法
+説明: present（動詞）＝発表する・提示する。アクセントの変化：動詞は /prɪˈzent/（プリゼント）、名詞・形容詞は /ˈprezənt/（プレゼント）。「Present your findings.」（発表する）vs 「a present」（プレゼント/贈り物）
+例文: She will present her project tomorrow. / He is present at every meeting. / What a wonderful present!
+
+⑤ 音読・スピーキング練習（speakingPractice）】
+音読指示: 「The professor asked students to present the results of the experiment in class.」を5回音読してください。present（動詞）のアクセントは後ろにあります（プリゼント）。
+置き換え練習:
+  元文: The professor asked students to present the results of the experiment.
+  指示: present/report/demonstrate を使って発表に関する文を作りましょう。
+  例: Each team will present their project to the class on Friday. / Students are required to report their findings in writing. / The engineer demonstrated how the new system works.
+会話のヒント: 「I have to present my research tomorrow.」（明日研究を発表しなければなりません）は留学中によく使う表現です。present は使い勝手が良いので覚えておきましょう。
+
+================================================================================
+■ vi-011
+================================================================================
+【問題文（英語）】
+The committee will _____ all applications before making a final decision.
+
+【選択肢】
+A. ignore … 無視する
+B. avoid … 避ける
+C. review … 審査する、見直す【正解】
+D. delete … 削除する
+
+【正解の概要（explanation）】
+委員会が最終決定の前に申請書を「review（審査する・見直す）」ことは、選考プロセスとして最も自然です。ignore や delete は選考の目的に反します。
+
+【ヒント（hint）】
+委員会が最終決定を下す前に申請書に対して何をしますか？
+
+① 和訳（questionTranslation）】
+委員会は最終決定をする前に、すべての申請書を審査します。
+
+② 重要単語（vocabularyItems）】
+- review … 意味: 審査する、見直す（動詞）/ 評価・批評（名詞） / カタカナ: リビュー / 例: Please review the document before sending.
+- evaluate … 意味: 評価する / カタカナ: イバリュエイト / 例: We need to evaluate the candidates carefully.
+- application … 意味: 申請書、出願 / カタカナ: アプリケーション / 例: Submit your application by April 30.
+
+③ カタカナ読み（questionKatakana）】
+ザ コミッティー ウィル リビュー オール アプリケーションズ ビフォア メイキング ア ファイナル ディシジョン。
+
+④ 文法解説（grammarPoints）】
+ルール: review / evaluate / assess の違い
+説明: review（全体を見直す・確認する）、evaluate（基準に基づいて評価する）、assess（詳細に査定する）。「review a document」（文書を確認）「evaluate a candidate」（候補者を評価）「assess the damage」（損害を査定）。
+例文: Please review my essay. / The teacher evaluated each student's performance. / The doctor assessed the patient's condition.
+
+⑤ 音読・スピーキング練習（speakingPractice）】
+音読指示: 「The committee will review all applications before making a final decision.」を5回音読してください。review の /rɪˈvjuː/ というアクセントに注意しましょう。
+置き換え練習:
+  元文: The committee will review all applications before making a final decision.
+  指示: review/evaluate/assess を使って評価に関する文を作りましょう。
+  例: The professor will review the final draft of your paper. / Management evaluated all the proposals submitted by the team. / The insurance company assessed the damage after the accident.
+会話のヒント: 「Can you review this before I send it?」（送る前に確認してもらえますか？）はビジネスメールや文書のチェックをお願いするときの便利なフレーズです。
+
+================================================================================
+■ vi-012
+================================================================================
+【問題文（英語）】
+He failed to _____ his argument with reliable sources, so the professor was not convinced.
+
+【選択肢】
+A. support … 支持する、根拠を示す【正解】
+B. weaken … 弱める
+C. remove … 取り除く
+D. copy … コピーする
+
+【正解の概要（explanation）】
+「reliable sources（信頼できる情報源）」で議論を「support（支持する・根拠を示す）」できなかったため、教授が納得しなかったという文脈です。
+
+【ヒント（hint）】
+信頼できる情報源を使って議論に何をする必要がありましたか？
+
+① 和訳（questionTranslation）】
+彼は信頼できる情報源で議論を裏付けることができなかったので、教授は納得しませんでした。
+
+② 重要単語（vocabularyItems）】
+- support an argument … 意味: 議論を裏付ける・根拠を示す / カタカナ: サポート アン アーギュメント / 例: Use evidence to support your argument.
+- reliable … 意味: 信頼できる / カタカナ: リライアブル / 例: Wikipedia is not always a reliable source.
+- convince … 意味: 納得させる、説得する / カタカナ: コンビンス / 例: She convinced her parents to let her study abroad.
+
+③ カタカナ読み（questionKatakana）】
+ヒー フェイルド トゥ サポート ヒズ アーギュメント ウィズ リライアブル ソーシズ、ソウ ザ プロフェサー ワズ ノット コンビンスト。
+
+④ 文法解説（grammarPoints）】
+ルール: support の多様な用法
+説明: support は名詞（支持・サポート）と動詞（支持する・根拠を示す）の両方で使います。「support an argument（議論を支持する）」「support a family（家族を養う）」「lend support（支援を提供する）」「with the support of（〜の支援のもとで）」
+例文: Evidence supports this claim. / I support your decision. / She supported herself while studying.
+
+⑤ 音読・スピーキング練習（speakingPractice）】
+音読指示: 「He failed to support his argument with reliable sources.」を5回音読してください。support の /səˈpɔːrt/ というアクセントに注意しましょう。
+置き換え練習:
+  元文: He failed to support his argument with reliable sources.
+  指示: support を使ってアカデミックな文を作りましょう。
+  例: Always support your claims with evidence from credible sources. / The data supports the conclusion that exercise reduces stress. / She supported her thesis with examples from various studies.
+会話のヒント: 「Can you support that with evidence?」（それを証拠で裏付けられますか？）はディスカッションや議論での重要な問いかけです。
+
+================================================================================
+（以上 語彙・中級 20問：vocab-001〜005 → vocab_001〜003 → vi-001〜012）
+================================================================================

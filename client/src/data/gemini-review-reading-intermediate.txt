@@ -1,0 +1,1104 @@
+================================================================================
+ジェミニ添削用：読解・中級 20問（問題全文＋解説一式）
+出典: client/src/data/reading-final.ts（reading-001〜005）および client/src/data/reading-intermediate-new.ts（ri-001〜015）と同一内容。表示順は client/src/data/quizzes.ts の ALL_READING（中級ブロック）に準拠。
+================================================================================
+
+【依頼文（そのままコピーして先頭に付けてもOK）】
+以下は英語学習アプリの「読解・中級」20問です。各問はパッセージと質問で構成されています。各問について、(1) パッセージ・質問文・選択肢・正解が英語として妥当か、(2) 日本語の解説・和訳・用語説明に誤りや不自然さがないか、(3) カタカナ表記（パッセージおよび質問の読み）が発音の目安として適切か、を指摘してください。問題がなければ「問題なし」と簡潔に。
+
+================================================================================
+■ reading-001
+================================================================================
+【問題文（英語）】
+Read the passage and answer the question.
+
+"Climate change is one of the most pressing challenges of our time. Rising temperatures have led to melting ice caps, rising sea levels, and more frequent extreme weather events. Scientists agree that human activities, particularly the burning of fossil fuels, are the primary cause of global warming. To address this crisis, governments and individuals must take immediate action to reduce carbon emissions and transition to renewable energy sources."
+
+What is the main cause of climate change according to the passage?
+
+【選択肢】
+A. Rising sea levels … 海面上昇
+B. Human activities, particularly burning fossil fuels … 人間の活動、特に化石燃料の燃焼【正解】
+C. Extreme weather events … 極端な気象現象
+D. Melting ice caps … 氷冠の融解
+
+【正解の概要（explanation）】
+正解は「Human activities, particularly burning fossil fuels」です。本文に「Scientists agree that human activities, particularly the burning of fossil fuels, are the primary cause of global warming.」と明確に書かれています。他の選択肢は気候変動の結果や影響であり、原因ではありません。
+
+【ヒント（hint）】
+本文で「primary cause」（主な原因）として明確に述べられているのは何ですか？
+
+【① 和訳（questionTranslation）】
+【パッセージ全体の和訳】
+「気候変動は現代において最も緊急性の高い課題の一つです。気温の上昇により、氷冠の融解、海面上昇、より頻繁な異常気象が起きています。科学者たちは、人間の活動、特に化石燃料の燃焼が地球温暖化の主な原因であることに同意しています。この危機に対処するために、政府と個人は炭素排出量を削減し、再生可能エネルギーへ移行するための即座の行動を取らなければなりません。」
+
+【問題文の和訳】
+本文によると、気候変動の主な原因は何ですか？
+
+【② 重要単語（vocabularyItems）】
+- pressing … 意味: 緊急の、差し迫った / カタカナ: プレッシング / 例: We have a pressing need for action.
+- melting … 意味: 融解、溶ける / カタカナ: メルティング / 例: The ice is melting rapidly.
+- fossil fuels … 意味: 化石燃料 / カタカナ: フォッシル フューエルズ / 例: Coal and oil are fossil fuels.
+- emissions … 意味: 排出、放出 / カタカナ: エミッションズ / 例: We need to reduce carbon emissions.
+
+【③ カタカナ読み（questionKatakana）】
+【パッセージ全体のカタカナ読み】
+クライメット チェンジ イズ ワン オブ ザ モスト プレッシング チャレンジズ オブ アワ タイム。ライジング テンパラチャーズ ハブ レッド トゥ メルティング アイス キャップス、ライジング スィー レベルズ、アンド モア フリークウェント エクストリーム ウェザー イベンツ。サイエンティスト アグリー ザット ヒューマン アクティビティーズ、パーティキュラリー ザ バーニング オブ フォッシル フューエルズ、アー ザ プライマリー コーズ オブ グローバル ウォーミング。トゥ アドレス ディス クライシス、ガバメンツ アンド インディビジュアルズ マスト テイク イミーディエット アクション トゥ リデュース カーボン エミッションズ アンド トランジション トゥ リニューアブル エナジー ソーシズ。
+
+【問題文のカタカナ読み】
+ワット イズ ザ メイン コーズ オブ クライメット チェンジ アコーディング トゥ ザ パッセージ？
+
+【④ 文法解説（grammarPoints）】
+ルール: 読解における主要情報の抽出
+説明: 学術的な読解では、本文から主要な情報を正確に抽出することが重要です。「primary cause」「main idea」などのキーワードに注目し、本文に明確に書かれている情報を選ぶ必要があります。
+例文: The passage states that... = 本文は～と述べています。
+
+【⑤ 音読・スピーキング練習（speakingPractice）】
+音読指示: このパッセージを2回音読してください。特に「Scientists agree that human activities, particularly the burning of fossil fuels, are the primary cause of global warming.」という重要な文を注意深く読んでください。
+置き換え練習:
+  元文: Scientists agree that human activities, particularly the burning of fossil fuels, are the primary cause of global warming.
+  指示: このパターンを使って、他の科学的な主張を表現してみてください。
+  例: Researchers agree that regular exercise, particularly aerobic activity, is the primary factor in maintaining health.
+  例: Experts agree that early education, particularly literacy programs, is the primary factor in child development.
+  例: Economists agree that inflation, particularly rising energy costs, is the primary cause of economic slowdown.
+会話のヒント: 学術的な読解では、「according to the passage」（本文によると）という表現を使って、本文に基づいた回答をすることが重要です。自分の意見ではなく、本文に書かれていることを述べるようにしましょう。
+
+================================================================================
+■ reading-002
+================================================================================
+【問題文（英語）】
+Read the passage and answer the question.
+
+"The Industrial Revolution, which began in Britain in the late 18th century, transformed human society in unprecedented ways. It introduced mechanized production, which dramatically increased productivity and led to the development of factories. While the Industrial Revolution brought significant economic benefits and improved living standards for many, it also created new social problems, including poor working conditions, child labor, and urban overcrowding."
+
+What is implied about the Industrial Revolution in the passage?
+
+【選択肢】
+A. It was entirely beneficial to society … それは社会に完全に有益だった
+B. It had both positive and negative effects on society … それは社会に肯定的および否定的な影響を与えた【正解】
+C. It only created social problems … それは社会問題だけを生み出した
+D. It started in America … それはアメリカで始まった
+
+【正解の概要（explanation）】
+正解は「It had both positive and negative effects on society」です。本文に「brought significant economic benefits and improved living standards」（経済的利益と生活水準の向上をもたらした）と同時に、「created new social problems, including poor working conditions, child labor, and urban overcrowding」（貧しい労働条件、児童労働、都市過密化などの新しい社会問題を生み出した）と書かれています。
+
+【ヒント（hint）】
+本文は産業革命の利点と問題の両方について述べていますか？
+
+【① 和訳（questionTranslation）】
+【パッセージ全体の和訳】
+「18世紀後半にイギリスで始まった産業革命は、人間社会を前例のない方法で変革しました。機械化された生産を導入し、生産性を劇的に向上させ、工場の発展につながりました。産業革命は多くの人々に大きな経済的利益と生活水準の向上をもたらした一方で、劣悪な労働条件、児童労働、都市過密化などの新しい社会問題も生み出しました。」
+
+【問題文の和訳】
+本文で産業革命について何が示唆されていますか？
+
+【② 重要単語（vocabularyItems）】
+- transformed … 意味: 変形させた、変えた、変革した / カタカナ: トランスフォームド / 例: Technology has transformed our lives.
+- mechanized … 意味: 機械化された / カタカナ: メカナイズド / 例: Mechanized farming increased productivity.
+- productivity … 意味: 生産性、生産力 / カタカナ: プロダクティビティ / 例: The new system improved productivity.
+- overcrowding … 意味: 過密、混雑 / カタカナ: オーバークラウディング / 例: Urban overcrowding is a major problem.
+
+【③ カタカナ読み（questionKatakana）】
+【パッセージ全体のカタカナ読み】
+ザ インダストリアル レボリューション、ウィッチ ビガン イン ブリテン イン ザ レイト エイティーンス センチュリー、トランスフォームド ヒューマン ソサイエティー イン アンプレシデンテッド ウェイズ。イット イントロデュースド メカナイズド プロダクション、ウィッチ ドラマティカリー インクリースト プロダクティビティー アンド レッド トゥ ザ デベロップメント オブ ファクトリーズ。ワイル ザ インダストリアル レボリューション ブロート シグニフィカント エコノミック ベネフィッツ アンド インプルーブド リビング スタンダーズ フォー メニー、イット オールソウ クリエイテッド ニュー ソーシャル プロブレムズ、インクルーディング プア ワーキング コンディションズ、チャイルド レイバー、アンド アーバン オーバークラウディング。
+
+【問題文のカタカナ読み】
+ワット イズ インプライド アバウト ザ インダストリアル レボリューション イン ザ パッセージ？
+
+【④ 文法解説（grammarPoints）】
+ルール: 推論的読解（Inferential Reading）
+説明: 本文に明確に書かれていない情報を、本文の内容から推測することを推論的読解といいます。「While...also」という対比表現から、産業革命が利点と問題の両方を持っていたことが推測できます。
+例文: The passage implies that... = 本文は～を示唆しています。
+
+【⑤ 音読・スピーキング練習（speakingPractice）】
+音読指示: このパッセージを2回音読してください。特に「While the Industrial Revolution brought significant economic benefits...it also created new social problems」という対比表現に注意してください。
+置き換え練習:
+  元文: While the Industrial Revolution brought significant economic benefits and improved living standards for many, it also created new social problems.
+  指示: このパターンを使って、他の歴史的イベントについて対比的な文を作ってみてください。
+  例: While the digital revolution brought unprecedented connectivity and access to information, it also created new privacy concerns.
+  例: While globalization brought economic opportunities and cultural exchange, it also created job displacement and cultural homogenization.
+  例: While urbanization brought economic growth and improved services, it also created environmental pollution and social inequality.
+会話のヒント: 「While」を使った対比表現は、複雑な現象を説明するときに非常に役立ちます。「While I enjoy the benefits, I also recognize the challenges.」（利点を楽しむ一方で、課題も認識しています）のように、バランスの取れた意見を表現できます。
+
+================================================================================
+■ reading-003
+================================================================================
+【問題文（英語）】
+Read the passage and answer the question.
+
+"Photosynthesis is the process by which plants convert sunlight into chemical energy. This process is essential for life on Earth because it produces oxygen, which is necessary for respiration in most organisms. Additionally, photosynthesis forms the base of most food chains, as plants are the primary producers that convert solar energy into organic matter that other organisms consume."
+
+What is the primary function of photosynthesis according to the passage?
+
+【選択肢】
+A. To produce oxygen only … 酸素だけを生成すること
+B. To convert sunlight into chemical energy and produce oxygen … 太陽光を化学エネルギーに変換し、酸素を生成すること【正解】
+C. To form the base of food chains … 食物連鎖の基盤を形成すること
+D. To provide energy for respiration … 呼吸のためのエネルギーを提供すること
+
+【正解の概要（explanation）】
+正解は「To convert sunlight into chemical energy and produce oxygen」です。本文の最初の文に「Photosynthesis is the process by which plants convert sunlight into chemical energy.」と定義されており、これが光合成の主要な機能です。酸素の生成も重要ですが、光合成の定義そのものは太陽光を化学エネルギーに変換することです。
+
+【ヒント（hint）】
+本文で光合成の定義として最初に述べられているのは何ですか？
+
+【① 和訳（questionTranslation）】
+【パッセージ全体の和訳】
+「光合成は、植物が太陽光を化学エネルギーに変換するプロセスです。このプロセスは、ほとんどの生物の呼吸に必要な酸素を生成するため、地球上の生命にとって不可欠です。さらに、植物は太陽エネルギーを他の生物が消費する有機物に変換する一次生産者であるため、光合成はほとんどの食物連鎖の基盤を形成しています。」
+
+【問題文の和訳】
+本文によると、光合成の主要な機能は何ですか？
+
+【② 重要単語（vocabularyItems）】
+- photosynthesis … 意味: 光合成 / カタカナ: フォトシンセシス / 例: Plants perform photosynthesis using sunlight.
+- convert … 意味: 変換する、転換する / カタカナ: コンバート / 例: We can convert solar energy into electricity.
+- respiration … 意味: 呼吸、呼吸作用 / カタカナ: レスピレーション / 例: Cellular respiration provides energy to cells.
+- organic matter … 意味: 有機物 / カタカナ: オーガニック マター / 例: Soil contains organic matter.
+
+【③ カタカナ読み（questionKatakana）】
+【パッセージ全体のカタカナ読み】
+フォトシンセシス イズ ザ プロセス バイ ウィッチ プランツ コンバート サンライト イントゥ ケミカル エナジー。ディス プロセス イズ エッセンシャル フォー ライフ オン アース ビコーズ イット プロデューシズ オキシジェン、ウィッチ イズ ネセサリー フォー レスピレーション イン モスト オーガニズムズ。アディショナリー、フォトシンセシス フォームズ ザ ベイス オブ モスト フード チェインズ、アズ プランツ アー ザ プライマリー プロデューサーズ ザット コンバート ソーラー エナジー イントゥ オーガニック マター ザット アザー オーガニズムズ コンシューム。
+
+【問題文のカタカナ読み】
+ワット イズ ザ プライマリー ファンクション オブ フォトシンセシス アコーディング トゥ ザ パッセージ？
+
+【④ 文法解説（grammarPoints）】
+ルール: 定義的読解（Definitional Reading）
+説明: 学術的な読解では、用語や概念の定義を正確に理解することが重要です。本文の最初の文で定義されている内容が、その用語の主要な特性を表しています。
+例文: According to the passage, X is defined as... = 本文によると、Xは～と定義されています。
+
+【⑤ 音読・スピーキング練習（speakingPractice）】
+音読指示: このパッセージを2回音読してください。特に「Photosynthesis is the process by which plants convert sunlight into chemical energy.」という定義的な文に注意してください。
+置き換え練習:
+  元文: Photosynthesis is the process by which plants convert sunlight into chemical energy.
+  指示: このパターンを使って、他の科学的プロセスの定義を作ってみてください。
+  例: Digestion is the process by which the body breaks down food into nutrients.
+  例: Evaporation is the process by which water converts from liquid to gas.
+  例: Fermentation is the process by which microorganisms convert sugars into alcohol.
+会話のヒント: 「is the process by which」というパターンは、複雑なプロセスを説明するときに非常に役立ちます。学術的な文脈で、何かがどのように機能するかを説明するときに使えます。
+
+================================================================================
+■ reading-004
+================================================================================
+【問題文（英語）】
+Read the passage and answer the question.
+
+"The development of the internet has fundamentally changed how we communicate, work, and access information. While the internet has provided unprecedented benefits, including instant global communication and access to vast amounts of information, it has also introduced new challenges such as cybersecurity threats, misinformation, and digital divide issues. Despite these challenges, the internet remains an essential tool for modern society."
+
+What is the author's overall attitude toward the internet?
+
+【選択肢】
+A. Entirely negative … 完全に否定的
+B. Entirely positive … 完全に肯定的
+C. Balanced, acknowledging both benefits and challenges … バランスの取れた、利点と課題の両方を認識している【正解】
+D. Skeptical about its usefulness … その有用性について懐疑的
+
+【正解の概要（explanation）】
+正解は「Balanced, acknowledging both benefits and challenges」です。本文は「provided unprecedented benefits」と「introduced new challenges」の両方を述べており、最後に「the internet remains an essential tool」と結論づけています。著者はインターネットの利点と課題の両方を認識しながら、全体的には肯定的な見方をしています。
+
+【ヒント（hint）】
+著者はインターネットの利点と課題の両方について述べていますか？
+
+【① 和訳（questionTranslation）】
+【パッセージ全体の和訳】
+「インターネットの発展は、私たちのコミュニケーション、仕事、情報へのアクセス方法を根本的に変えました。インターネットは瞬時のグローバルコミュニケーションや膨大な情報へのアクセスなど、前例のない利点をもたらした一方で、サイバーセキュリティの脅威、偽情報、デジタル格差の問題など、新たな課題ももたらしました。これらの課題にもかかわらず、インターネットは現代社会に不可欠なツールであり続けています。」
+
+【問題文の和訳】
+インターネットに対する著者の全体的な態度は何ですか？
+
+【② 重要単語（vocabularyItems）】
+- fundamentally … 意味: 根本的に、基本的に / カタカナ: ファンダメンタリー / 例: This discovery fundamentally changed science.
+- cybersecurity … 意味: サイバーセキュリティ、情報セキュリティ / カタカナ: サイバーセキュリティ / 例: Cybersecurity is crucial for businesses.
+- misinformation … 意味: 誤った情報、虚偽情報 / カタカナ: ミスインフォメーション / 例: Misinformation spreads quickly online.
+- digital divide … 意味: デジタル格差 / カタカナ: デジタル ディバイド / 例: The digital divide affects rural areas.
+
+【③ カタカナ読み（questionKatakana）】
+【パッセージ全体のカタカナ読み】
+ザ デベロップメント オブ ザ インターネット ハズ ファンダメンタリー チェンジド ハウ ウィー コミュニケート、ワーク、アンド アクセス インフォメーション。ワイル ザ インターネット ハズ プロバイデッド アンプレシデンテッド ベネフィッツ、インクルーディング インスタント グローバル コミュニケーション アンド アクセス トゥ ヴァスト アマウンツ オブ インフォメーション、イット ハズ オールソウ イントロデュースド ニュー チャレンジズ サッチ アズ サイバーセキュリティー スレッツ、ミスインフォメーション、アンド デジタル ディバイド イシューズ。ディスパイト ディーズ チャレンジズ、ザ インターネット リメインズ アン エッセンシャル トゥール フォー モダン ソサイエティー。
+
+【問題文のカタカナ読み】
+ワット イズ ザ オーサーズ オーバーオール アティチュード トゥワード ザ インターネット？
+
+【④ 文法解説（grammarPoints）】
+ルール: 著者の態度・トーンの読み取り
+説明: 学術的な読解では、著者の態度やトーンを読み取ることが重要です。「While...also」「Despite...remains」などの表現から、著者のバランスの取れた見方が読み取れます。
+例文: The author's tone is balanced and objective. = 著者のトーンはバランスが取れており、客観的です。
+
+【⑤ 音読・スピーキング練習（speakingPractice）】
+音読指示: このパッセージを2回音読してください。特に「While...also」と「Despite...remains」という対比表現に注意してください。
+置き換え練習:
+  元文: While the internet has provided unprecedented benefits, including instant global communication and access to vast amounts of information, it has also introduced new challenges.
+  指示: このパターンを使って、他のテクノロジーについて対比的な文を作ってみてください。
+  例: While artificial intelligence has provided unprecedented efficiency, including automation and data analysis, it has also introduced new ethical concerns.
+  例: While social media has provided unprecedented connectivity, including instant communication and community building, it has also introduced new mental health challenges.
+  例: While automation has provided unprecedented productivity, including reduced labor costs and increased output, it has also introduced new employment challenges.
+会話のヒント: 複雑なトピックについて議論するときは、バランスの取れた見方を示すことが重要です。「On one hand...on the other hand」や「While...also」という表現を使って、複数の視点を認識することで、より説得力のある議論ができます。
+
+================================================================================
+■ reading-005
+================================================================================
+【問題文（英語）】
+Read the passage and answer the question.
+
+"Renewable energy sources such as solar and wind power are becoming increasingly important as the world seeks to reduce its dependence on fossil fuels. These energy sources are sustainable because they can be replenished naturally and do not produce greenhouse gas emissions. However, the transition to renewable energy faces significant challenges, including high initial costs, technological limitations, and the need for infrastructure development. Despite these obstacles, many countries are investing heavily in renewable energy to combat climate change and ensure energy security."
+
+What is the main reason countries are investing in renewable energy?
+
+【選択肢】
+A. To reduce initial costs … 初期コストを削減するため
+B. To develop new infrastructure … 新しいインフラを開発するため
+C. To combat climate change and ensure energy security … 気候変動に対抗し、エネルギー安全保障を確保するため【正解】
+D. To overcome technological limitations … 技術的限界を克服するため
+
+【正解の概要（explanation）】
+正解は「To combat climate change and ensure energy security」です。本文の最後に「many countries are investing heavily in renewable energy to combat climate change and ensure energy security」と明確に書かれています。他の選択肢は再生可能エネルギーへの転換における課題であり、投資の理由ではありません。
+
+【ヒント（hint）】
+本文で「countries are investing heavily in renewable energy」の理由として述べられているのは何ですか？
+
+【① 和訳（questionTranslation）】
+【パッセージ全体の和訳】
+「太陽光や風力発電などの再生可能エネルギーは、世界が化石燃料への依存を減らそうとする中、ますます重要になっています。これらのエネルギー源は、自然に補充され、温室効果ガスを排出しないため、持続可能です。しかし、再生可能エネルギーへの移行には、高い初期コスト、技術的限界、インフラ整備の必要性など、大きな課題があります。これらの障害にもかかわらず、多くの国が気候変動に対抗し、エネルギー安全保障を確保するために再生可能エネルギーに多額の投資をしています。」
+
+【問題文の和訳】
+各国が再生可能エネルギーに投資している主な理由は何ですか？
+
+【② 重要単語（vocabularyItems）】
+- renewable … 意味: 再生可能な、更新可能な / カタカナ: リニューアブル / 例: Solar energy is a renewable resource.
+- sustainable … 意味: 持続可能な、サステナブル / カタカナ: サスティナブル / 例: Sustainable development is important.
+- replenished … 意味: 補充された、復元された / カタカナ: リプレニッシュド / 例: Water resources can be replenished.
+- greenhouse gas … 意味: 温室効果ガス / カタカナ: グリーンハウス ガス / 例: Carbon dioxide is a greenhouse gas.
+
+【③ カタカナ読み（questionKatakana）】
+【パッセージ全体のカタカナ読み】
+リニューアブル エナジー ソーシズ サッチ アズ ソーラー アンド ウィンド パワー アー ビカミング インクリーシングリー インポータント アズ ザ ワールド スィークス トゥ リデュース イッツ ディペンデンス オン フォッシル フューエルズ。ディーズ エナジー ソーシズ アー サスティナブル ビコーズ ゼイ キャン ビー リプレニッシュド ナチュラリー アンド ドゥ ノット プロデュース グリーンハウス ガス エミッションズ。ハウエバー、ザ トランジション トゥ リニューアブル エナジー フェイシズ シグニフィカント チャレンジズ、インクルーディング ハイ イニシャル コスツ、テクノロジカル リミテーションズ、アンド ザ ニード フォー インフラストラクチャー デベロップメント。ディスパイト ディーズ オブスタクルズ、メニー カントリーズ アー インベスティング ヘビリー イン リニューアブル エナジー トゥ コンバット クライメット チェンジ アンド エンシュア エナジー セキュリティー。
+
+【問題文のカタカナ読み】
+ワット イズ ザ メイン リーズン カントリーズ アー インベスティング イン リニューアブル エナジー？
+
+【④ 文法解説（grammarPoints）】
+ルール: 因果関係の読み取り
+説明: 学術的な読解では、「why」（なぜ）という因果関係を正確に理解することが重要です。「to」という不定詞が使われている場合、それが目的や理由を表しています。
+例文: Countries are investing in renewable energy to... = 各国は～するために再生可能エネルギーに投資しています。
+
+【⑤ 音読・スピーキング練習（speakingPractice）】
+音読指示: このパッセージを2回音読してください。特に「many countries are investing heavily in renewable energy to combat climate change and ensure energy security」という目的を示す文に注意してください。
+置き換え練習:
+  元文: Many countries are investing heavily in renewable energy to combat climate change and ensure energy security.
+  指示: このパターンを使って、他の政策投資について文を作ってみてください。
+  例: Many governments are investing heavily in education to improve workforce skills and boost economic growth.
+  例: Many organizations are investing heavily in technology to enhance efficiency and remain competitive.
+  例: Many companies are investing heavily in research to develop new products and maintain market leadership.
+会話のヒント: 「to」を使った目的表現は、なぜ何かをするのかを説明するときに非常に役立ちます。「I'm studying hard to pass the exam.」（試験に合格するために一生懸命勉強しています）のように、日常会話でもよく使われます。
+
+================================================================================
+■ ri-001
+================================================================================
+【問題文（英語）】
+Passage: 'Many students struggle with time management in college. Unlike high school, college requires students to balance classes, part-time jobs, and social life without much guidance. Experts suggest creating a weekly schedule and setting specific study hours. Students who manage their time effectively tend to perform better academically.'
+
+What do experts suggest to help with time management?
+
+【選択肢】
+A. Taking fewer classes … 授業数を減らす
+B. Creating a weekly schedule and setting study hours … 週間スケジュールを作りスタディタイムを設定する【正解】
+C. Quitting part-time jobs … アルバイトをやめる
+D. Asking teachers for help every day … 毎日先生に助けを求める
+
+【正解の概要（explanation）】
+「Experts suggest creating a weekly schedule and setting specific study hours（専門家は週間スケジュールを作り特定の学習時間を設定することを勧める）」と書かれています。suggest（提案する）の後の内容が正解です。
+
+【ヒント（hint）】
+「Experts suggest...」に続く提案の内容を確認しましょう。
+
+【① 和訳（questionTranslation）】
+【パッセージ全体の和訳】
+多くの学生が大学での時間管理に苦労しています。高校とは異なり、大学では十分なガイダンスなしに授業、アルバイト、社会生活のバランスを取ることが求められます。専門家は週間スケジュールを作成し、特定の学習時間を設定することを提案しています。時間を効果的に管理する学生は学業成績が優れる傾向があります。
+
+【問題文の和訳】
+専門家が時間管理の助けになると提案しているのは何ですか？
+
+【② 重要単語（vocabularyItems）】
+- struggle with … 意味: 〜に苦労する / カタカナ: ストラグル ウィズ / 例: She struggles with math.
+- tend to … 意味: 〜する傾向がある / カタカナ: テンド トゥ / 例: Students who study daily tend to do better.
+- academically … 意味: 学業的に / カタカナ: アカデミカリー / 例: She is performing well academically.
+
+【③ カタカナ読み（questionKatakana）】
+【パッセージ全体のカタカナ読み】
+メニー スチューデンツ ストラグル ウィズ タイム マネージメント イン カレッジ。アンライク ハイスクール、カレッジ リクワイアーズ スチューデンツ トゥ バランス クラシズ、パートタイム ジョブズ、アンド ソーシャル ライフ ウィザウト マッチ ガイダンス。エクスパーツ サジェスト クリエイティング ア ウィークリー スケジュール アンド セッティング スペシフィック スタディー アワーズ。スチューデンツ フー マネージ ゼア タイム エフェクティブリー テンド トゥ パフォーム ベター アカデミカリー。
+
+【問題文のカタカナ読み】
+ワット ドゥ エクスパーツ サジェスト トゥ ヘルプ ウィズ タイム マネージメント？
+
+【④ 文法解説（grammarPoints）】
+ルール: suggest + -ing（〜することを勧める）
+説明: 「suggest（勧める・提案する）」の後ろは動名詞（-ing）を使います。「Experts suggest creating a schedule.」「I suggest taking a break.」「He suggested leaving early.」suggest の後に to 不定詞は使えないので注意。
+例文: She suggested taking a different route. / The doctor suggested reducing stress. / I suggest starting with the easiest task.
+
+【⑤ 音読・スピーキング練習（speakingPractice）】
+音読指示: 「Experts suggest creating a weekly schedule and setting specific study hours.」を5回音読してください。suggest creating のリンキングに注意しましょう。
+置き換え練習:
+  元文: Experts suggest creating a weekly schedule and setting specific study hours.
+  指示: 時間管理のコツについて話しましょう。
+  例: I suggest making a to-do list every morning.
+  例: Experts recommend breaking large tasks into smaller steps.
+  例: It helps to set a specific time for studying each day.
+会話のヒント: 「I suggest...」（〜をお勧めします）は提案するときの丁寧で natural な表現です。ビジネスや会話で積極的に使いましょう。
+
+================================================================================
+■ ri-002
+================================================================================
+【問題文（英語）】
+Passage: 'Urban gardening is becoming popular in cities. Residents grow vegetables and herbs in small spaces like rooftops, balconies, and community gardens. This practice reduces food costs and helps people connect with their neighbors. It also has environmental benefits, such as reducing the urban heat island effect.'
+
+Which of the following is NOT mentioned as a benefit of urban gardening?
+
+【選択肢】
+A. Reducing food costs … 食費の削減
+B. Connecting with neighbors … 近所とのつながり
+C. Improving physical fitness … 体力の向上【正解】
+D. Reducing the urban heat island effect … ヒートアイランド現象の軽減
+
+【正解の概要（explanation）】
+パッセージに挙げられている恩恵は「reduces food costs（食費削減）」「connect with neighbors（近所付き合い）」「reducing the urban heat island effect（ヒートアイランド軽減）」の3つです。「体力の向上（improving physical fitness）」は述べられていません。
+
+【ヒント（hint）】
+パッセージに書かれていないものを選ぶ「NOT問題」です。パッセージに出てこない選択肢を選びましょう。
+
+【① 和訳（questionTranslation）】
+【パッセージ全体の和訳】
+都市農業が都市部で人気になっています。住民は屋上、バルコニー、コミュニティガーデンなどの小スペースで野菜やハーブを育てています。この取り組みは食費を削減し、近隣住民との交流を深めます。また、都市のヒートアイランド現象を軽減するなどの環境的なメリットもあります。
+
+【問題文の和訳】
+都市農業のメリットとして述べられていないものはどれですか？
+
+【② 重要単語（vocabularyItems）】
+- urban … 意味: 都市の、都市部の / カタカナ: アーバン / 例: Urban areas face many unique challenges.
+- heat island effect … 意味: ヒートアイランド現象 / カタカナ: ヒート アイランド エフェクト / 例: Trees help reduce the heat island effect.
+- resident … 意味: 住民、居住者 / カタカナ: レジデント / 例: Local residents attended the town meeting.
+
+【③ カタカナ読み（questionKatakana）】
+【パッセージ全体のカタカナ読み】
+アーバン ガーデニング イズ ビカミング ポピュラー イン スィティーズ。レジデンツ グロウ ベジタブルズ アンド ハーブズ イン スモール スペイシズ ライク ルーフトップス、バルコニーズ、アンド コミュニティー ガーデンズ。ディス プラクティス リデュースィズ フード コスツ アンド ヘルプス ピープル コネクト ウィズ ゼア ネイバーズ。イット オールソウ ハズ エンバイロンメンタル ベネフィッツ、サッチ アズ リデューシング ザ アーバン ヒート アイランド エフェクト。
+
+【問題文のカタカナ読み】
+ウィッチ オブ ザ フォローイング イズ ノット メンションド アズ ア ベネフィット オブ アーバン ガーデニング？
+
+【④ 文法解説（grammarPoints）】
+ルール: NOT問題（negation question）の解き方
+説明: 「Which is NOT mentioned?」「Which is NOT true?」という問題は、パッセージに書かれていない選択肢を見つける問題です。解法：各選択肢がパッセージのどこに書かれているか確認し、見つからない選択肢が正解です。
+例文: Strategy: Go through each answer choice and find it in the passage. The one you cannot find is the answer.
+
+【⑤ 音読・スピーキング練習（speakingPractice）】
+音読指示: 「Urban gardening reduces food costs and helps people connect with their neighbors.」を5回音読してください。reduces のように -s が3人称単数現在形に付くことに注意しましょう。
+置き換え練習:
+  元文: Urban gardening reduces food costs and helps people connect with neighbors.
+  指示: 活動のメリットを2つ列挙して話しましょう。
+  例: Exercising regularly reduces stress and improves sleep quality.
+  例: Learning a new language boosts brain function and opens career opportunities.
+  例: Volunteering builds community connections and provides personal satisfaction.
+会話のヒント: 「One benefit is... Another benefit is...」（一つのメリットは〜、もう一つは〜）はメリットを複数列挙するときの便利な表現です。
+
+================================================================================
+■ ri-003
+================================================================================
+【問題文（英語）】
+Passage: 'Public transportation reduces traffic congestion and air pollution in cities. Many commuters prefer buses and trains because they are more affordable than owning a car. However, some areas lack adequate public transit options, forcing residents to rely on private vehicles. Improving transit infrastructure requires significant investment from local governments.'
+
+What is one reason commuters prefer public transportation?
+
+【選択肢】
+A. It is always faster than driving … 常に車より速いから
+B. It is more affordable than owning a car … 車を所有するよりも手頃だから【正解】
+C. It is available in all areas … すべての地域で利用できるから
+D. It requires no government investment … 政府の投資が不要だから
+
+【正解の概要（explanation）】
+「Many commuters prefer buses and trains because they are more affordable than owning a car（多くの通勤者はバスや電車を好む、なぜなら車を所有するよりも手頃だから）」と理由が明記されています。
+
+【ヒント（hint）】
+「because（なぜなら）」の後に理由が続きます。
+
+【① 和訳（questionTranslation）】
+【パッセージ全体の和訳】
+公共交通機関は都市の交通渋滞と大気汚染を軽減します。多くの通勤者がバスや電車を好むのは、車を所有するよりも手頃だからです。しかし、一部の地域では十分な公共交通機関がなく、住民が自家用車に頼らざるを得ません。交通インフラの整備には地方政府からの多大な投資が必要です。
+
+【問題文の和訳】
+通勤者が公共交通機関を好む理由の一つは何ですか？
+
+【② 重要単語（vocabularyItems）】
+- congestion … 意味: 渋滞、混雑 / カタカナ: コンジェスチョン / 例: Traffic congestion is bad during rush hour.
+- commuter … 意味: 通勤者 / カタカナ: コミューター / 例: Commuters in Tokyo rely heavily on trains.
+- infrastructure … 意味: インフラ、基盤整備 / カタカナ: インフラストラクチャー / 例: The city needs to improve its infrastructure.
+
+【③ カタカナ読み（questionKatakana）】
+【パッセージ全体のカタカナ読み】
+パブリック トランスポーテーション リデュースィズ トラフィック コンジェスチョン アンド エア ポリューション イン スィティーズ。メニー コミューターズ プリファー バシズ アンド トレインズ ビコーズ ゼイ アー モア アフォーダブル ザン オウニング ア カー。ハウエバー、サム エリアズ ラック アデクワット パブリック トランジット オプションズ、フォーシング レジデンツ トゥ リライ オン プライベート ビヒクルズ。インプルーブング トランジット インフラストラクチャー リクワイアーズ シグニフィカント インベストメント フロム ローカル ガバメンツ。
+
+【問題文のカタカナ読み】
+ワット イズ ワン リーズン コミューターズ プリファー パブリック トランスポーテーション？
+
+【④ 文法解説（grammarPoints）】
+ルール: However を使った逆接
+説明: 「However（しかしながら）」は前の内容に対する反対・制限を示す接続副詞です。「Public transport is affordable. However, some areas lack options.」読解では「However」の前後で主張が変わることに注意しましょう。
+例文: Exercise is important. However, excessive exercise can be harmful. / The plan seems good. However, the cost is too high.
+
+【⑤ 音読・スピーキング練習（speakingPractice）】
+音読指示: 「Many commuters prefer buses and trains because they are more affordable than owning a car.」を5回音読してください。affordable の /əˈfɔːrdəbəl/ というアクセントに注意しましょう。
+置き換え練習:
+  元文: Many commuters prefer buses and trains because they are more affordable.
+  指示: 公共交通機関について話す文を作りましょう。
+  例: I take the train to work because it's faster during rush hour.
+  例: Public transit is more eco-friendly than driving alone.
+  例: The city should invest more in affordable public transportation.
+会話のヒント: 「I prefer taking the train because...」（〜だから電車を好みます）は通勤・通学の方法を説明するときの便利なフレーズです。
+
+================================================================================
+■ ri-004
+================================================================================
+【問題文（英語）】
+Passage: 'Getting enough sleep is essential for good health. Adults need between 7 and 9 hours of sleep per night. Lack of sleep can lead to poor concentration, memory problems, and weakened immune function. Despite knowing this, many people sacrifice sleep for work or entertainment, especially with the rise of late-night screen use.'
+
+What is one consequence of not getting enough sleep?
+
+【選択肢】
+A. Better physical performance … 身体能力の向上
+B. Poor concentration and memory problems … 集中力の低下と記憶の問題【正解】
+C. Increased creativity … 創造性の向上
+D. Lower stress levels … ストレスの軽減
+
+【正解の概要（explanation）】
+「Lack of sleep can lead to poor concentration, memory problems, and weakened immune function（睡眠不足は集中力の低下、記憶の問題、免疫機能の低下を引き起こす可能性がある）」と書かれています。
+
+【ヒント（hint）】
+「Lack of sleep can lead to...」の後に何が続いていますか？
+
+【① 和訳（questionTranslation）】
+【パッセージ全体の和訳】
+十分な睡眠は健康のために不可欠です。大人は1晩に7〜9時間の睡眠が必要です。睡眠不足は集中力の低下、記憶の問題、免疫機能の低下を引き起こす可能性があります。それを知っていても、特に深夜のスクリーン使用の増加により、多くの人が仕事や娯楽のために睡眠を犠牲にしています。
+
+【問題文の和訳】
+十分な睡眠が取れないことの結果の一つは何ですか？
+
+【② 重要単語（vocabularyItems）】
+- lack of … 意味: 〜の不足 / カタカナ: ラック オブ / 例: Lack of exercise leads to health problems.
+- immune function … 意味: 免疫機能 / カタカナ: イミューン ファンクション / 例: Good sleep strengthens immune function.
+- sacrifice … 意味: 犠牲にする / カタカナ: サクリファイス / 例: She sacrificed her vacation to finish the project.
+
+【③ カタカナ読み（questionKatakana）】
+【パッセージ全体のカタカナ読み】
+ゲッティング イナフ スリープ イズ エッセンシャル フォー グッド ヘルス。アダルツ ニード ビトゥウィーン セブン アンド ナイン アワーズ オブ スリープ パー ナイト。ラック オブ スリープ キャン リード トゥ プア コンセントレーション、メモリー プロブレムズ、アンド ウィークンド イミューン ファンクション。ディスパイト ノウイング ディス、メニー ピープル サクリファイス スリープ フォー ワーク オア エンタテインメント、エスペシャリー ウィズ ザ ライズ オブ レイトナイト スクリーン ユーズ。
+
+【問題文のカタカナ読み】
+ワット イズ ワン コンシクエンス オブ ノット ゲッティング イナフ スリープ？
+
+【④ 文法解説（grammarPoints）】
+ルール: lead to + 名詞（〜を引き起こす、〜につながる）
+説明: 「lead to + 名詞/動名詞」は「〜を引き起こす・〜につながる」という表現です。「Lack of sleep leads to health problems.」「Poor diet can lead to disease.」原因と結果を表す読解でよく登場します。
+例文: Stress can lead to serious health issues. / Success leads to more responsibility. / Hard work leads to achievement.
+
+【⑤ 音読・スピーキング練習（speakingPractice）】
+音読指示: 「Lack of sleep can lead to poor concentration, memory problems, and weakened immune function.」を5回音読してください。3つのリストをカンマで区切るリズムを練習しましょう。
+置き換え練習:
+  元文: Lack of sleep can lead to poor concentration and memory problems.
+  指示: sleep と health についての因果関係を話しましょう。
+  例: Getting 8 hours of sleep improves focus and mood.
+  例: Staying up late on your phone can disrupt your sleep cycle.
+  例: A regular sleep schedule leads to better overall health.
+会話のヒント: 「I haven't been sleeping well lately.」（最近あまり眠れていなくて）はよく聞かれる悩みです。「Try going to bed at the same time every night.」（毎晩同じ時間に寝るようにしてみて）とアドバイスしましょう。
+
+================================================================================
+■ ri-005
+================================================================================
+【問題文（英語）】
+Passage: 'Volunteering has many benefits for both individuals and communities. Volunteers gain valuable work experience and develop new skills. It also provides a sense of purpose and improves mental health. Communities benefit from the free services volunteers provide, such as tutoring, food distribution, and elderly care.'
+
+Which of the following is a benefit of volunteering for individuals?
+
+【選択肢】
+A. Earning a high salary … 高い給与を得ること
+B. Gaining work experience and new skills … 仕事の経験と新しいスキルを得ること【正解】
+C. Avoiding social responsibilities … 社会的責任を避けること
+D. Receiving government funding … 政府の資金援助を受けること
+
+【正解の概要（explanation）】
+「Volunteers gain valuable work experience and develop new skills（ボランティアは貴重な職務経験を積み、新しいスキルを身につける）」と個人へのメリットが述べられています。
+
+【ヒント（hint）】
+個人（individuals）へのメリットが書かれた部分を探しましょう。
+
+【① 和訳（questionTranslation）】
+【パッセージ全体の和訳】
+ボランティア活動は個人にとっても地域にとっても多くのメリットがあります。ボランティアは貴重な職務経験を積み、新しいスキルを身につけます。また、目的意識が生まれ、メンタルヘルスも改善されます。地域は、ボランティアが提供する個別指導、食料配給、高齢者ケアなどの無料サービスから恩恵を受けます。
+
+【問題文の和訳】
+個人にとってのボランティアのメリットはどれですか？
+
+【② 重要単語（vocabularyItems）】
+- volunteer … 意味: ボランティア（名詞）/ ボランティアをする（動詞） / カタカナ: ボランティア / 例: She volunteers at the local shelter.
+- sense of purpose … 意味: 目的意識 / カタカナ: センス オブ パーパス / 例: Helping others gives me a sense of purpose.
+- distribution … 意味: 配給、配布 / カタカナ: ディストリビューション / 例: Food distribution was organized by the charity.
+
+【③ カタカナ読み（questionKatakana）】
+【パッセージ全体のカタナ読み】
+ボランティアリング ハズ メニー ベネフィッツ フォー ボウス インディビジュアルズ アンド コミュニティーズ。ボランティアズ ゲイン バリュアブル ワーク エクスペリエンス アンド ディベロップ ニュー スキルズ。イット オールソウ プロバイズ ア センス オブ パーパス アンド インプルーブズ メンタル ヘルス。コミュニティーズ ベネフィット フロム ザ フリー サービシズ ボランティアズ プロバイド。
+
+【問題文のカタカナ読み】
+ウィッチ オブ ザ フォローイング イズ ア ベネフィット オブ ボランティアリング フォー インディビジュアルズ？
+
+【④ 文法解説（grammarPoints）】
+ルール: both A and B（AもBも両方）
+説明: 「both A and B」は「AもBも両方」という意味です。「Volunteering benefits both individuals and communities.」読解問題では、対象が複数ある場合に both A and B でまとめて表現することがよくあります。
+例文: Both students and teachers benefited from the new policy. / The book is both informative and entertaining.
+
+【⑤ 音読・スピーキング練習（speakingPractice）】
+音読指示: 「Volunteering has many benefits for both individuals and communities.」を5回音読してください。both A and B の構造を意識して発音しましょう。
+置き換え練習:
+  元文: Volunteering benefits both individuals and communities.
+  指示: ボランティア活動や社会貢献について話しましょう。
+  例: I volunteer at a food bank every month to give back to the community.
+  例: Volunteering helped me develop communication and leadership skills.
+  例: Many students volunteer abroad to gain international experience.
+会話のヒント: 「Have you ever volunteered?」（ボランティアをしたことがありますか？）「Yes, I used to volunteer at...」（はい、以前〜でボランティアをしていました）は社会参加の話題でよく使われます。
+
+================================================================================
+■ ri-006
+================================================================================
+【問題文（英語）】
+Passage: 'Nutrition plays a key role in physical and mental performance. A diet rich in fruits, vegetables, and whole grains provides the vitamins and minerals the body needs. In contrast, diets high in processed foods and sugar are linked to fatigue, mood swings, and increased risk of chronic disease. Experts recommend limiting sugar intake and increasing fiber consumption.'
+
+What does the passage say about diets high in processed foods?
+
+【選択肢】
+A. They improve physical performance … 身体能力を向上させる
+B. They are linked to fatigue and mood swings … 疲労や気分の波と関係がある【正解】
+C. They are recommended by experts … 専門家に勧められている
+D. They have no effect on health … 健康には影響がない
+
+【正解の概要（explanation）】
+「diets high in processed foods and sugar are linked to fatigue, mood swings, and increased risk of chronic disease（加工食品や砂糖の多い食事は疲労、気分の波、慢性疾患リスクの増大と関連している）」と書かれています。
+
+【ヒント（hint）】
+「diets high in processed foods（加工食品の多い食事）」について書かれた部分を探しましょう。
+
+【① 和訳（questionTranslation）】
+【パッセージ全体の和訳】
+栄養は身体的・精神的パフォーマンスに重要な役割を果たします。果物、野菜、全粒穀物が豊富な食事は、体が必要とするビタミンとミネラルを提供します。それに対し、加工食品や砂糖の多い食事は疲労、気分の波、慢性疾患のリスク増大と関連しています。専門家は砂糖の摂取を制限し、食物繊維の摂取を増やすことを推奨しています。
+
+【問題文の和訳】
+パッセージは加工食品の多い食事についてどのように述べていますか？
+
+【② 重要単語（vocabularyItems）】
+- be linked to … 意味: 〜と関連している / カタカナ: ビー リンクト トゥ / 例: Stress is linked to many health problems.
+- chronic disease … 意味: 慢性疾患 / カタカナ: クロニック ディジーズ / 例: Poor diet increases the risk of chronic disease.
+- in contrast … 意味: それに対して、対照的に / カタカナ: イン コントラスト / 例: In contrast, the second group showed improvement.
+
+【③ カタカナ読み（questionKatakana）】
+【パッセージ全体のカタカナ読み】
+ニュートリション プレイズ ア キー ロール イン フィジカル アンド メンタル パフォーマンス。ア ダイエット リッチ イン フルーツ、ベジタブルズ、アンド ホール グレインズ プロバイズ ザ ビタミンズ アンド ミネラルズ ザ ボディー ニーズ。イン コントラスト、ダイエッツ ハイ イン プロセスト フーズ アンド シュガー アー リンクト トゥ ファティーグ、ムード スウィングズ、アンド インクリースト リスク オブ クロニック ディジーズ。エクスパーツ レコメンド リミティング シュガー インテイク アンド インクリーシング ファイバー コンサンプション。
+
+【問題文のカタカナ読み】
+ワット ダズ ザ パッセージ セイ アバウト ダイエッツ ハイ イン プロセスト フーズ？
+
+【④ 文法解説（grammarPoints）】
+ルール: In contrast を使った対比
+説明: 「In contrast（それとは対照的に）」は前の情報と反対・対比する内容を導入します。「A diet rich in vegetables is healthy. In contrast, a diet high in sugar is harmful.」読解では「In contrast」の前後で対比される内容を整理しましょう。
+例文: City life is fast-paced. In contrast, rural life is calm and quiet. / Some students study alone. In contrast, others prefer group study.
+
+【⑤ 音読・スピーキング練習（speakingPractice）】
+音読指示: 「In contrast, diets high in processed foods and sugar are linked to fatigue and mood swings.」を5回音読してください。In contrast で文頭を始めるリズムを練習しましょう。
+置き換え練習:
+  元文: A healthy diet provides vitamins. In contrast, processed food leads to health problems.
+  指示: In contrast を使って食習慣の対比を話しましょう。
+  例: A Mediterranean diet is rich in healthy fats. In contrast, Western diets are high in processed foods.
+  例: Regular exercise improves mood. In contrast, a sedentary lifestyle contributes to depression.
+  例: Home-cooked meals are nutritious. In contrast, fast food is often high in calories.
+会話のヒント: 「In contrast to what I used to eat...」（以前の食事と対照的に…）は食習慣の変化を説明するときの便利な表現です。
+
+================================================================================
+■ ri-007
+================================================================================
+【問題文（英語）】
+Passage: 'Technology is changing the way students learn. Many schools are now using tablets, online resources, and interactive software in classrooms. Supporters argue that technology makes learning more engaging and prepares students for the digital workplace. Critics, however, warn that excessive screen time and overreliance on technology may reduce critical thinking skills.'
+
+What concern do critics have about technology in education?
+
+【選択肢】
+A. It makes classrooms too expensive … 教室を高価にしすぎる
+B. It may reduce critical thinking skills … 批判的思考力を低下させる可能性がある【正解】
+C. It is not available in most schools … ほとんどの学校で利用できない
+D. It makes students too social … 生徒を社交的にしすぎる
+
+【正解の概要（explanation）】
+「Critics warn that excessive screen time and overreliance on technology may reduce critical thinking skills（批評家は過度のスクリーンタイムと技術への過剰依存が批判的思考力を低下させる可能性があると警告している）」と書かれています。
+
+【ヒント（hint）】
+「Critics（批評家）」が何を「warn（警告している）」かに注目しましょう。
+
+【① 和訳（questionTranslation）】
+【パッセージ全体の和訳】
+テクノロジーは生徒の学び方を変えています。多くの学校で今やタブレット、オンラインリソース、インタラクティブソフトウェアが教室で使われています。支持者は、テクノロジーが学習をより魅力的にし、デジタル職場への準備をさせると主張しています。しかし批評家は、過度のスクリーンタイムとテクノロジーへの過剰依存が批判的思考力を低下させる可能性があると警告しています。
+
+【問題文の和訳】
+批評家が教育における技術についてどんな懸念を持っていますか？
+
+【② 重要単語（vocabularyItems）】
+- engaging … 意味: 魅力的な、引き付ける / カタカナ: エンゲイジング / 例: The lecture was very engaging.
+- overreliance … 意味: 過剰依存 / カタカナ: オーバーリライアンス / 例: Overreliance on GPS has reduced map-reading skills.
+- critical thinking … 意味: 批判的思考（論理的・独立した思考） / カタカナ: クリティカル シンキング / 例: Schools should teach critical thinking.
+
+【③ カタカナ読み（questionKatakana）】
+【パッセージ全体のカタカナ読み】
+テクノロジー イズ チェンジング ザ ウェイ スチューデンツ ラーン。メニー スクールズ アー ナウ ユージング タブレッツ、オンライン リソーシズ、アンド インタラクティブ ソフトウェア イン クラスルームズ。サポーターズ アーギュー ザット テクノロジー メイクス ラーニング モア エンゲイジング アンド プリペアズ スチューデンツ フォー ザ デジタル ワークプレイス。クリティックス、ハウエバー、ウォーン ザット エクセシブ スクリーン タイム アンド オーバーリライアンス オン テクノロジー メイ リデュース クリティカル シンキング スキルズ。
+
+【問題文のカタカナ読み】
+ワット コンサーン ドゥ クリティックス ハブ アバウト テクノロジー イン エデュケーション？
+
+【④ 文法解説（grammarPoints）】
+ルール: Supporters argue... Critics warn...（対立する意見を整理する）
+説明: 学術的な文章では「Supporters argue that...(支持者は〜と主張する)」「Critics warn that...(批評家は〜と警告する)」のように、賛否両論を対比して提示します。読解では「who said what」を区別することが重要です。
+例文: Proponents claim the policy will create jobs. Opponents argue it will increase costs. / Supporters say technology improves learning. Critics fear it reduces focus.
+
+【⑤ 音読・スピーキング練習（speakingPractice）】
+音読指示: 「Critics warn that excessive screen time may reduce critical thinking skills.」を5回音読してください。critical thinking をはっきり発音しましょう。
+置き換え練習:
+  元文: Supporters argue technology makes learning engaging. Critics warn it may reduce critical thinking.
+  指示: テクノロジーと教育について賛否を話しましょう。
+  例: Some argue that AI will improve education; others fear it will replace teachers.
+  例: Tablets can make learning fun, but students may become too dependent on them.
+  例: I think technology is helpful as long as it is used in a balanced way.
+会話のヒント: 「On one hand... On the other hand...」（一方では〜、他方では〜）は両面から意見を述べるときの便利な表現です。ディスカッションで使いましょう。
+
+================================================================================
+■ ri-008
+================================================================================
+【問題文（英語）】
+Passage: 'Reading for pleasure is declining among young people. Research shows that teenagers spend more time on social media than reading books. This concerns educators because regular reading improves vocabulary, concentration, and empathy. Some schools are introducing 'free reading time' during the school day to encourage the habit.'
+
+Why do educators find the decline in reading concerning?
+
+【選択肢】
+A. Because it increases social media use … SNSの使用が増えるから
+B. Because reading improves vocabulary, concentration, and empathy … 読書は語彙・集中力・共感力を高めるから【正解】
+C. Because schools have no free time … 学校に自由時間がないから
+D. Because books are too expensive … 本が高すぎるから
+
+【正解の概要（explanation）】
+「This concerns educators because regular reading improves vocabulary, concentration, and empathy（読書習慣の低下が教育者を心配させるのは、定期的な読書が語彙・集中力・共感力を向上させるからだ）」と because 節に理由が書かれています。
+
+【ヒント（hint）】
+「because（なぜなら）」の後に理由が続きます。教育者が心配する理由を探しましょう。
+
+【① 和訳（questionTranslation）】
+【パッセージ全体の和訳】
+若者の間で楽しみのための読書が減っています。研究によると、10代の若者は本を読むよりもSNSに多くの時間を費やしています。これが教育者を心配させているのは、定期的な読書が語彙、集中力、共感力を向上させるからです。一部の学校では、習慣を促進するために授業中に「自由読書の時間」を導入しています。
+
+【問題文の和訳】
+なぜ教育者は読書離れを懸念しているのですか？
+
+【② 重要単語（vocabularyItems）】
+- decline … 意味: 低下、減少（名詞）/ 低下する（動詞） / カタカナ: ディクライン / 例: There has been a decline in book sales.
+- empathy … 意味: 共感力、感情移入 / カタカナ: エンパシー / 例: Reading fiction develops empathy.
+- encourage … 意味: 促進する、勧める / カタカナ: エンカレッジ / 例: Parents should encourage children to read.
+
+【③ カタカナ読み（questionKatakana）】
+【パッセージ全体のカタカナ読み】
+リーディング フォー プレジャー イズ ディクライニング アマング ヤング ピープル。リサーチ ショウズ ザット ティーンエイジャーズ スペンド モア タイム オン ソーシャル メディア ザン リーディング ブックス。ディス コンサーンズ エデュケイターズ ビコーズ レギュラー リーディング インプルーブズ ボキャブラリー、コンセントレーション、アンド エンパシー。サム スクールズ アー イントロデューシング フリー リーディング タイム ダリング ザ スクール デイ トゥ エンカレッジ ザ ハビット。
+
+【問題文のカタカナ読み】
+ホワイ ドゥ エデュケイターズ ファインド ザ ディクライン イン リーディング コンサーニング？
+
+【④ 文法解説（grammarPoints）】
+ルール: This concerns educators because...（理由を示す because）
+説明: 読解問題では「Why does...?」という質問に対して「because + 理由」を本文から探します。「This concerns educators because reading improves vocabulary.」という文では「because」以下が理由です。
+例文: This worries doctors because it can lead to health problems. / This excites students because it makes learning fun.
+
+【⑤ 音読・スピーキング練習（speakingPractice）】
+音読指示: 「Regular reading improves vocabulary, concentration, and empathy.」を5回音読してください。vocabulary, concentration, and empathy の3語を明確に発音しましょう。
+置き換え練習:
+  元文: Regular reading improves vocabulary, concentration, and empathy.
+  指示: 読書の習慣と効果について話しましょう。
+  例: I try to read for 30 minutes before bed to improve my English vocabulary.
+  例: Reading novels helps me understand different perspectives and cultures.
+  例: My school introduced silent reading time every morning, and I think it really helps.
+会話のヒント: 「What kind of books do you enjoy reading?」（どんな本を読むのが好きですか？）は共通の話題を見つけるための会話のきっかけになります。
+
+================================================================================
+■ ri-009
+================================================================================
+【問題文（英語）】
+Passage: 'Cultural diversity in the workplace has many advantages. Companies with diverse teams tend to be more creative because employees bring different perspectives and experiences. However, managing a diverse team requires strong communication skills and cultural awareness. Without proper training, misunderstandings can arise and affect team performance.'
+
+What can happen without proper training in a diverse team?
+
+【選択肢】
+A. Teams become more creative … チームがより創造的になる
+B. Misunderstandings can arise and affect performance … 誤解が生じ業績に影響する可能性がある【正解】
+C. Employees share the same perspective … 社員が同じ視点を持つ
+D. Companies lose money immediately … 会社がすぐに損失を出す
+
+【正解の概要（explanation）】
+「Without proper training, misunderstandings can arise and affect team performance（適切なトレーニングなしでは誤解が生じ、チームのパフォーマンスに影響する可能性がある）」と書かれています。
+
+【ヒント（hint）】
+「Without proper training（適切なトレーニングなしでは）」の後に何が続きますか？
+
+【① 和訳（questionTranslation）】
+【パッセージ全体の和訳】
+職場における文化的多様性には多くのメリットがあります。多様なチームを持つ企業は、従業員が異なる視点や経験を持ち込むため、より創造的になる傾向があります。しかし、多様なチームを管理するには強力なコミュニケーション能力と文化的認識が必要です。適切なトレーニングがなければ誤解が生じ、チームのパフォーマンスに影響することがあります。
+
+【問題文の和訳】
+多様なチームで適切なトレーニングなしに何が起こりうるのですか？
+
+【② 重要単語（vocabularyItems）】
+- diversity … 意味: 多様性 / カタカナ: ダイバーシティー / 例: Diversity in the workplace leads to innovation.
+- perspective … 意味: 視点、観点 / カタカナ: パースペクティブ / 例: Try to see things from a different perspective.
+- arise … 意味: （問題などが）生じる、起こる / カタカナ: アライズ / 例: New problems arose during the project.
+
+【③ カタカナ読み（questionKatakana）】
+【パッセージ全体のカタカナ読み】
+カルチャラル ダイバーシティー イン ザ ワークプレイス ハズ メニー アドバンテージズ。カンパニーズ ウィズ ダイバース ティームズ テンド トゥ ビー モア クリエイティブ ビコーズ エンプロイーズ ブリング ディファレント パースペクティブズ アンド エクスペリエンシズ。ハウエバー、マネージング ア ダイバース ティーム リクワイアーズ ストロング コミュニケーション スキルズ アンド カルチャラル アウェアネス。ウィザウト プロパー トレーニング、ミスアンダースタンディングズ キャン アライズ アンド アフェクト ティーム パフォーマンス。
+
+【問題文のカタカナ読み】
+ワット キャン ハプン ウィザウト プロパー トレーニング イン ア ダイバース ティーム？
+
+【④ 文法解説（grammarPoints）】
+ルール: Without + 名詞（〜なしでは）
+説明: 「Without + 名詞/動名詞」は「〜がなければ、〜なしでは」という条件を表します。「Without proper training, mistakes can happen.」「Without water, plants cannot survive.」読解では否定条件の結果を確認しましょう。
+例文: Without effort, success is impossible. / Without communication, relationships fail. / Without sleep, the body cannot recover.
+
+【⑤ 音読・スピーキング練習（speakingPractice）】
+音読指示: 「Without proper training, misunderstandings can arise and affect team performance.」を5回音読してください。Without の後の条件節をはっきり発音しましょう。
+置き換え練習:
+  元文: Without proper training, misunderstandings can arise.
+  指示: 文化的多様性とコミュニケーションについて話しましょう。
+  例: Without cultural awareness, it's easy to offend someone unintentionally.
+  例: Effective communication is key to managing a diverse team.
+  例: I think diversity makes teams more creative and productive.
+会話のヒント: 「Without good communication, no team can succeed.」（良いコミュニケーションなしではどんなチームも成功できない）はチームワークを語る場面でよく使われる表現です。
+
+================================================================================
+■ ri-010
+================================================================================
+【問題文（英語）】
+Passage: 'Local farmers markets provide fresh, seasonal produce directly to consumers. They support small farmers and help reduce the carbon footprint associated with transporting food long distances. Shopping at a farmers market also gives people the opportunity to connect with producers and learn about where their food comes from.'
+
+What is one environmental benefit of shopping at a farmers market?
+
+【選択肢】
+A. Food is cheaper than at supermarkets … スーパーより安い食品
+B. It reduces the carbon footprint from food transportation … 食品輸送による炭素排出量を削減する【正解】
+C. Farmers markets are open every day … 毎日開かれている
+D. Consumers can cook at the market … マーケットで料理できる
+
+【正解の概要（explanation）】
+「help reduce the carbon footprint associated with transporting food long distances（食品を長距離輸送することに関連する炭素排出量の削減に役立つ）」と環境面のメリットが述べられています。
+
+【ヒント（hint）】
+パッセージの中で「carbon footprint（炭素排出量）」について書かれた部分を探しましょう。
+
+【① 和訳（questionTranslation）】
+【パッセージ全体の和訳】
+地元のファーマーズマーケットは、消費者に新鮮な旬の農産物を直接提供します。小農家を支援し、食品を長距離輸送することに関連する炭素排出量の削減に役立ちます。ファーマーズマーケットでの買い物は、生産者と交流し食品の産地について学ぶ機会も与えてくれます。
+
+【問題文の和訳】
+ファーマーズマーケットでの買い物の環境面のメリットの一つは何ですか？
+
+【② 重要単語（vocabularyItems）】
+- carbon footprint … 意味: 炭素排出量 / カタカナ: カーボン フットプリント / 例: Eating local food reduces your carbon footprint.
+- seasonal … 意味: 旬の、季節の / カタカナ: スィーズナル / 例: I prefer seasonal fruits and vegetables.
+- associated with … 意味: 〜と関連した / カタカナ: アソシエイテッド ウィズ / 例: The risks associated with smoking are well known.
+
+【③ カタカナ読み（questionKatakana）】
+【パッセージ全体のカタカナ読み】
+ローカル ファーマーズ マーケッツ プロバイド フレッシュ、スィーズナル プロデュース ダイレクトリー トゥ コンシューマーズ。ゼイ サポート スモール ファーマーズ アンド ヘルプ リデュース ザ カーボン フットプリント アソシエイテッド ウィズ トランスポーティング フード ロング ディスタンシズ。ショッピング アット ア ファーマーズ マーケット オールソウ ギブズ ピープル ザ オポチュニティー トゥ コネクト ウィズ プロデューサーズ アンド ラーン アバウト ウェア ゼア フード カムズ フロム。
+
+【問題文のカタカナ読み】
+ワット イズ ワン エンバイロンメンタル ベネフィット オブ ショッピング アット ア ファーマーズ マーケット？
+
+【④ 文法解説（grammarPoints）】
+ルール: associated with（分詞句での名詞修飾）
+説明: 「associated with（〜と関連した）」は過去分詞を使った分詞句で直前の名詞を修飾します。「the carbon footprint associated with transporting food」=「食品輸送と関連した炭素排出量」。このような分詞句は academic writing でよく使われます。
+例文: The risks associated with smoking are serious. / The costs associated with the project were high.
+
+【⑤ 音読・スピーキング練習（speakingPractice）】
+音読指示: 「Shopping at a farmers market helps reduce the carbon footprint from transporting food long distances.」を5回音読してください。carbon footprint をはっきり発音しましょう。
+置き換え練習:
+  元文: Shopping at a farmers market reduces the carbon footprint from food transport.
+  指示: 環境に配慮した行動について話しましょう。
+  例: Buying locally grown food is one way to reduce environmental impact.
+  例: I try to choose seasonal produce to support local farmers and the environment.
+  例: Reducing food waste is an important way to lower our carbon footprint.
+会話のヒント: 「Do you try to buy locally?」（地元産を買うようにしていますか？）は環境問題に関心のある人との話題に自然に使えるフレーズです。
+
+================================================================================
+■ ri-011
+================================================================================
+【問題文（英語）】
+Passage: 'Exercise has well-documented mental health benefits. Physical activity releases endorphins, which are natural mood elevators. Regular exercise has also been shown to reduce symptoms of depression and anxiety. Some mental health professionals now recommend exercise as a complementary treatment alongside traditional therapy.'
+
+How do some mental health professionals view exercise?
+
+【選択肢】
+A. As a replacement for all medication … あらゆる薬の代替として
+B. As a complementary treatment alongside therapy … 従来の治療と並行する補助的な治療として【正解】
+C. As harmful to mental health … メンタルヘルスに有害なものとして
+D. As only useful for physical health … 身体的健康にのみ有益なものとして
+
+【正解の概要（explanation）】
+「Some mental health professionals now recommend exercise as a complementary treatment alongside traditional therapy（一部のメンタルヘルス専門家は従来の治療と並行する補助的な治療として運動を勧めている）」と書かれています。
+
+【ヒント（hint）】
+「Some mental health professionals now recommend...」の部分を確認しましょう。
+
+【① 和訳（questionTranslation）】
+【パッセージ全体の和訳】
+運動がメンタルヘルスに与える恩恵はよく記録されています。身体活動はエンドルフィンを放出し、これは天然の気分向上物質です。定期的な運動はうつ病や不安症の症状を軽減することも示されています。一部のメンタルヘルス専門家は今や、従来の治療と並行する補助的な治療として運動を勧めています。
+
+【問題文の和訳】
+一部のメンタルヘルス専門家は運動をどのように見ていますか？
+
+【② 重要単語（vocabularyItems）】
+- endorphin … 意味: エンドルフィン（神経物質） / カタカナ: エンドルフィン / 例: Exercise releases endorphins that boost mood.
+- complementary … 意味: 補完的な、補助的な / カタカナ: コンプリメンタリー / 例: Acupuncture is a complementary treatment.
+- alongside … 意味: 〜と並行して、〜と一緒に / カタカナ: アロングサイド / 例: Diet works best alongside regular exercise.
+
+【③ カタカナ読み（questionKatakana）】
+【パッセージ全体のカタカナ読み】
+エクササイズ ハズ ウェル ドキュメンテッド メンタル ヘルス ベネフィッツ。フィジカル アクティビティー リリーシズ エンドルフィンズ、ウィッチ アー ナチュラル ムード エレベイターズ。レギュラー エクササイズ ハズ オールソウ ビーン ショウン トゥ リデュース シンプトムズ オブ ディプレッション アンド アングザイエティー。サム メンタル ヘルス プロフェッショナルズ ナウ レコメンド エクササイズ アズ ア コンプリメンタリー トリートメント アロングサイド トラディショナル セラピー。
+
+【問題文のカタカナ読み】
+ハウ ドゥ サム メンタル ヘルス プロフェッショナルズ ビュー エクササイズ？
+
+【④ 文法解説（grammarPoints）】
+ルール: recommend + 名詞 + as（〜として勧める）
+説明: 「recommend A as B（AをBとして勧める）」は推薦の表現です。「Professionals recommend exercise as a treatment.」「Doctors recommend yoga as a stress reliever.」recommend の後は名詞または動名詞が続きます。
+例文: She recommended the book as a great resource. / He recommended walking as a form of exercise.
+
+【⑤ 音読・スピーキング練習（speakingPractice）】
+音読指示: 「Mental health professionals recommend exercise as a complementary treatment alongside traditional therapy.」を5回音読してください。complementary の /ˌkɒmplɪˈmentəri/ というアクセントに注意しましょう。
+置き換え練習:
+  元文: Exercise is recommended as a complementary treatment for depression.
+  指示: 運動とメンタルヘルスについて話しましょう。
+  例: Going for a walk when I'm stressed really helps clear my mind.
+  例: Regular exercise has improved my mood and energy levels significantly.
+  例: I think schools should encourage daily physical activity to support student well-being.
+会話のヒント: 「Exercise really helps me manage stress.」（運動がストレス管理にとても役立っています）は健康について話すときの自然な表現です。
+
+================================================================================
+■ ri-012
+================================================================================
+【問題文（英語）】
+Passage: 'Many cities are facing housing shortages due to rapid population growth. As a result, housing prices have risen sharply, making it difficult for low and middle-income families to afford homes. Local governments are responding with policies such as rent control, subsidized housing programs, and zoning changes to encourage more construction.'
+
+What has caused housing prices to rise?
+
+【選択肢】
+A. Decrease in construction workers … 建設労働者の減少
+B. Rapid population growth … 急速な人口増加【正解】
+C. Government spending cuts … 政府支出の削減
+D. Lower demand for housing … 住宅需要の低下
+
+【正解の概要（explanation）】
+「Many cities are facing housing shortages due to rapid population growth（急速な人口増加による住宅不足）」→「housing prices have risen sharply（住宅価格が急上昇）」という因果関係が示されています。
+
+【ヒント（hint）】
+「due to（〜が原因で）」という表現に注目しましょう。
+
+【① 和訳（questionTranslation）】
+【パッセージ全体の和訳】
+多くの都市が急速な人口増加による住宅不足に直面しています。その結果、住宅価格が急上昇し、低中所得世帯が住居を購入することが難しくなっています。地方政府は家賃規制、住宅補助プログラム、建設を促進するゾーニング変更などの政策で対応しています。
+
+【問題文の和訳】
+何が住宅価格の上昇を引き起こしましたか？
+
+【② 重要単語（vocabularyItems）】
+- due to … 意味: 〜が原因で / カタカナ: デュー トゥ / 例: The flight was delayed due to bad weather.
+- shortage … 意味: 不足 / カタカナ: ショーテージ / 例: There is a shortage of qualified teachers.
+- subsidized … 意味: 補助金を受けた、公費支援の / カタカナ: サブシダイズド / 例: Subsidized housing is available for low-income families.
+
+【③ カタカナ読み（questionKatakana）】
+【パッセージ全体のカタカナ読み】
+メニー スィティーズ アー フェイシング ハウジング ショーテージズ デュー トゥ ラピッド ポピュレーション グロウス。アズ ア リザルト、ハウジング プライシズ ハブ ライズン シャープリー、メイキング イット ディフィカルト フォー ロウ アンド ミドル インカム ファミリーズ トゥ アフォード ホームズ。ローカル ガバメンツ アー リスポンディング ウィズ ポリシーズ サッチ アズ レント コントロール、サブシダイズド ハウジング プログラムズ、アンド ゾーニング チェンジズ トゥ エンカレッジ モア コンストラクション。
+
+【問題文のカタカナ読み】
+ワット ハズ コーズド ハウジング プライシズ トゥ ライズ？
+
+【④ 文法解説（grammarPoints）】
+ルール: due to vs because of（原因を表す表現）
+説明: 「due to + 名詞（〜が原因で）」は formal な表現。「because of + 名詞」はより日常的。どちらも後ろに名詞（句）を置きます。「The shortage is due to population growth.」「The flight was canceled because of the storm.」
+例文: Due to heavy rain, the game was postponed. / She was absent because of illness. / The delay was due to technical problems.
+
+【⑤ 音読・スピーキング練習（speakingPractice）】
+音読指示: 「Housing prices have risen sharply due to rapid population growth.」を5回音読してください。due to の発音とアクセントを練習しましょう。
+置き換え練習:
+  元文: Housing prices have risen sharply due to rapid population growth.
+  指示: 都市問題や住宅について話しましょう。
+  例: Rent in big cities has increased dramatically due to high demand.
+  例: Many young people cannot afford to buy a home due to rising prices.
+  例: The government needs to build more affordable housing for low-income families.
+会話のヒント: 「Housing is a real issue where I live.」（私の地域では住宅問題は深刻です）は社会問題を話題にするときの入り口として使えます。
+
+================================================================================
+■ ri-013
+================================================================================
+【問題文（英語）】
+Passage: 'Study habits have a significant impact on academic performance. Research suggests that active learning strategies, such as summarizing notes, self-testing, and teaching others, are more effective than passive reading. Students who space out their study sessions over time tend to retain information better than those who cram the night before an exam.'
+
+What does research suggest about active learning?
+
+【選択肢】
+A. It is less effective than passive reading … 受動的な読書より効果が低い
+B. It is more effective than passive reading … 受動的な読書より効果が高い【正解】
+C. It should be done the night before an exam … 試験前夜に行うべきだ
+D. It only works for certain subjects … 特定の科目にしか効果がない
+
+【正解の概要（explanation）】
+「active learning strategies...are more effective than passive reading（アクティブラーニングは受動的な読書より効果的）」と明記されています。比較表現の more effective than に注目します。
+
+【ヒント（hint）】
+「more effective than（〜より効果的）」という比較表現を探しましょう。
+
+【① 和訳（questionTranslation）】
+【パッセージ全体の和訳】
+学習習慣は学業成績に大きな影響を与えます。研究によると、ノートを要約する、自己テストをする、他者に教えるなどのアクティブラーニング戦略は、受動的な読書よりも効果的です。学習を時間をかけて分散させる学生は、試験前夜に一気に詰め込む学生よりも情報をよく保持する傾向があります。
+
+【問題文の和訳】
+研究はアクティブラーニングについて何を示唆していますか？
+
+【② 重要単語（vocabularyItems）】
+- self-testing … 意味: 自己テスト（問題を自分で出して解く） / カタカナ: セルフ テスティング / 例: Self-testing is one of the best ways to study.
+- retain … 意味: 保持する、記憶しておく / カタカナ: リテイン / 例: We retain information better when we are interested.
+- cram … 意味: （試験前に）詰め込む、一夜漬けする / カタカナ: クラム / 例: Cramming the night before doesn't work well.
+
+【③ カタカナ読み（questionKatakana）】
+【パッセージ全体のカタカナ読み】
+スタディー ハビッツ ハブ ア シグニフィカント インパクト オン アカデミック パフォーマンス。リサーチ サジェスツ ザット アクティブ ラーニング ストラテジーズ、サッチ アズ サマライジング ノーツ、セルフ テスティング、アンド ティーチング アザーズ、アー モア エフェクティブ ザン パッシブ リーディング。スチューデンツ フー スペイス アウト ゼア スタディー セッションズ オーバー タイム テンド トゥ リテイン インフォメーション ベター ザン ゾウズ フー クラム ザ ナイト ビフォア アン イグザム。
+
+【問題文のカタカナ読み】
+ワット ダズ リサーチ サジェスト アバウト アクティブ ラーニング？
+
+【④ 文法解説（grammarPoints）】
+ルール: such as を使った例示
+説明: 「such as（〜など、〜のような）」は具体例を挙げるときに使います。「active learning strategies, such as summarizing, self-testing, and teaching others」。読解では「such as」の後に具体的な例が続くことに注意しましょう。
+例文: Healthy foods, such as fruits and vegetables, are rich in vitamins. / Outdoor activities, such as hiking and cycling, are good for health.
+
+【⑤ 音読・スピーキング練習（speakingPractice）】
+音読指示: 「Active learning strategies, such as summarizing notes and self-testing, are more effective than passive reading.」を5回音読してください。such as のリズムを意識しましょう。
+置き換え練習:
+  元文: Active learning is more effective than passive reading.
+  指示: 効果的な学習法について話しましょう。
+  例: I find that making flashcards and quizzing myself helps me remember vocabulary.
+  例: Teaching concepts to others is the best way to truly understand them.
+  例: I study for one hour daily rather than cramming the night before a test.
+会話のヒント: 「What's your study strategy?」（勉強のやり方はどうしていますか？）はクラスメートとの自然な会話のきっかけになります。
+
+================================================================================
+■ ri-014
+================================================================================
+【問題文（英語）】
+Passage: 'Recycling plays an important role in waste management. By converting used materials into new products, recycling reduces the amount of waste sent to landfills and lowers greenhouse gas emissions. However, not all materials are recyclable, and contamination of recyclables with non-recyclable waste can reduce the effectiveness of recycling programs.'
+
+What problem can reduce the effectiveness of recycling?
+
+【選択肢】
+A. Using too many recycling bins … リサイクルビンを使いすぎる
+B. Contamination with non-recyclable waste … リサイクルできないゴミによる汚染【正解】
+C. Producing too many new products … 新製品を作りすぎる
+D. High government investment … 政府の高額な投資
+
+【正解の概要（explanation）】
+「contamination of recyclables with non-recyclable waste can reduce the effectiveness of recycling programs（リサイクル不可なゴミがリサイクル可能物に混入するとリサイクルプログラムの効果が低下する）」と書かれています。
+
+【ヒント（hint）】
+「can reduce the effectiveness（効果を低下させる可能性がある）」につながるのは何ですか？
+
+【① 和訳（questionTranslation）】
+【パッセージ全体の和訳】
+リサイクルは廃棄物管理において重要な役割を担っています。使用済み素材を新しい製品に変換することで、リサイクルは埋立地へのゴミ量を減らし、温室効果ガスの排出を抑えます。しかし、すべての素材がリサイクル可能なわけではなく、リサイクル物へのリサイクル不可物の混入はリサイクルプログラムの効果を低下させることがあります。
+
+【問題文の和訳】
+何がリサイクルの効果を低下させる可能性がありますか？
+
+【② 重要単語（vocabularyItems）】
+- landfill … 意味: 埋立地 / カタカナ: ランドフィル / 例: Landfills produce methane gas.
+- contamination … 意味: 汚染、混入 / カタカナ: コンタミネーション / 例: Contamination of water sources is a serious problem.
+- greenhouse gas … 意味: 温室効果ガス / カタカナ: グリーンハウス ガス / 例: Carbon dioxide is a major greenhouse gas.
+
+【③ カタカナ読み（questionKatakana）】
+【パッセージ全体のカタカナ読み】
+リサイクリング プレイズ アン インポータント ロール イン ウェイスト マネージメント。バイ コンバーティング ユーズド マテリアルズ イントゥ ニュー プロダクツ、リサイクリング リデュースィズ ザ アマウント オブ ウェイスト セント トゥ ランドフィルズ アンド ロワーズ グリーンハウス ガス エミッションズ。ハウエバー、ノット オール マテリアルズ アー リサイクラブル、アンド コンタミネーション オブ リサイクラブルズ ウィズ ノン リサイクラブル ウェイスト キャン リデュース ザ エフェクティブネス オブ リサイクリング プログラムズ。
+
+【問題文のカタカナ読み】
+ワット プロブレム キャン リデュース ザ エフェクティブネス オブ リサイクリング？
+
+【④ 文法解説（grammarPoints）】
+ルール: By + -ing（〜することによって：手段）
+説明: 「By + -ing」は手段や方法を表します。「By converting materials into new products, recycling reduces waste.」（素材を変換することで廃棄物を減らす）。By 節は文頭または文末に置けます。
+例文: By exercising regularly, you can improve your health. / She learned English by watching TV shows. / By saving energy, we reduce our carbon footprint.
+
+【⑤ 音読・スピーキング練習（speakingPractice）】
+音読指示: 「By converting used materials into new products, recycling reduces the amount of waste sent to landfills.」を5回音読してください。converting をはっきり発音しましょう。
+置き換え練習:
+  元文: By recycling, we reduce waste and lower greenhouse gas emissions.
+  指示: 環境保護の手段について話しましょう。
+  例: By using reusable bags, we can reduce plastic waste.
+  例: By taking public transportation, you can lower your carbon footprint.
+  例: By sorting recyclables properly, we can make recycling programs more effective.
+会話のヒント: 「Do you recycle at home?」（自宅でリサイクルをしていますか？）は環境について話すきっかけになります。日本のごみ分別ルールを英語で説明できると非常に印象的です。
+
+================================================================================
+■ ri-015
+================================================================================
+【問題文（英語）】
+Passage: 'Language learning requires consistent practice and exposure to the target language. Immersion programs, where students are surrounded by the language all day, are highly effective. However, they are not always accessible. For those unable to study abroad, alternatives such as language exchange partners, apps, and online tutors can provide meaningful practice opportunities.'
+
+What does the passage say about immersion programs?
+
+【選択肢】
+A. They are not effective for learning languages … 言語習得に効果がない
+B. They are highly effective but not always accessible … 非常に効果的だが、常に利用できるわけではない【正解】
+C. They are available online for free … オンラインで無料で利用できる
+D. They replace all other learning methods … 他のすべての学習法を置き換える
+
+【正解の概要（explanation）】
+「Immersion programs...are highly effective. However, they are not always accessible.（イマージョンプログラムは非常に効果的だが、常に利用できるわけではない）」と両面が述べられています。
+
+【ヒント（hint）】
+「highly effective」と「However」の後の制限に注目しましょう。
+
+【① 和訳（questionTranslation）】
+【パッセージ全体の和訳】
+言語学習には継続的な練習と対象言語への触れ合いが必要です。一日中その言語に囲まれるイマージョンプログラムは非常に効果的です。しかし、常に利用できるわけではありません。海外留学できない人には、言語交換パートナー、アプリ、オンライン家庭教師などの代替手段が有意義な練習機会を提供できます。
+
+【問題文の和訳】
+パッセージはイマージョンプログラムについて何と述べていますか？
+
+【② 重要単語（vocabularyItems）】
+- immersion … 意味: （言語）没入、イマージョン / カタカナ: イマージョン / 例: Total immersion is the fastest way to learn a language.
+- accessible … 意味: 利用・アクセスしやすい / カタカナ: アクセシブル / 例: Online courses are accessible to everyone.
+- language exchange … 意味: 言語交換（お互いの言語を教え合う） / カタカナ: ランゲージ エクスチェンジ / 例: I practice English through language exchange with an American friend.
+
+【③ カタカナ読み（questionKatakana）】
+【パッセージ全体のカタカナ読み】
+ランゲージ ラーニング リクワイアーズ コンシステント プラクティス アンド エクスポージャー トゥ ザ ターゲット ランゲージ。イマージョン プログラムズ、ウェア スチューデンツ アー サラウンデッド バイ ザ ランゲージ オール デイ、アー ハイリー エフェクティブ。ハウエバー、ゼイ アー ノット オールウェイズ アクセシブル。フォー ゾウズ アネイブル トゥ スタディー アブロード、オルタナティブズ サッチ アズ ランゲージ エクスチェンジ パートナーズ、アップス、アンド オンライン チューターズ キャン プロバイド ミーニングフル プラクティス オポチュニティーズ。
+
+【問題文のカタカナ読み】
+ワット ダズ ザ パッセージ セイ アバウト イマージョン プログラムズ？
+
+【④ 文法解説（grammarPoints）】
+ルール: where 関係副詞（先行詞が場所以外の場合）
+説明: 「Immersion programs, where students are surrounded by the language all day」の where は関係副詞で、「イマージョンプログラムにおいて（その状況で）学生は〜」という意味の非制限用法です。where は場所だけでなく状況・状態を説明するときにも使えます。
+例文: A situation where everyone cooperates leads to success. / An environment where students feel safe encourages learning.
+
+【⑤ 音読・スピーキング練習（speakingPractice）】
+音読指示: 「Immersion programs are highly effective. However, they are not always accessible.」を5回音読してください。However の後のコンマ（ポーズ）を意識して発音しましょう。
+置き換え練習:
+  元文: Immersion programs are effective but not always accessible.
+  指示: 言語学習の方法について話しましょう。
+  例: I practice English by watching YouTube videos and talking with international classmates.
+  例: Language exchange apps are a great alternative to studying abroad.
+  例: Even without immersion, consistent daily practice can make a big difference.
+会話のヒント: 「How do you practice English outside of class?」（授業以外でどうやって英語を練習していますか？）はクラスメートや先生からよく聞かれる質問です。自分の方法を具体的に話せると印象が上がります。
+================================================================================
+（以上 中級読解20問：reading-001〜reading-005、続けて ri-001〜ri-015）

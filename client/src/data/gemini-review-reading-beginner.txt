@@ -1,0 +1,1089 @@
+================================================================================
+ジェミニ添削用：読解・初級 20問（問題全文＋解説一式）
+出典: client/src/data/reading-beginner.ts と同一内容
+================================================================================
+
+【依頼文（そのままコピーして先頭に付けてもOK）】
+以下は英語学習アプリの「読解・初級」20問です。各問は短いパッセージと質問で構成されています。各問について、(1) パッセージ・質問文・選択肢・正解が英語として妥当か、(2) 日本語の解説・和訳・用語説明に誤りや不自然さがないか、(3) カタカナ表記（パッセージおよび質問の読み）が発音の目安として適切か、を指摘してください。問題がなければ「問題なし」と簡潔に。
+
+================================================================================
+■ rb-001
+================================================================================
+【問題文（英語）】
+Passage: 'Maria wakes up at 7:00 every morning. She eats breakfast and then takes a shower. After that, she walks to school. Classes start at 8:30.'
+
+What does Maria do after breakfast?
+
+【選択肢】
+A. She goes to school immediately … すぐに学校へ行く
+B. She takes a shower … シャワーを浴びる【正解】
+C. She watches TV … テレビを見る
+D. She reads a book … 本を読む
+
+【正解の概要（explanation）】
+パッセージによると、マリアは朝食の後（after breakfast）シャワーを浴びます（takes a shower）。その後（after that）学校へ歩いていきます。順序に注意して読むことが大切です。
+
+【ヒント（hint）】
+「After breakfast」の直後に何が来るか確認しましょう。
+
+【① 和訳（questionTranslation）】
+【パッセージ全体の和訳】
+マリアは毎朝7時に起きます。朝食を食べてからシャワーを浴びます。その後、学校へ歩いていきます。授業は8時30分に始まります。
+
+【問題文の和訳】
+マリアは朝食の後に何をしますか？
+
+【② 重要単語（vocabularyItems）】
+- wake up … 意味: 起きる、目が覚める / カタカナ: ウェイク アップ / 例: I wake up at 6 every morning.
+- take a shower … 意味: シャワーを浴びる / カタカナ: テイク ア シャワー / 例: She takes a shower before bed.
+- walk to school … 意味: 歩いて学校へ行く / カタカナ: ウォーク トゥ スクール / 例: He walks to school every day.
+
+【③ カタカナ読み（questionKatakana）】
+【パッセージ全体のカタカナ読み】
+マリア ウェイクス アップ アット セブン オクロック エブリー モーニング。シー イーツ ブレックファスト アンド ゼン テイクス ア シャワー。アフター ザット、シー ウォークス トゥ スクール。クラシズ スタート アット エイト サーティー。
+
+【問題文のカタカナ読み】
+ワット ダズ マリア ドゥ アフター ブレックファスト？
+
+【④ 文法解説（grammarPoints）】
+ルール: 時間の順序を表す接続詞・副詞
+説明: 「and then（そして次に）」「after that（その後）」「after + 名詞（〜の後）」は順序を示す表現です。読解問題では、この順序の表現に注目して内容を整理しましょう。
+例文: She ate dinner and then watched TV. / After that, she went to bed.
+
+【⑤ 音読・スピーキング練習（speakingPractice）】
+音読指示: 「Maria wakes up at 7:00 every morning. She eats breakfast and then takes a shower.」を5回音読してください。and then のリンキングに注意しましょう。
+置き換え練習:
+  元文: She eats breakfast and then takes a shower.
+  指示: 自分の朝のルーティンを説明しましょう。
+  例: I wake up at 6:30 and then make coffee.
+  例: He checks his phone and then gets dressed.
+  例: She exercises and then takes a shower.
+会話のヒント: 「What's your morning routine?」（朝のルーティンは何ですか？）と聞かれたら、and then や after that を使って順番に説明しましょう。
+
+================================================================================
+■ rb-002
+================================================================================
+【問題文（英語）】
+Passage: 'Today is sunny and warm. Tom wants to play outside. He asks his mother for permission. His mother says yes, but she tells him to be home before dinner.'
+
+What time must Tom be home?
+
+【選択肢】
+A. Before lunch … 昼食前
+B. After dinner … 夕食後
+C. Before dinner … 夕食前【正解】
+D. At noon … 正午に
+
+【正解の概要（explanation）】
+パッセージの最後に「she tells him to be home before dinner（夕食前に帰るよう言った）」とあります。dinner（夕食）の前（before）に帰宅しなければなりません。
+
+【ヒント（hint）】
+お母さんがトムに言った条件を探しましょう。
+
+【① 和訳（questionTranslation）】
+【パッセージ全体の和訳】
+今日は晴れて暖かいです。トムは外で遊びたいと思っています。彼はお母さんに許可を求めます。お母さんはいいよと言いますが、夕食の前に帰るように言います。
+
+【問題文の和訳】
+トムは何時までに帰宅しなければなりませんか？
+
+【② 重要単語（vocabularyItems）】
+- sunny … 意味: 晴れた / カタカナ: サニー / 例: It's a sunny day today.
+- permission … 意味: 許可 / カタカナ: パーミッション / 例: You need permission to leave early.
+- before … 意味: 〜の前に / カタカナ: ビフォア / 例: Wash your hands before eating.
+
+【③ カタカナ読み（questionKatakana）】
+【パッセージ全体のカタカナ読み】
+トゥデイ イズ サニー アンド ウォーム。トム ウォンツ トゥ プレイ アウトサイド。ヒー アスクス ヒズ マザー フォー パーミッション。ヒズ マザー セイズ イエス、バット シー テルズ ヒム トゥ ビー ホーム ビフォア ディナー。
+
+【問題文のカタカナ読み】
+ワット タイム マスト トム ビー ホーム？
+
+【④ 文法解説（grammarPoints）】
+ルール: 条件・制限を表す「but」の用法
+説明: 「but（しかし・ただし）」は前の内容に条件や制限を加えるときに使います。「She says yes, but she tells him to be home before dinner.」→ 許可は出るが、条件（夕食前に帰宅）がある。
+例文: You can go out, but be careful. / I'll help you, but it will take time.
+
+【⑤ 音読・スピーキング練習（speakingPractice）】
+音読指示: 「His mother says yes, but she tells him to be home before dinner.」を5回音読してください。but の前後の内容の対比を意識しましょう。
+置き換え練習:
+  元文: She says yes, but tells him to be home before dinner.
+  指示: but を使って許可と条件を伝える文を作りましょう。
+  例: You can borrow my bike, but please return it by evening.
+  例: I'll come to the party, but I can't stay long.
+  例: She agreed to help, but only if she had time.
+会話のヒント: 「You can do it, but...」（〜してもいいけど、〜）は日常会話で許可と条件を同時に伝えるときに使います。
+
+================================================================================
+■ rb-003
+================================================================================
+【問題文（英語）】
+Passage: 'The supermarket has many different foods. There are fruits, vegetables, meat, and bread. Everything is organized in different aisles. Most people shop there every week.'
+
+How often do most people shop at the supermarket?
+
+【選択肢】
+A. Every day … 毎日
+B. Every month … 毎月
+C. Every week … 毎週【正解】
+D. Twice a week … 週に2回
+
+【正解の概要（explanation）】
+パッセージの最後に「Most people shop there every week（ほとんどの人は毎週そこで買い物をする）」とあります。every week（毎週）が正解です。
+
+【ヒント（hint）】
+パッセージの最後の文を確認しましょう。
+
+【① 和訳（questionTranslation）】
+【パッセージ全体の和訳】
+スーパーマーケットには様々な食品があります。果物、野菜、肉、そしてパンがあります。すべてが異なる通路に整理されています。ほとんどの人は毎週そこで買い物をします。
+
+【問題文の和訳】
+ほとんどの人はどのくらいの頻度でスーパーマーケットで買い物をしますか？
+
+【② 重要単語（vocabularyItems）】
+- organized … 意味: 整理された、整頓された / カタカナ: オーガナイズド / 例: The office is well organized.
+- aisle … 意味: （スーパーなどの）通路 / カタカナ: アイル / 例: The cereal is in aisle 3.
+- every week … 意味: 毎週 / カタカナ: エブリー ウィーク / 例: She calls her parents every week.
+
+【③ カタカナ読み（questionKatakana）】
+【パッセージ全体のカタカナ読み】
+ザ スーパーマーケット ハズ メニー ディファレント フーズ。ゼア アー フルーツ、ベジタブルズ、ミート、アンド ブレッド。エブリシング イズ オーガナイズド イン ディファレント アイルズ。モースト ピープル ショップ ゼア エブリー ウィーク。
+
+【問題文のカタカナ読み】
+ハウ オフン ドゥ モースト ピープル ショップ アット ザ スーパーマーケット？
+
+【④ 文法解説（grammarPoints）】
+ルール: 頻度を表す表現（Frequency Expressions）
+説明: 頻度を表す表現：every day（毎日）、every week（毎週）、every month（毎月）、once a week（週に1回）、twice a day（1日2回）。これらは文末または主語と動詞の間に置きます。
+例文: I exercise every day. / She visits twice a month. / He checks email once a week.
+
+【⑤ 音読・スピーキング練習（speakingPractice）】
+音読指示: 「Most people shop there every week.」を5回音読してください。every week のリズムを意識しましょう。
+置き換え練習:
+  元文: Most people shop there every week.
+  指示: 頻度を表す表現を使って習慣を話しましょう。
+  例: I go to the gym every other day.
+  例: She reads a book once a week.
+  例: They eat out twice a month.
+会話のヒント: 「How often do you...?」（どのくらいの頻度で〜しますか？）は習慣を聞く基本的な表現です。every week / twice a month などで答えましょう。
+
+================================================================================
+■ rb-004
+================================================================================
+【問題文（英語）】
+Passage: 'Lisa has a cat named Mochi. Mochi is white and very playful. Every morning, Mochi wakes Lisa up by sitting on her face. Lisa laughs, but she also gets a little annoyed sometimes.'
+
+How does Mochi wake Lisa up?
+
+【選択肢】
+A. By making a loud noise … 大きな音を出すことで
+B. By sitting on her face … 顔の上に座ることで【正解】
+C. By jumping on the bed … ベッドの上にジャンプすることで
+D. By scratching the door … ドアを引っ掻くことで
+
+【正解の概要（explanation）】
+パッセージに「Mochi wakes Lisa up by sitting on her face（モチはリサの顔の上に座ることでリサを起こす）」と明記されています。「by + -ing」は手段・方法を表します。
+
+【ヒント（hint）】
+「by」の後ろに注目しましょう。
+
+【① 和訳（questionTranslation）】
+【パッセージ全体の和訳】
+リサはモチという名前の猫を飼っています。モチは白くてとても遊び好きです。毎朝、モチはリサの顔の上に座ることでリサを起こします。リサは笑いますが、時々少しイライラすることもあります。
+
+【問題文の和訳】
+モチはどのようにしてリサを起こしますか？
+
+【② 重要単語（vocabularyItems）】
+- playful … 意味: 遊び好きな、茶目っ気のある / カタカナ: プレイフル / 例: Kittens are always very playful.
+- wake up … 意味: 起こす（他動詞） / カタカナ: ウェイク アップ / 例: Please wake me up at 7.
+- annoyed … 意味: イライラした、うんざりした / カタカナ: アノイド / 例: She was annoyed by the noise.
+
+【③ カタカナ読み（questionKatakana）】
+【パッセージ全体のカタカナ読み】
+リサ ハズ ア キャット ネイムド モチ。モチ イズ ホワイト アンド ベリー プレイフル。エブリー モーニング、モチ ウェイクス リサ アップ バイ スィッティング オン ハー フェイス。リサ ラフス、バット シー オールソウ ゲッツ ア リトル アノイド サムタイムズ。
+
+【問題文のカタカナ読み】
+ハウ ダズ モチ ウェイク リサ アップ？
+
+【④ 文法解説（grammarPoints）】
+ルール: by + -ing（手段・方法）
+説明: 「by + -ing」は「〜することによって」という手段や方法を表します。「She learned English by watching movies.」（映画を見ることで英語を学んだ）「He saved money by cooking at home.」
+例文: She improved her skills by practicing daily. / He woke up by hearing the alarm. / They communicate by sending emails.
+
+【⑤ 音読・スピーキング練習（speakingPractice）】
+音読指示: 「Mochi wakes Lisa up by sitting on her face.」を5回音読してください。by sitting on をつなげて発音しましょう。
+置き換え練習:
+  元文: Mochi wakes Lisa up by sitting on her face.
+  指示: by + -ing を使って方法を説明しましょう。
+  例: She keeps in touch with friends by texting every day.
+  例: He learned the song by listening to it many times.
+  例: I got better at English by speaking with native speakers.
+会話のヒント: 「How did you do that?」（どうやってそれをしたの？）と聞かれたら「By + -ing」で答えましょう。「By studying hard!」（一生懸命勉強することで！）など。
+
+================================================================================
+■ rb-005
+================================================================================
+【問題文（英語）】
+Passage: 'Kevin takes the bus to school every day. The bus stop is near his house. The ride takes about 20 minutes. Kevin usually listens to music on the bus.'
+
+How long does Kevin's bus ride take?
+
+【選択肢】
+A. 10 minutes … 10分
+B. About 30 minutes … 約30分
+C. About 20 minutes … 約20分【正解】
+D. 1 hour … 1時間
+
+【正解の概要（explanation）】
+パッセージに「The ride takes about 20 minutes（乗車時間は約20分かかる）」と書かれています。about は「約」という意味です。
+
+【ヒント（hint）】
+The ride takes... に注目しましょう。
+
+【① 和訳（questionTranslation）】
+【パッセージ全体の和訳】
+ケビンは毎日バスで学校に通っています。バス停は彼の家の近くにあります。乗車時間は約20分かかります。ケビンはいつもバスの中で音楽を聴いています。
+
+【問題文の和訳】
+ケビンのバスの乗車時間はどのくらいかかりますか？
+
+【② 重要単語（vocabularyItems）】
+- bus stop … 意味: バス停 / カタカナ: バス ストップ / 例: I'll meet you at the bus stop.
+- ride … 意味: 乗車（名詞） / カタカナ: ライド / 例: The train ride was very comfortable.
+- usually … 意味: たいてい、普通は / カタカナ: ユージュアリー / 例: I usually eat breakfast at home.
+
+【③ カタカナ読み（questionKatakana）】
+【パッセージ全体のカタカナ読み】
+ケビン テイクス ザ バス トゥ スクール エブリー デイ。ザ バス ストップ イズ ニア ヒズ ハウス。ザ ライド テイクス アバウト トゥウェンティー ミニッツ。ケビン ユージュアリー リスンズ トゥ ミュージック オン ザ バス。
+
+【問題文のカタカナ読み】
+ハウ ロング ダズ ケビンズ バス ライド テイク？
+
+【④ 文法解説（grammarPoints）】
+ルール: 「It takes + 時間」の使い方
+説明: 「It takes + 時間 + to 不定詞」または「The ride/trip takes + 時間」は移動や作業にかかる時間を表します。「It takes 20 minutes to get there.」「The drive takes about an hour.」
+例文: It takes 10 minutes to walk to school. / The flight takes about 12 hours. / How long does it take?
+
+【⑤ 音読・スピーキング練習（speakingPractice）】
+音読指示: 「The ride takes about 20 minutes.」を5回音読してください。takes about をつなげて発音しましょう。
+置き換え練習:
+  元文: The ride takes about 20 minutes.
+  指示: 移動時間を表す文を作りましょう。
+  例: It takes about 30 minutes to get to the airport.
+  例: The walk from here to the station takes 5 minutes.
+  例: The flight takes approximately 11 hours.
+会話のヒント: 「How long does it take to get there?」（そこまでどのくらいかかりますか？）はとてもよく使われる質問です。「About 20 minutes by train.」のように答えましょう。
+
+================================================================================
+■ rb-006
+================================================================================
+【問題文（英語）】
+Passage: 'Today is Anna's birthday. Her friends made a cake for her. They put ten candles on it. Anna made a wish and then blew out all the candles.'
+
+What did Anna do after making a wish?
+
+【選択肢】
+A. She ate the cake … ケーキを食べた
+B. She blew out the candles … ろうそくを吹き消した【正解】
+C. She opened her presents … プレゼントを開けた
+D. She thanked her friends … 友達にお礼を言った
+
+【正解の概要（explanation）】
+「Anna made a wish and then blew out all the candles（アナは願い事をして、それからすべてのろうそくを吹き消した）」と書かれています。made a wish の後の行動は blow out the candles です。
+
+【ヒント（hint）】
+「and then」の後に何が来ますか？
+
+【① 和訳（questionTranslation）】
+【パッセージ全体の和訳】
+今日はアナの誕生日です。友達が彼女のためにケーキを作りました。ケーキには10本のろうそくが立てられています。アナは願い事をして、それからすべてのろうそくを吹き消しました。
+
+【問題文の和訳】
+アナは願い事をした後に何をしましたか？
+
+【② 重要単語（vocabularyItems）】
+- candle … 意味: ろうそく / カタカナ: キャンドル / 例: She lit a candle on the table.
+- make a wish … 意味: 願い事をする / カタカナ: メイク ア ウィッシュ / 例: Close your eyes and make a wish!
+- blow out … 意味: 吹き消す / カタカナ: ブロウ アウト / 例: Blow out the candles on your cake.
+
+【③ カタカナ読み（questionKatakana）】
+【パッセージ全体のカタカナ読み】
+トゥデイ イズ アナズ バースデイ。ハー フレンズ メイド ア ケイク フォー ハー。ゼイ プット テン キャンドルズ オン イット。アナ メイド ア ウィッシュ アンド ゼン ブロウ アウト オール ザ キャンドルズ。
+
+【問題文のカタカナ読み】
+ワット ディッド アナ ドゥ アフター メイキング ア ウィッシュ？
+
+【④ 文法解説（grammarPoints）】
+ルール: and then を使った行動の順序
+説明: 「and then」は2つの行動の順序を示します。「She made a wish and then blew out the candles.」wish → blow out という順番です。読解では「and then」の前後の行動を正確に把握することが重要です。
+例文: He waved goodbye and then left. / She smiled and then answered the question.
+
+【⑤ 音読・スピーキング練習（speakingPractice）】
+音読指示: 「Anna made a wish and then blew out all the candles.」を5回音読してください。blew out の /uː/ 音を長く発音しましょう。
+置き換え練習:
+  元文: Anna made a wish and then blew out all the candles.
+  指示: 誕生日パーティーの場面を説明する文を作りましょう。
+  例: Everyone sang 'Happy Birthday' and then ate the cake.
+  例: She opened her presents and then thanked her friends.
+  例: We took photos and then went out for dinner.
+会話のヒント: 「Happy Birthday!」に対して「Thank you so much!」はもちろん、「I made a wish!」（願い事をしたよ！）と言うと会話が広がります。
+
+================================================================================
+■ rb-007
+================================================================================
+【問題文（英語）】
+Passage: 'The school cafeteria serves lunch from 11:30 to 1:00. Students can choose from three different meals. There is also a salad bar with fresh vegetables. The food is healthy and not very expensive.'
+
+What can students find at the salad bar?
+
+【選択肢】
+A. Three different meals … 3種類の食事
+B. Hot soup … 温かいスープ
+C. Fresh vegetables … 新鮮な野菜【正解】
+D. Desserts and cakes … デザートとケーキ
+
+【正解の概要（explanation）】
+「There is also a salad bar with fresh vegetables（新鮮な野菜を揃えたサラダバーもある）」と書かれています。サラダバーにあるのは fresh vegetables（新鮮な野菜）です。
+
+【ヒント（hint）】
+「salad bar」について書かれている文を探しましょう。
+
+【① 和訳（questionTranslation）】
+【パッセージ全体の和訳】
+学校の食堂は11時30分から1時まで昼食を提供しています。学生は3種類の食事から選ぶことができます。新鮮な野菜を揃えたサラダバーもあります。食事は健康的でそれほど高くありません。
+
+【問題文の和訳】
+学生はサラダバーで何を見つけることができますか？
+
+【② 重要単語（vocabularyItems）】
+- cafeteria … 意味: 食堂、カフェテリア / カタカナ: カフェテリア / 例: The cafeteria opens at 7 a.m.
+- serve … 意味: 提供する、出す / カタカナ: サーブ / 例: The restaurant serves breakfast all day.
+- fresh … 意味: 新鮮な / カタカナ: フレッシュ / 例: I love fresh fruit in the morning.
+
+【③ カタカナ読み（questionKatakana）】
+【パッセージ全体のカタカナ読み】
+ザ スクール カフェテリア サーブズ ランチ フロム イレブン サーティー トゥ ワン オクロック。スチューデンツ キャン チューズ フロム スリー ディファレント ミールズ。ゼア イズ オールソウ ア サラッド バー ウィズ フレッシュ ベジタブルズ。ザ フード イズ ヘルシー アンド ノット ベリー エクスペンシブ。
+
+【問題文のカタカナ読み】
+ワット キャン スチューデンツ ファインド アット ザ サラッド バー？
+
+【④ 文法解説（grammarPoints）】
+ルール: There is / There are の使い方
+説明: 「There is + 単数名詞（〜がある）」「There are + 複数名詞（〜がある）」は存在を表す構文です。「There is a salad bar.」「There are three meals.」読解では情報の存在を確認するときに使います。
+例文: There is a library on campus. / There are many choices. / Is there a gym here?
+
+【⑤ 音読・スピーキング練習（speakingPractice）】
+音読指示: 「There is also a salad bar with fresh vegetables.」を5回音読してください。also の位置と意味（また、さらに）に注目しましょう。
+置き換え練習:
+  元文: There is also a salad bar with fresh vegetables.
+  指示: There is/are を使って場所にあるものを説明しましょう。
+  例: There is a vending machine near the entrance.
+  例: There are many study rooms in the library.
+  例: There is also a quiet area for reading.
+会話のヒント: 「Is there a...?」（〜はありますか？）はどこかに何かがあるか尋ねるときに使う最も基本的な表現です。
+
+================================================================================
+■ rb-008
+================================================================================
+【問題文（英語）】
+Passage: 'Soccer is David's favorite sport. He practices every Tuesday and Thursday after school. His team has ten players. They want to win the city championship this year.'
+
+How many players are on David's team?
+
+【選択肢】
+A. Eight … 8人
+B. Eleven … 11人
+C. Ten … 10人【正解】
+D. Twelve … 12人
+
+【正解の概要（explanation）】
+パッセージに「His team has ten players（彼のチームには10人の選手がいる）」と明記されています。数字の細部を正確に読み取る練習をしましょう。
+
+【ヒント（hint）】
+チームの人数について書かれた文を探しましょう。
+
+【① 和訳（questionTranslation）】
+【パッセージ全体の和訳】
+サッカーはデビッドの好きなスポーツです。彼は毎週火曜日と木曜日の放課後に練習しています。彼のチームには10人の選手がいます。彼らは今年、市のチャンピオンシップで優勝したいと思っています。
+
+【問題文の和訳】
+デビッドのチームには何人の選手がいますか？
+
+【② 重要単語（vocabularyItems）】
+- practice … 意味: 練習する（動詞） / カタカナ: プラクティス / 例: She practices piano every evening.
+- championship … 意味: 選手権、チャンピオンシップ / カタカナ: チャンピオンシップ / 例: Our school won the championship.
+- player … 意味: 選手、プレーヤー / カタカナ: プレイヤー / 例: She is the best player on the team.
+
+【③ カタカナ読み（questionKatakana）】
+【パッセージ全体のカタカナ読み】
+サッカー イズ デビッズ フェイバリット スポーツ。ヒー プラクティシズ エブリー チューズデイ アンド サーズデイ アフター スクール。ヒズ チーム ハズ テン プレイヤーズ。ゼイ ウォント トゥ ウィン ザ スィティー チャンピオンシップ ディス イヤー。
+
+【問題文のカタカナ読み】
+ハウ メニー プレイヤーズ アー オン デビッズ チーム？
+
+【④ 文法解説（grammarPoints）】
+ルール: How many を使った数の質問
+説明: 「How many + 複数名詞 + are there?」は数を聞く表現です。「How many players are on the team?」→「There are ten players.」複数形（players）を使うことに注意しましょう。
+例文: How many students are in your class? / How many chapters are in this book? / How many people came to the party?
+
+【⑤ 音読・スピーキング練習（speakingPractice）】
+音読指示: 「His team has ten players. They want to win the city championship this year.」を5回音読してください。championship の長い単語を4音節で区切って練習しましょう（cham-pi-on-ship）。
+置き換え練習:
+  元文: They want to win the city championship this year.
+  指示: スポーツの目標について話しましょう。
+  例: Our team wants to reach the national tournament.
+  例: She hopes to win a gold medal at the next competition.
+  例: The club aims to become the best in the region.
+会話のヒント: 「What sport do you play?」（何のスポーツをやっていますか？）「How often do you practice?」（どのくらい練習しますか？）はスポーツの話題で使える会話の入り口です。
+
+================================================================================
+■ rb-009
+================================================================================
+【問題文（英語）】
+Passage: 'The library is open Monday through Friday from 9 a.m. to 8 p.m. On weekends, it closes at 5 p.m. Students can borrow up to five books at a time.'
+
+What time does the library close on Saturday?
+
+【選択肢】
+A. 8 p.m. … 午後8時
+B. 9 p.m. … 午後9時
+C. 5 p.m. … 午後5時【正解】
+D. 6 p.m. … 午後6時
+
+【正解の概要（explanation）】
+「On weekends, it closes at 5 p.m.（週末は午後5時に閉まる）」と書かれています。土曜日は週末（weekend）なので5 p.m.が正解です。
+
+【ヒント（hint）】
+Saturday は週末（weekend）です。週末の閉館時間を探しましょう。
+
+【① 和訳（questionTranslation）】
+【パッセージ全体の和訳】
+図書館は月曜日から金曜日まで午前9時から午後8時まで開いています。週末は午後5時に閉まります。学生は一度に最大5冊の本を借りることができます。
+
+【問題文の和訳】
+図書館は土曜日の何時に閉まりますか？
+
+【② 重要単語（vocabularyItems）】
+- Monday through Friday … 意味: 月曜日から金曜日まで / カタカナ: マンデイ スルー フライデイ / 例: We work Monday through Friday.
+- borrow … 意味: 借りる / カタカナ: ボロウ / 例: Can I borrow your pen?
+- up to … 意味: 最大〜まで / カタカナ: アップ トゥ / 例: You can take up to three items.
+
+【③ カタカナ読み（questionKatakana）】
+【パッセージ全体のカタカナ読み】
+ザ ライブラリー イズ オープン マンデイ スルー フライデイ フロム ナイン エイエム トゥ エイト ピーエム。オン ウィークエンズ、イット クローズズ アット ファイブ ピーエム。スチューデンツ キャン ボロウ アップ トゥ ファイブ ブックス アット ア タイム。
+
+【問題文のカタカナ読み】
+ワット タイム ダズ ザ ライブラリー クローズ オン サタデイ？
+
+【④ 文法解説（grammarPoints）】
+ルール: 前置詞 through の用法（A through B = A から B まで）
+説明: 「Monday through Friday」は「月曜日から金曜日まで（inclusive）」という意味のアメリカ英語表現です。イギリス英語では「Monday to Friday」が一般的です。「9 a.m. through 5 p.m.」も同様です。
+例文: The store is open Tuesday through Sunday. / Pages 10 through 20 are the introduction.
+
+【⑤ 音読・スピーキング練習（speakingPractice）】
+音読指示: 「The library is open Monday through Friday from 9 a.m. to 8 p.m.」を5回音読してください。Monday through Friday の流れるような発音を練習しましょう。
+置き換え練習:
+  元文: The library is open Monday through Friday from 9 a.m. to 8 p.m.
+  指示: 営業時間について話す文を作りましょう。
+  例: The gym is open Monday through Saturday from 6 a.m. to 10 p.m.
+  例: The café is closed on Sundays.
+  例: Office hours are Tuesday through Thursday, 2 p.m. to 4 p.m.
+会話のヒント: 「What are your hours?」（営業時間は何時ですか？）「Are you open on weekends?」（週末は開いていますか？）は店や施設でよく使う質問です。
+
+================================================================================
+■ rb-010
+================================================================================
+【問題文（英語）】
+Passage: 'Jenny loves cooking. Every Sunday, she makes a big meal for her family. Last Sunday, she made pasta and a green salad. Everyone said it was delicious.'
+
+What did Jenny make last Sunday?
+
+【選択肢】
+A. Rice and chicken … ご飯とチキン
+B. Soup and bread … スープとパン
+C. Pasta and a green salad … パスタとグリーンサラダ【正解】
+D. Pizza and fries … ピザとフライドポテト
+
+【正解の概要（explanation）】
+「Last Sunday, she made pasta and a green salad（先週の日曜日、彼女はパスタとグリーンサラダを作った）」と書かれています。Last Sunday（先週の日曜日）の料理を問う問題です。
+
+【ヒント（hint）】
+Last Sunday（先週の日曜日）に作ったものに注目しましょう。
+
+【① 和訳（questionTranslation）】
+【パッセージ全体の和訳】
+ジェニーは料理が大好きです。毎週日曜日、彼女は家族のために豪華な食事を作ります。先週の日曜日、彼女はパスタとグリーンサラダを作りました。みんなおいしいと言いました。
+
+【問題文の和訳】
+ジェニーは先週の日曜日に何を作りましたか？
+
+【② 重要単語（vocabularyItems）】
+- cooking … 意味: 料理（すること） / カタカナ: クッキング / 例: Cooking is her favorite hobby.
+- delicious … 意味: おいしい / カタカナ: デリシャス / 例: This soup is absolutely delicious.
+- last Sunday … 意味: 先週の日曜日 / カタカナ: ラスト サンデイ / 例: I saw a movie last Sunday.
+
+【③ カタカナ読み（questionKatakana）】
+【パッセージ全体のカタカナ読み】
+ジェニー ラブズ クッキング。エブリー サンデイ、シー メイクス ア ビッグ ミール フォー ハー ファミリー。ラスト サンデイ、シー メイド パスタ アンド ア グリーン サラッド。エブリワン セッド イット ワズ デリシャス。
+
+【問題文のカタカナ読み】
+ワット ディッド ジェニー メイク ラスト サンデイ？
+
+【④ 文法解説（grammarPoints）】
+ルール: every Sunday vs last Sunday（現在と過去の使い分け）
+説明: 「every Sunday（毎週日曜日）」は現在形で習慣を表します。「last Sunday（先週の日曜日）」は過去形を使います。「She makes pasta every Sunday.」（現在・習慣）vs「She made pasta last Sunday.」（過去・出来事）
+例文: Every morning, she drinks coffee. / Last morning, she forgot her coffee.
+
+【⑤ 音読・スピーキング練習（speakingPractice）】
+音読指示: 「Every Sunday, she makes a big meal for her family.」を5回音読してください。Every Sunday のアクセントを意識しましょう。
+置き換え練習:
+  元文: Every Sunday, she makes a big meal for her family.
+  指示: 週末の習慣と先週の出来事を話しましょう。
+  例: Every Saturday, I clean my apartment.
+  例: Last weekend, I cooked a new recipe from the internet.
+  例: Every Friday, we have movie night at home.
+会話のヒント: 「What did you do last weekend?」（先週末は何をしましたか？）はよく聞かれる質問です。「I made dinner for my family.」など具体的に答えましょう。
+
+================================================================================
+■ rb-011
+================================================================================
+【問題文（英語）】
+Passage: 'It is raining outside. Sam cannot go to the park. Instead, he decides to read a book. He reads for two hours and finishes the whole book.'
+
+Why does Sam stay home?
+
+【選択肢】
+A. He is sick … 具合が悪いから
+B. He has homework … 宿題があるから
+C. It is raining … 雨が降っているから【正解】
+D. The park is closed … 公園が閉まっているから
+
+【正解の概要（explanation）】
+「It is raining outside. Sam cannot go to the park.（外は雨。サムは公園に行けない）」という因果関係があります。雨（raining）が理由で家にいるのです。
+
+【ヒント（hint）】
+サムが公園に行けない直接の理由は何ですか？
+
+【① 和訳（questionTranslation）】
+【パッセージ全体の和訳】
+外は雨が降っています。サムは公園に行けません。代わりに、彼は本を読むことにしました。彼は2時間読み続け、本を全部読み終えました。
+
+【問題文の和訳】
+サムはなぜ家にいるのですか？
+
+【② 重要単語（vocabularyItems）】
+- instead … 意味: 代わりに / カタカナ: インステッド / 例: I missed the bus, so I walked instead.
+- decide to … 意味: 〜することに決める / カタカナ: ディサイド トゥ / 例: She decided to stay home.
+- whole … 意味: 全部の、全体の / カタカナ: ホール / 例: He ate the whole pizza by himself.
+
+【③ カタカナ読み（questionKatakana）】
+【パッセージ全体のカタカナ読み】
+イット イズ レイニング アウトサイド。サム キャノット ゴウ トゥ ザ パーク。インステッド、ヒー ディサイズ トゥ リード ア ブック。ヒー リーズ フォー トゥー アワーズ アンド フィニシズ ザ ホール ブック。
+
+【問題文のカタカナ読み】
+ホワイ ダズ サム ステイ ホーム？
+
+【④ 文法解説（grammarPoints）】
+ルール: 原因・理由を推測する読解スキル
+説明: 読解では、直接「because（なぜなら）」という言葉がなくても、文の流れから原因と結果を読み取れることがあります。「It is raining. Sam cannot go to the park.」→ 雨が理由（原因）、公園に行けない（結果）。この関係を意識して読みましょう。
+例文: The store was closed. She couldn't buy milk. (→ closed = reason, couldn't buy = result)
+
+【⑤ 音読・スピーキング練習（speakingPractice）】
+音読指示: 「It is raining outside. Sam cannot go to the park. Instead, he decides to read a book.」を5回音読してください。Instead のアクセントに注意しましょう。
+置き換え練習:
+  元文: He decides to read a book instead.
+  指示: 雨の日の過ごし方について話しましょう。
+  例: It was raining, so I stayed home and watched a movie instead.
+  例: Since the concert was canceled, we went to a restaurant instead.
+  例: I couldn't go jogging, so I did yoga at home instead.
+会話のヒント: 「Instead of going out, let's...」（外に出る代わりに〜しよう）は天候や状況の変化に対応する提案によく使います。
+
+================================================================================
+■ rb-012
+================================================================================
+【問題文（英語）】
+Passage: 'Jake is a new student at Westside Elementary School. He moved from another city last month. He doesn't know many people yet, but his teacher introduced him to the class on his first day.'
+
+Why doesn't Jake know many people?
+
+【選択肢】
+A. He is very shy … とても恥ずかしがり屋だから
+B. He just moved from another city … 別の市から引っ越してきたばかりだから【正解】
+C. He doesn't like talking to people … 人と話すのが好きではないから
+D. He is absent often … よく欠席するから
+
+【正解の概要（explanation）】
+「He moved from another city last month（先月、別の市から引っ越してきた）」とあります。新しい学校に来たばかりだから知っている人が少ないという因果関係を理解することが大切です。
+
+【ヒント（hint）】
+ジェイクが新しい学校にいる理由を探しましょう。
+
+【① 和訳（questionTranslation）】
+【パッセージ全体の和訳】
+ジェイクはウェストサイド小学校の新入生です。彼は先月、別の市から引っ越してきました。まだあまり多くの人を知りませんが、初日に先生がクラスに紹介してくれました。
+
+【問題文の和訳】
+なぜジェイクはあまり多くの人を知らないのですか？
+
+【② 重要単語（vocabularyItems）】
+- elementary school … 意味: 小学校 / カタカナ: エレメンタリー スクール / 例: She teaches at an elementary school.
+- introduce … 意味: 紹介する / カタカナ: イントロデュース / 例: Let me introduce my friend.
+- yet … 意味: まだ（否定文で） / カタカナ: イェット / 例: I haven't finished yet.
+
+【③ カタカナ読み（questionKatakana）】
+【パッセージ全体のカタカナ読み】
+ジェイク イズ ア ニュー スチューデント アット ウェストサイド エレメンタリー スクール。ヒー ムーブド フロム アナザー スィティー ラスト マンス。ヒー ダズント ノウ メニー ピープル イェット、バット ヒズ ティーチャー イントロデュースト ヒム トゥ ザ クラス オン ヒズ ファースト デイ。
+
+【問題文のカタカナ読み】
+ホワイ ダズント ジェイク ノウ メニー ピープル？
+
+【④ 文法解説（grammarPoints）】
+ルール: yet の用法（否定文）
+説明: 「yet（まだ）」は否定文（not yet）で「まだ〜ない」という意味です。「He doesn't know many people yet.」（まだあまり知らない）。疑問文では「もう〜した？」の意味になります。「Have you eaten yet?」（もう食べた？）
+例文: She hasn't arrived yet. / Is the food ready yet? / I'm not tired yet.
+
+【⑤ 音読・スピーキング練習（speakingPractice）】
+音読指示: 「He doesn't know many people yet, but his teacher introduced him to the class on his first day.」を5回音読してください。introduced him を流れるように発音しましょう。
+置き換え練習:
+  元文: He doesn't know many people yet.
+  指示: 新しい環境について話す文を作りましょう。
+  例: I just started the new job, so I don't know everyone yet.
+  例: She hasn't gotten used to the new city yet.
+  例: It takes time, but I'm slowly getting to know my classmates.
+会話のヒント: 「I'm new here.」（ここは初めてです）と言えば、周りの人が助けてくれます。新しい環境でもどんどん自己紹介しましょう。
+
+================================================================================
+■ rb-013
+================================================================================
+【問題文（英語）】
+Passage: 'Carlos plays the guitar in a band. His band has four members. They practice together every Saturday afternoon. Their dream is to perform at the school festival.'
+
+What is the band's goal?
+
+【選択肢】
+A. To win a music competition … 音楽コンテストで優勝すること
+B. To perform at the school festival … 学校のフェスティバルで演奏すること【正解】
+C. To record an album … アルバムを録音すること
+D. To go on tour … ツアーに出ること
+
+【正解の概要（explanation）】
+「Their dream is to perform at the school festival（彼らの夢は学校のフェスティバルで演奏すること）」と明記されています。dream（夢）= goal（目標）として問われています。
+
+【ヒント（hint）】
+「dream（夢）」という言葉に注目しましょう。
+
+【① 和訳（questionTranslation）】
+【パッセージ全体の和訳】
+カルロスはバンドでギターを弾いています。彼のバンドには4人のメンバーがいます。彼らは毎週土曜日の午後、一緒に練習しています。彼らの夢は学校のフェスティバルで演奏することです。
+
+【問題文の和訳】
+バンドの目標は何ですか？
+
+【② 重要単語（vocabularyItems）】
+- member … 意味: メンバー、構成員 / カタカナ: メンバー / 例: She is a member of the student council.
+- perform … 意味: 演奏する、演じる / カタカナ: パフォーム / 例: They will perform at the concert tonight.
+- dream … 意味: 夢（名詞） / カタカナ: ドリーム / 例: Her dream is to become a doctor.
+
+【③ カタカナ読み（questionKatakana）】
+【パッセージ全体のカタカナ読み】
+カルロス プレイズ ザ ギター イン ア バンド。ヒズ バンド ハズ フォー メンバーズ。ゼイ プラクティス トゥゲザー エブリー サタデイ アフタヌーン。ゼア ドリーム イズ トゥ パフォーム アット ザ スクール フェスティバル。
+
+【問題文のカタカナ読み】
+ワット イズ ザ バンズ ゴール？
+
+【④ 文法解説（grammarPoints）】
+ルール: 「dream is to + 動詞原形」の構造
+説明: 「Someone's dream is to + 動詞原形（〜することが〜の夢）」は目標や夢を表す基本的な構文です。「His dream is to become a soccer player.」「Her goal is to graduate from college.」
+例文: Her dream is to travel the world. / My goal is to speak English fluently. / Their aim is to reduce pollution.
+
+【⑤ 音読・スピーキング練習（speakingPractice）】
+音読指示: 「Their dream is to perform at the school festival.」を5回音読してください。perform at をつなげて発音しましょう。
+置き換え練習:
+  元文: Their dream is to perform at the school festival.
+  指示: 夢や目標について話す文を作りましょう。
+  例: My dream is to study abroad in the United States.
+  例: His goal is to become a professional photographer.
+  例: Our team's aim is to win the championship next year.
+会話のヒント: 「What's your dream?」（あなたの夢は何ですか？）「What are your goals?」（目標は何ですか？）はよく聞かれる質問です。「My dream is to...」で答えましょう。
+
+================================================================================
+■ rb-014
+================================================================================
+【問題文（英語）】
+Passage: 'Amy went to the doctor yesterday. She had a headache and a sore throat. The doctor told her to rest and drink lots of water. He also gave her some medicine.'
+
+What did the doctor give Amy?
+
+【選択肢】
+A. Some food … 食べ物
+B. Some medicine … 薬【正解】
+C. An injection … 注射
+D. A note for school … 学校への連絡書
+
+【正解の概要（explanation）】
+「He also gave her some medicine（医師はまた薬を処方した）」と書かれています。told her to rest（休むよう言った）と gave her medicine（薬を与えた）の2つが処置として述べられています。
+
+【ヒント（hint）】
+医師がエイミーに「与えた（gave）」ものは何ですか？
+
+【① 和訳（questionTranslation）】
+【パッセージ全体の和訳】
+エイミーは昨日医者に行きました。彼女は頭痛と喉の痛みがありました。医師は彼女に休んで水をたくさん飲むよう言いました。また、薬も処方してもらいました。
+
+【問題文の和訳】
+医師はエイミーに何を渡しましたか？
+
+【② 重要単語（vocabularyItems）】
+- headache … 意味: 頭痛 / カタカナ: ヘッドエイク / 例: I have a terrible headache today.
+- sore throat … 意味: 喉の痛み / カタカナ: ソア スロート / 例: I can't sing because I have a sore throat.
+- medicine … 意味: 薬、医療 / カタカナ: メディシン / 例: Take this medicine three times a day.
+
+【③ カタカナ読み（questionKatakana）】
+【パッセージ全体のカタカナ読み】
+エイミー ウェント トゥ ザ ドクター イエスタデイ。シー ハッド ア ヘッドエイク アンド ア ソア スロート。ザ ドクター トールド ハー トゥ レスト アンド ドリンク ロッツ オブ ウォーター。ヒー オールソウ ゲイブ ハー サム メディシン。
+
+【問題文のカタカナ読み】
+ワット ディッド ザ ドクター ギブ エイミー？
+
+【④ 文法解説（grammarPoints）】
+ルール: tell + 人 + to 不定詞（〜するよう言う）
+説明: 「tell + 人 + to 不定詞」は「誰かに〜するよう指示・命令する」構文です。「The doctor told her to rest.」「She told him to be quiet.」「My teacher told me to rewrite the essay.」
+例文: The nurse told him to take the pills. / She told me to wait outside. / He told the students to open their books.
+
+【⑤ 音読・スピーキング練習（speakingPractice）】
+音読指示: 「The doctor told her to rest and drink lots of water.」を5回音読してください。told her to をつなげて発音しましょう。
+置き換え練習:
+  元文: The doctor told her to rest and drink lots of water.
+  指示: tell + 人 + to を使って指示・アドバイスを言いましょう。
+  例: My doctor told me to reduce my stress levels.
+  例: The teacher told us to bring a dictionary tomorrow.
+  例: She told her son to clean his room before dinner.
+会話のヒント: 「The doctor told me to...」（医者に〜するよう言われた）は医療の話題や欠席の理由を説明するときに使います。
+
+================================================================================
+■ rb-015
+================================================================================
+【問題文（英語）】
+Passage: 'Mike is packing his bag for a camping trip. He packs a tent, a sleeping bag, and some food. He also brings a flashlight because there is no electricity at the campsite.'
+
+Why does Mike bring a flashlight?
+
+【選択肢】
+A. Because it is his favorite tool … お気に入りの道具だから
+B. Because there is no electricity at the campsite … キャンプ場に電気がないから【正解】
+C. Because it might rain … 雨が降るかもしれないから
+D. Because he likes reading at night … 夜に読書が好きだから
+
+【正解の概要（explanation）】
+「He also brings a flashlight because there is no electricity at the campsite（キャンプ場に電気がないので懐中電灯も持っていく）」と because（なぜなら）を使った理由が明記されています。
+
+【ヒント（hint）】
+「because（なぜなら）」の後の部分に理由が書かれています。
+
+【① 和訳（questionTranslation）】
+【パッセージ全体の和訳】
+マイクはキャンプ旅行のためにバッグを詰めています。テント、寝袋、そして食料を入れます。また、キャンプ場には電気がないので懐中電灯も持っていきます。
+
+【問題文の和訳】
+なぜマイクは懐中電灯を持っていくのですか？
+
+【② 重要単語（vocabularyItems）】
+- flashlight … 意味: 懐中電灯 / カタカナ: フラッシュライト / 例: Don't forget your flashlight for the hike.
+- campsite … 意味: キャンプ場 / カタカナ: キャンプサイト / 例: The campsite is near a lake.
+- electricity … 意味: 電気 / カタカナ: エレクトリシティー / 例: There was no electricity after the storm.
+
+【③ カタカナ読み（questionKatakana）】
+【パッセージ全体のカタカナ読み】
+マイク イズ パッキング ヒズ バッグ フォー ア キャンピング トリップ。ヒー パックス ア テント、ア スリーピング バッグ、アンド サム フード。ヒー オールソウ ブリングズ ア フラッシュライト ビコーズ ゼア イズ ノウ エレクトリシティー アット ザ キャンプサイト。
+
+【問題文のカタカナ読み】
+ホワイ ダズ マイク ブリング ア フラッシュライト？
+
+【④ 文法解説（grammarPoints）】
+ルール: because を使った理由の表現
+説明: 「because（なぜなら）」は理由を直接示す接続詞です。「He brings a flashlight because there is no electricity.」because 節が「why?（なぜ？）」の答えになります。読解問題では「Why?」の質問の答えを because 節に探す練習をしましょう。
+例文: She wore a coat because it was cold. / He failed the test because he didn't study. / They were late because of the traffic.
+
+【⑤ 音読・スピーキング練習（speakingPractice）】
+音読指示: 「He brings a flashlight because there is no electricity at the campsite.」を5回音読してください。because there is のリンキングに注意しましょう。
+置き換え練習:
+  元文: He brings a flashlight because there is no electricity.
+  指示: because を使って持ち物を説明しましょう。
+  例: She always carries an umbrella because the weather is unpredictable.
+  例: He brought a water bottle because it was hot outside.
+  例: I packed an extra sweater because it gets cold at night.
+会話のヒント: 「I brought this because...」（〜を持ってきたのは〜だから）は自分の選択や行動を説明するときの基本的なフレーズです。
+
+================================================================================
+■ rb-016
+================================================================================
+【問題文（英語）】
+Passage: 'Sarah and her friends are planning a trip to the beach next weekend. They will drive there in Sarah's car. The beach is two hours away. They plan to swim, eat seafood, and watch the sunset.'
+
+How will they travel to the beach?
+
+【選択肢】
+A. By train … 電車で
+B. By bus … バスで
+C. By car … 車で【正解】
+D. By bicycle … 自転車で
+
+【正解の概要（explanation）】
+「They will drive there in Sarah's car（サラの車で運転していく）」と書かれています。drive（運転する）→ by car（車で）という推論が必要です。
+
+【ヒント（hint）】
+「drive」という動詞は何を使って移動することを示していますか？
+
+【① 和訳（questionTranslation）】
+【パッセージ全体の和訳】
+サラと友達は来週末、ビーチへの旅行を計画しています。サラの車で行きます。ビーチまでは2時間かかります。彼女たちは泳いだり、シーフードを食べたり、夕日を見たりする予定です。
+
+【問題文の和訳】
+彼女たちはどのようにしてビーチへ行きますか？
+
+【② 重要単語（vocabularyItems）】
+- plan to … 意味: 〜する予定である / カタカナ: プラン トゥ / 例: We plan to leave early tomorrow.
+- seafood … 意味: シーフード、魚介類 / カタカナ: スィーフード / 例: I love fresh seafood at the beach.
+- sunset … 意味: 夕日、日没 / カタカナ: サンセット / 例: The sunset was beautiful tonight.
+
+【③ カタカナ読み（questionKatakana）】
+【パッセージ全体のカタカナ読み】
+サラ アンド ハー フレンズ アー プランニング ア トリップ トゥ ザ ビーチ ネクスト ウィークエンド。ゼイ ウィル ドライブ ゼア イン サラズ カー。ザ ビーチ イズ トゥー アワーズ アウェイ。ゼイ プラン トゥ スウィム、イート スィーフード、アンド ウォッチ ザ サンセット。
+
+【問題文のカタカナ読み】
+ハウ ウィル ゼイ トラベル トゥ ザ ビーチ？
+
+【④ 文法解説（grammarPoints）】
+ルール: will を使った未来の予定
+説明: 「will + 動詞原形」は未来の予定や意志を表します。「They will drive there.」「They will swim and eat seafood.」計画を話すときは will または be going to を使います。
+例文: We will have a meeting tomorrow. / She will call you later. / I will help you with that.
+
+【⑤ 音読・スピーキング練習（speakingPractice）】
+音読指示: 「They plan to swim, eat seafood, and watch the sunset.」を5回音読してください。3つの活動をカンマで区切るリズムを意識しましょう。
+置き換え練習:
+  元文: They plan to swim, eat seafood, and watch the sunset.
+  指示: 旅行の計画について話しましょう。
+  例: We plan to hike, cook over a campfire, and stargaze.
+  例: They plan to visit museums, try local food, and shop for souvenirs.
+  例: I plan to relax, read a book, and take long walks on the beach.
+会話のヒント: 「What are you planning to do this weekend?」（今週末は何をする予定ですか？）はよく聞かれる質問です。「I plan to...」で答えましょう。
+
+================================================================================
+■ rb-017
+================================================================================
+【問題文（英語）】
+Passage: 'Eric wakes up at 6:00 a.m. every day. He goes for a 30-minute walk before breakfast. He says the morning walk helps him feel awake and ready for the day.'
+
+According to Eric, what does the morning walk help him do?
+
+【選択肢】
+A. Lose weight … 体重を減らす
+B. Fall asleep faster … 早く眠れる
+C. Feel awake and ready for the day … 目が覚めて1日の準備ができる【正解】
+D. Arrive at work on time … 仕事に時間通りに着く
+
+【正解の概要（explanation）】
+「He says the morning walk helps him feel awake and ready for the day（朝の散歩が目覚めと1日の準備に役立つ）」と書かれています。「According to Eric（エリックによると）」は「パッセージに書かれていることを根拠として答えよ」という指示です。
+
+【ヒント（hint）】
+「He says...」の後に何が続きますか？
+
+【① 和訳（questionTranslation）】
+【パッセージ全体の和訳】
+エリックは毎日午前6時に起きます。朝食の前に30分のウォーキングをします。朝の散歩で目が覚めて1日の準備ができると彼は言っています。
+
+【問題文の和訳】
+エリックによると、朝の散歩は彼にとって何の助けになりますか？
+
+【② 重要単語（vocabularyItems）】
+- awake … 意味: 目が覚めた、起きている / カタカナ: アウェイク / 例: I can't stay awake during long meetings.
+- according to … 意味: 〜によると / カタカナ: アコーディング トゥ / 例: According to the report, sales increased.
+- help + 人 + 動詞原形 … 意味: 〜が〜するのを助ける / カタカナ: ヘルプ / 例: Music helps me concentrate.
+
+【③ カタカナ読み（questionKatakana）】
+【パッセージ全体のカタカナ読み】
+エリック ウェイクス アップ アット スィックス エイエム エブリー デイ。ヒー ゴウズ フォー ア サーティー ミニット ウォーク ビフォア ブレックファスト。ヒー セイズ ザ モーニング ウォーク ヘルプス ヒム フィール アウェイク アンド レディー フォー ザ デイ。
+
+【問題文のカタカナ読み】
+アコーディング トゥ エリック、ワット ダズ ザ モーニング ウォーク ヘルプ ヒム ドゥ？
+
+【④ 文法解説（grammarPoints）】
+ルール: According to の使い方
+説明: 「According to + 情報源」は「〜によると」という意味で、情報の出所を示します。「According to the passage（パッセージによると）」「According to the article（記事によると）」「According to him（彼によると）」は読解問題でよく出てきます。
+例文: According to the news, it will rain tomorrow. / According to the study, exercise reduces stress.
+
+【⑤ 音読・スピーキング練習（speakingPractice）】
+音読指示: 「He says the morning walk helps him feel awake and ready for the day.」を5回音読してください。helps him feel をリンキングして発音しましょう。
+置き換え練習:
+  元文: The morning walk helps him feel awake and ready for the day.
+  指示: 朝の習慣の効果について話しましょう。
+  例: Stretching in the morning helps me feel energized.
+  例: Drinking coffee helps me wake up and focus.
+  例: Journaling at night helps me feel calm and organized.
+会話のヒント: 「I find that... really helps me.」（〜が本当に役立つと感じます）は習慣の効果を説明するときの natural なフレーズです。
+
+================================================================================
+■ rb-018
+================================================================================
+【問題文（英語）】
+Passage: 'The weather report says it will be cloudy tomorrow with a chance of rain. Lucy is deciding what to wear. She chooses a raincoat and brings an umbrella just in case.'
+
+Why does Lucy bring an umbrella?
+
+【選択肢】
+A. Because it is definitely going to rain … 確実に雨が降るから
+B. Because it is very sunny … とても晴れているから
+C. Just in case it rains … 雨が降った場合に備えて【正解】
+D. Because she forgot her coat … コートを忘れたから
+
+【正解の概要（explanation）】
+「She brings an umbrella just in case（念のため傘を持っていく）」と書かれています。「just in case（念のため・万が一に備えて）」は確実ではないが備えるという意味です。
+
+【ヒント（hint）】
+「just in case（念のため）」はどんな意味ですか？
+
+【① 和訳（questionTranslation）】
+【パッセージ全体の和訳】
+天気予報によると、明日は曇りで雨が降る可能性があります。ルーシーは何を着るか決めています。念のため、レインコートを選び傘を持っていきます。
+
+【問題文の和訳】
+なぜルーシーは傘を持っていくのですか？
+
+【② 重要単語（vocabularyItems）】
+- just in case … 意味: 念のため、万が一に備えて / カタカナ: ジャスト イン ケース / 例: Take an extra pen, just in case.
+- chance of rain … 意味: 雨の可能性 / カタカナ: チャンス オブ レイン / 例: There's a 40% chance of rain today.
+- raincoat … 意味: レインコート / カタカナ: レインコート / 例: Put on your raincoat before going out.
+
+【③ カタカナ読み（questionKatakana）】
+【パッセージ全体のカタカナ読み】
+ザ ウェザー リポート セイズ イット ウィル ビー クラウディー トゥモロウ ウィズ ア チャンス オブ レイン。ルーシー イズ ディサイディング ワット トゥ ウェア。シー チューズズ ア レインコート アンド ブリングズ アン アンブレラ ジャスト イン ケース。
+
+【問題文のカタカナ読み】
+ホワイ ダズ ルーシー ブリング アン アンブレラ？
+
+【④ 文法解説（grammarPoints）】
+ルール: just in case の使い方
+説明: 「just in case（念のため）」は何か悪いことが起こる可能性があるときに備える表現です。「Bring an umbrella just in case.」「Save the file just in case you lose it.」未来への備えを表す便利な表現です。
+例文: I always carry a phone charger just in case. / Write down the address just in case you forget.
+
+【⑤ 音読・スピーキング練習（speakingPractice）】
+音読指示: 「She brings an umbrella just in case.」を5回音読してください。just in case をひとまとまりとして発音しましょう。
+置き換え練習:
+  元文: She brings an umbrella just in case.
+  指示: just in case を使って備えについて話しましょう。
+  例: I always carry a first aid kit in my car, just in case.
+  例: Pack extra clothes just in case the weather changes.
+  例: Save a backup of your work just in case the computer crashes.
+会話のヒント: 「Take it with you, just in case.」（念のため持っていきなよ）は相手への気遣いを示す便利なフレーズです。
+
+================================================================================
+■ rb-019
+================================================================================
+【問題文（英語）】
+Passage: 'Ben is learning English at school. He studies grammar, vocabulary, and reading. His favorite part of English class is speaking with classmates. He wants to visit New York someday.'
+
+What is Ben's favorite part of English class?
+
+【選択肢】
+A. Grammar exercises … 文法練習
+B. Reading passages … 長文読解
+C. Speaking with classmates … クラスメートと話すこと【正解】
+D. Writing essays … 作文を書くこと
+
+【正解の概要（explanation）】
+「His favorite part of English class is speaking with classmates（英語の授業で一番好きなのはクラスメートと話すこと）」と書かれています。favorite part（一番好きな部分）を正確に読み取ることが大切です。
+
+【ヒント（hint）】
+「favorite part（一番好きな部分）」について書かれた文を探しましょう。
+
+【① 和訳（questionTranslation）】
+【パッセージ全体の和訳】
+ベンは学校で英語を学んでいます。文法、語彙、読解を勉強しています。英語の授業で一番好きなのはクラスメートと話すことです。彼はいつかニューヨークを訪れたいと思っています。
+
+【問題文の和訳】
+英語の授業でベンが一番好きなのは何ですか？
+
+【② 重要単語（vocabularyItems）】
+- favorite … 意味: 一番好きな（形容詞） / カタカナ: フェイバリット / 例: What's your favorite food?
+- someday … 意味: いつか / カタカナ: サムデイ / 例: Someday I want to see the Northern Lights.
+- classmate … 意味: クラスメート / カタカナ: クラスメイト / 例: She is my classmate and best friend.
+
+【③ カタカナ読み（questionKatakana）】
+【パッセージ全体のカタカナ読み】
+ベン イズ ラーニング イングリッシュ アット スクール。ヒー スタディーズ グラマー、ボキャブラリー、アンド リーディング。ヒズ フェイバリット パート オブ イングリッシュ クラス イズ スピーキング ウィズ クラスメイツ。ヒー ウォンツ トゥ ビジット ニュー ヨーク サムデイ。
+
+【問題文のカタカナ読み】
+ワット イズ ベンズ フェイバリット パート オブ イングリッシュ クラス？
+
+【④ 文法解説（grammarPoints）】
+ルール: 「favorite + 名詞」の使い方
+説明: 「favorite（一番好きな）」は形容詞として名詞の前に置きます。「favorite food」「favorite subject」「favorite part」など。疑問文：「What is your favorite ___?」答え：「My favorite ___ is ___」
+例文: My favorite subject is English. / What's your favorite movie? / Her favorite season is spring.
+
+【⑤ 音読・スピーキング練習（speakingPractice）】
+音読指示: 「His favorite part of English class is speaking with classmates.」を5回音読してください。favorite part of をつなげて発音しましょう。
+置き換え練習:
+  元文: His favorite part of English class is speaking with classmates.
+  指示: 英語学習の好きな部分について話しましょう。
+  例: My favorite part of learning English is watching movies without subtitles.
+  例: Her favorite aspect of the course is the group discussions.
+  例: The best part about studying abroad is meeting people from all over the world.
+会話のヒント: 「What's your favorite part of this class?」（この授業で一番好きなのはどこですか？）は授業の最初のアイスブレイクでよく使う質問です。
+
+================================================================================
+■ rb-020
+================================================================================
+【問題文（英語）】
+Passage: 'The community center offers many free classes for adults. There are cooking classes, painting classes, and yoga classes. People can sign up online or at the front desk. Classes are available on weekday evenings and on Saturdays.'
+
+How can people sign up for classes?
+
+【選択肢】
+A. By calling on the phone only … 電話でのみ
+B. Online or at the front desk … オンラインまたはフロントで【正解】
+C. By sending a letter … 手紙を送ることで
+D. Only on Saturdays … 土曜日のみ
+
+【正解の概要（explanation）】
+「People can sign up online or at the front desk（オンラインまたはフロントで申し込める）」と明記されています。2つの方法が「or（または）」で結ばれています。
+
+【ヒント（hint）】
+sign up（申し込む）の方法が書かれた文を探しましょう。
+
+【① 和訳（questionTranslation）】
+【パッセージ全体の和訳】
+コミュニティセンターは大人向けの無料クラスを多数提供しています。料理、絵画、ヨガのクラスがあります。オンラインまたはフロントで申し込めます。クラスは平日の夜と土曜日に利用できます。
+
+【問題文の和訳】
+人々はどのようにしてクラスに申し込めますか？
+
+【② 重要単語（vocabularyItems）】
+- sign up … 意味: 申し込む、登録する / カタカナ: サイン アップ / 例: Sign up for the newsletter on our website.
+- available … 意味: 利用できる、参加できる / カタカナ: アベイラブル / 例: Is this class still available?
+- community center … 意味: コミュニティセンター、地域交流センター / カタカナ: コミュニティー センター / 例: The community center runs free workshops.
+
+【③ カタカナ読み（questionKatakana）】
+【パッセージ全体のカタカナ読み】
+ザ コミュニティー センター オファーズ メニー フリー クラシズ フォー アダルツ。ゼア アー クッキング クラシズ、ペインティング クラシズ、アンド ヨーガ クラシズ。ピープル キャン サイン アップ オンライン オア アット ザ フロント デスク。クラシズ アー アベイラブル オン ウィークデイ イブニングズ アンド オン サタデイズ。
+
+【問題文のカタカナ読み】
+ハウ キャン ピープル サイン アップ フォー クラシズ？
+
+【④ 文法解説（grammarPoints）】
+ルール: A or B（どちらか一方または両方の選択肢）
+説明: 「or（または）」は2つの選択肢を示します。「online or at the front desk」は2つの方法のどちらでも良いことを示します。読解問題では「or」で結ばれた選択肢を両方チェックしましょう。
+例文: You can pay by cash or card. / Call or email to make a reservation. / Take the subway or the bus.
+
+【⑤ 音読・スピーキング練習（speakingPractice）】
+音読指示: 「People can sign up online or at the front desk.」を5回音読してください。online or at のリンキングを練習しましょう。
+置き換え練習:
+  元文: People can sign up online or at the front desk.
+  指示: 申し込みや登録の方法を説明しましょう。
+  例: You can register for the event online or in person.
+  例: Applications can be submitted by email or mail.
+  例: Tickets are available at the box office or through the website.
+会話のヒント: 「How do I sign up?」（どうやって申し込みますか？）は新しいクラスやプログラムに参加するときの基本の質問です。
+================================================================================
+（以上 rb-001〜rb-020）

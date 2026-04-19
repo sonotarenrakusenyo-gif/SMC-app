@@ -1,0 +1,778 @@
+================================================================================
+ジェミニ添削用：文法・初級 20問（問題全文＋解説一式）
+出典: client/src/data/grammar-beginner.ts と同一内容
+================================================================================
+
+【依頼文（そのままコピーして先頭に付けてもOK）】
+以下は英語学習アプリの「文法・初級」20問です。各問について、(1) 問題文・選択肢・正解が英語として妥当か、(2) 日本語の解説・和訳・用語説明に誤りや不自然さがないか、(3) カタカナ表記が発音の目安として適切か、を指摘してください。問題がなければ「問題なし」と簡潔に。
+
+================================================================================
+■ gb-001
+================================================================================
+【問題文（英語）】
+She _____ to school every day.
+
+【選択肢】
+A. go … 行く（原形）
+B. goes … 行く（三人称単数現在）【正解】
+C. going … 行く（現在分詞）
+D. went … 行った（過去形）
+
+【正解の概要（explanation）】
+主語が三人称単数（she / he / it）の現在形では、動詞に -s/-es を付けます。「She goes」が正解です。
+
+【ヒント（hint）】
+主語は she（彼女）です。三人称単数の現在形はどう変わりますか？
+
+① 和訳（questionTranslation）】
+彼女は毎日学校へ行きます。
+
+② 重要単語（vocabularyItems）】
+- every day … 意味: 毎日 / カタカナ: エブリ デイ / 例: I drink coffee every day.
+- school … 意味: 学校 / カタカナ: スクール / 例: She likes school.
+
+③ カタカナ読み（questionKatakana）】
+シー ブランク トゥ スクール エブリ デイ。
+
+④ 文法解説（grammarPoints）】
+ルール: 三人称単数現在形（-s/-es）
+説明: 主語が he / she / it のとき、動詞の語尾に -s または -es を付けます。go → goes、watch → watches のように変化します。
+例文: He works at a hospital. / She teaches English.
+
+⑤ 音読・スピーキング練習（speakingPractice）】
+音読指示: 「She goes to school every day.」を5回音読してください。goes の最後の /z/ 音に注意しましょう。
+置き換え練習:
+  元文: She goes to school every day.
+  指示: 主語を変えて同じ文を作ってみましょう。
+  例: He goes to the gym every day. / My sister goes to work every day. / Tom goes to the library every day.
+会話のヒント: 日常会話で習慣を話すときは現在形を使います。「What do you do every day?」と聞かれたら「I go to school.」と答えましょう。
+
+================================================================================
+■ gb-002
+================================================================================
+【問題文（英語）】
+They _____ watching TV right now.
+
+【選択肢】
+A. is … 〜している（三人称単数）
+B. are … 〜している（複数）【正解】
+C. am … 〜している（一人称単数）
+D. be … be 動詞の原形
+
+【正解の概要】
+現在進行形は「be 動詞 + 動詞の -ing 形」で表します。主語が they（複数）なので be 動詞は are を使います。
+
+【ヒント】
+「right now」（今まさに）は進行形のサインです。they の be 動詞は何ですか？
+
+① 和訳】
+彼らは今テレビを見ています。
+
+② 重要単語】
+- right now … 今まさに、ちょうど今 / ライト ナウ / 例: She is sleeping right now.
+- watch TV … テレビを見る / ウォッチ ティービー / 例: I love watching TV.
+
+③ カタカナ】
+ゼイ ブランク ウォッチング ティービー ライト ナウ。
+
+④ 文法解説】
+ルール: 現在進行形（am/is/are + -ing）
+説明: 今この瞬間に起きている動作を表すときは現在進行形を使います。I → am、he/she/it → is、you/we/they → are を使います。
+例文: I am eating lunch. / He is studying. / They are playing soccer.
+
+⑤ 音読・スピーキング】
+音読: 「They are watching TV right now.」を5回音読。are の /r/ 音を意識。
+置き換え: 元文 They are watching TV right now。／動作を変えて文を作る。例: They are playing soccer right now. 等。
+会話: 「What are you doing?」（今何してるの？）→「I am studying。」のように答える。
+
+================================================================================
+■ gb-003
+================================================================================
+【問題文】
+Yesterday, I _____ to the supermarket.
+
+【選択肢】
+A. go … 行く（現在形）
+B. goes … 行く（三人称単数現在）
+C. went … 行った（過去形）【正解】
+D. gone … 行った（過去分詞）
+
+【正解の概要】
+「Yesterday（昨日）」は過去のサインです。go の過去形は went（不規則変化）です。
+
+【ヒント】
+「Yesterday」があれば過去形を使います。go の過去形は何ですか？
+
+① 和訳】
+昨日、私はスーパーマーケットへ行きました。
+
+② 重要単語】
+- yesterday … 昨日 / イエスタデイ / Yesterday was Monday.
+- supermarket … スーパーマーケット / スーパーマーケット / I buy food at the supermarket.
+
+③ カタカナ】
+イエスタデイ、アイ ブランク トゥ ザ スーパーマーケット。
+
+④ 文法解説】
+ルール: 過去形（不規則動詞）
+説明: go → went のように、不規則に変化する動詞があります。他にも have → had、come → came、see → saw などがあります。過去を表す語句（yesterday, last night, ago など）が目印です。
+例文: I went to school. / She came home late. / They saw a movie.
+
+⑤ 音読・スピーキング】
+音読: 「Yesterday, I went to the supermarket.」を5回。went の /w/ を明確に。
+置き換え: 場所を変えて文を作る。例: Yesterday, I went to the library. 等。
+会話: 過去のことは時間表現を文頭か文末に置くと伝わりやすい。
+
+================================================================================
+■ gb-004
+================================================================================
+【問題文】
+He _____ speak three languages.
+
+【選択肢】
+A. can … 〜できる（能力）【正解】
+B. cans … （誤った形）
+C. could to … （誤った形）
+D. is able … 〜できる（不完全な形）
+
+【正解の概要】
+「can」は能力・可能を表す助動詞で、主語が何であっても形が変わりません（can のままで cans にはなりません）。can の後ろは動詞の原形です。
+
+【ヒント】
+能力（〜できる）を表す助動詞は何ですか？助動詞の後ろは動詞の原形です。
+
+① 和訳】
+彼は3つの言語を話すことができます。
+
+② 重要単語】
+- language … 言語、言語 / ランゲージ / English is a global language.
+- speak … 話す / スピーク / She can speak French.
+
+③ カタカナ】
+ヒー ブランク スピーク スリー ランゲージズ。
+
+④ 文法解説】
+ルール: 助動詞 can（能力・可能）
+説明: can は「〜できる」という能力や可能を表します。助動詞の特徴として①主語に関係なく形が変わらない ②直後に動詞の原形がくる という2点を覚えましょう。
+例文: I can swim. / She can drive. / They can cook well.
+
+⑤ 音読・スピーキング】
+音読: 「He can speak three languages.」を5回。can の /æ/ をはっきり。
+置き換え: can を使って自分の能力について。例: I can play the guitar. 等。
+会話: 「Can you...?」は能力の尋ね方だけでなく「Can you help me?」のように丁寧なお願いにも。
+
+================================================================================
+■ gb-005
+================================================================================
+【問題文】
+She is _____ engineer.
+
+【選択肢】
+A. a … 不定冠詞（子音の前）
+B. an … 不定冠詞（母音の前）【正解】
+C. the … 定冠詞
+D. —（なし）… 冠詞なし
+
+【正解の概要】
+不定冠詞は母音（a, e, i, o, u）の音で始まる単語の前では an を使います。engineer は /e/ の音で始まるので an を使います。
+
+【ヒント】
+engineer はどんな音で始まりますか？母音の前は a と an のどちらを使いますか？
+
+① 和訳】
+彼女はエンジニアです。
+
+② 重要単語】
+- engineer … エンジニア、技術者 / エンジニア / My father is an engineer.
+- article … 冠詞 / アーティクル / Use 'an' before a vowel sound.
+
+③ カタカナ】
+シー イズ ブランク エンジニア。
+
+④ 文法解説】
+ルール: 不定冠詞 a / an の使い分け
+説明: a は子音の音で始まる単語の前（a book, a car）、an は母音の音（a, e, i, o, u）で始まる単語の前（an apple, an engineer, an hour）に使います。スペルではなく発音で判断します。
+例文: a university（/j/ で始まる音）/ an umbrella（/ʌ/ で始まる音）
+
+⑤ 音読・スピーキング】
+音読: 「She is an engineer.」を5回。「an engineer」をつなげて自然に。
+置き換え: a か an で職業を紹介。例: He is a teacher. / She is an actress. 等。
+会話: 自己紹介で職業は「I am a/an _____.」
+
+================================================================================
+■ gb-006
+================================================================================
+【問題文】
+The book is _____ the table.
+
+【選択肢】
+A. in … 〜の中に
+B. on … 〜の上に（接触）【正解】
+C. under … 〜の下に
+D. at … 〜のところに
+
+【正解の概要】
+「on」は物が表面に乗っている（接触している）状態を表します。本がテーブルの上に置かれているので on が正解です。
+
+【ヒント】
+本はテーブルの上に乗っています。「接触している」場合の前置詞は？
+
+① 和訳】
+本はテーブルの上にあります。
+
+② 重要単語】
+- on … 〜の上に（接触）/ オン / The cup is on the desk.
+- in … 〜の中に / イン / The cat is in the box.
+- under … 〜の下に / アンダー / The shoes are under the bed.
+
+③ カタカナ】
+ザ ブック イズ ブランク ザ テイブル。
+
+④ 文法解説】
+ルール: 場所の前置詞 in / on / at / under
+説明: in（囲まれた空間の中）、on（表面に接触）、at（特定の場所・地点）、under（下）。「本がテーブルの上にある」は on、「水がボトルの中にある」は in を使います。
+例文: in a box / on the wall / at the station / under the chair
+
+⑤ 音読・スピーキング】
+音読: 「The book is on the table.」を5回。on と table の /t/ をはっきり。
+置き換え: 物の場所を説明。例: The keys are on the counter. 等。
+会話: Where is my ___? → It's on/in/under the _____.
+
+================================================================================
+■ gb-007
+================================================================================
+【問題文】
+It _____ rain tomorrow, so bring an umbrella.
+
+【選択肢】
+A. will … 〜するだろう（未来）【正解】
+B. is … 〜である（現在）
+C. was … 〜だった（過去）
+D. has … 〜を持っている（現在）
+
+【正解の概要】
+「will」は未来の予測や意志を表します。「tomorrow（明日）」が未来のサインです。will の後ろは動詞の原形を使います。
+
+【ヒント】
+「tomorrow」は未来を示しています。未来の予測には何を使いますか？
+
+① 和訳】
+明日は雨が降るでしょう。だから傘を持ってきてください。
+
+② 重要単語】
+- tomorrow … 明日 / トゥモロウ / I have a test tomorrow.
+- umbrella … 傘 / アンブレラ / Don't forget your umbrella.
+- bring … 持ってくる / ブリング / Please bring your textbook.
+
+③ カタカナ】
+イット ブランク レイン トゥモロウ、ソウ ブリング アン アンブレラ。
+
+④ 文法解説】
+ルール: 未来形 will + 動詞の原形
+説明: will は予測・意志・約束などを表す未来形です。「tomorrow, next week, soon」などの語句とセットで使われることが多いです。will の後ろは必ず動詞の原形です。
+例文: I will call you later. / It will snow tomorrow. / She will come to the party.
+
+⑤ 音読・スピーキング】
+音読: 「It will rain tomorrow, so bring an umbrella.」を5回。will rain をつなげる。
+置き換え: 明日の天気予報を英語で。例: It will be sunny tomorrow. 等。
+会話: Do you think it will rain? / I think it will be nice weather.
+
+================================================================================
+■ gb-008
+================================================================================
+【問題文】
+There _____ two cats in the garden.
+
+【選択肢】
+A. is … 〜がある（単数）
+B. are … 〜がある（複数）【正解】
+C. has … 〜を持っている
+D. have … 〜を持っている（複数主語）
+
+【正解の概要】
+「There is / There are」は「〜がある・いる」という存在を表します。後ろの名詞が複数（two cats）なので There are を使います。
+
+【ヒント】
+cats は複数形です。「There is」と「There are」の使い分けは？
+
+① 和訳】
+庭に猫が2匹います。
+
+② 重要単語】
+- garden … 庭、庭園 / ガーデン / My mother works in the garden.
+- there is/are … 〜がある・いる（存在）/ ゼア イズ／アー / There is a park near my house.
+
+③ カタカナ】
+ゼア ブランク トゥー キャッツ イン ザ ガーデン。
+
+④ 文法解説】
+ルール: There is / There are（存在の表現）
+説明: 「〜がある・いる」という存在を表すときは「There is（単数）/ There are（複数）」を使います。There の後ろの名詞の数に合わせて is か are を選びます。
+例文: There is a cat on the roof. / There are many students in the library.
+
+⑤ 音読・スピーキング】
+音読: 「There are two cats in the garden.」を5回。There are をつなげる。
+置き換え: there is / there are で身の回りの物。例: There are three chairs in the room. 等。
+会話: 部屋・場所の説明に There is/are は便利。
+
+================================================================================
+■ gb-009
+================================================================================
+【問題文】
+I have three _____ in my family.
+
+【選択肢】
+A. childs … （誤った複数形）
+B. childrens … （誤った複数形）
+C. children … 子どもたち（正しい複数形）【正解】
+D. child … 子ども（単数形）
+
+【正解の概要】
+child（子ども）の複数形は children です。-s を付けない不規則な複数形の代表例です。他に man → men、woman → women などがあります。
+
+【ヒント】
+child の複数形は規則的ではありません。不規則複数形を覚えましょう。
+
+① 和訳】
+私の家族には子どもが3人います。
+
+② 重要単語】
+- child / children … 子ども / 子どもたち / チャイルド／チルドレン / How many children do you have?
+- family … 家族 / ファミリー / My family is important to me.
+
+③ カタカナ】
+アイ ハブ スリー ブランク イン マイ ファミリー。
+
+④ 文法解説】
+ルール: 不規則複数形
+説明: 英語には -s を付けない不規則な複数形があります。代表的なもの：child→children, man→men, woman→women, person→people, tooth→teeth, foot→feet。日常会話でよく使う単語が多いので必ず覚えましょう。
+例文: There are many children in the park. / Two men are waiting outside.
+
+⑤ 音読・スピーキング】
+音読: 「I have three children in my family.」を5回。children の /tʃ/（チ）を正確に。
+置き換え: 家族について紹介。例: I have two brothers and one sister. 等。
+会話: Do you have any siblings? / How many people are in your family?
+
+================================================================================
+■ gb-010
+================================================================================
+【問題文】
+This bag is _____ than that one.
+
+【選択肢】
+A. heavy … 重い（原級）
+B. more heavy … （誤った比較級）
+C. heavier … より重い（比較級）【正解】
+D. heaviest … 最も重い（最上級）
+
+【正解の概要】
+2つのものを比べるときは比較級（形容詞 + -er または more + 形容詞）を使います。heavy は -y を -ier に変えて heavier になります。
+
+【ヒント】
+「than」があれば比較級を使います。heavy の比較級はどう作りますか？
+
+① 和訳】
+このバッグはあちらのバッグより重いです。
+
+② 重要単語】
+- heavy / heavier … 重い / より重い / ヘビー／ヘビアー / This suitcase is heavier than mine.
+- than … 〜より（比較）/ ザン / She is taller than her brother.
+
+③ カタカナ】
+ディス バッグ イズ ブランク ザン ザット ワン。
+
+④ 文法解説】
+ルール: 比較級（-er / more）
+説明: 2つを比べるときは比較級 + than を使います。①短い形容詞：-er（tall→taller, old→older）②-y で終わる：-ier（happy→happier, heavy→heavier）③長い形容詞：more + 形容詞（more expensive）。
+例文: This car is faster than that one. / She is more intelligent than him.
+
+⑤ 音読・スピーキング】
+音読: 「This bag is heavier than that one.」を5回。heavier の /i/ と /ər/ に注意。
+置き換え: 身の回りの物を比べる。例: This book is thicker than that one. 等。
+会話: Is this one cheaper than that? はショッピングで便利。
+
+================================================================================
+■ gb-011
+================================================================================
+【問題文】
+_____ you like coffee or tea?
+
+【選択肢】
+A. Are … （be動詞の疑問文）
+B. Do … （一般動詞の疑問文を作る）【正解】
+C. Have … （現在完了の疑問文）
+D. Is … （三人称単数の be 動詞）
+
+【正解の概要】
+一般動詞（like, go, eat など）の疑問文は、文頭に Do（主語が I/you/we/they の場合）または Does（主語が he/she/it の場合）を置きます。ここでは you が主語なので Do を使います。
+
+【ヒント】
+like は一般動詞です。you が主語の疑問文には Do を使います。
+
+① 和訳】
+あなたはコーヒーと紅茶、どちらが好きですか？
+
+② 重要単語】
+- or … または、あるいは / オア / Do you want cake or pie?
+- prefer … 〜の方を好む / プリファー / I prefer tea to coffee.
+
+③ カタカナ】
+ブランク ユー ライク コーヒー オア ティー？
+
+④ 文法解説】
+ルール: 一般動詞の疑問文（Do/Does + 主語 + 動詞原形?）
+説明: 一般動詞の疑問文は do/does を文頭に置きます。主語が I/you/we/they → Do、主語が he/she/it → Does を使い、動詞は原形に戻します。
+例文: Do you like music? / Does she play tennis? / Do they live here?
+
+⑤ 音読・スピーキング】
+音読: 「Do you like coffee or tea?」を5回。or の前で少し上がるイントネーション。
+置き換え: Do you like で好みを聞く。例: Do you like Japanese food or Italian food? 等。
+会話: 初対面では相手の好みを聞くことが多い。「Do you like...?」は基本表現。
+
+================================================================================
+■ gb-012
+================================================================================
+【問題文】
+I was tired, _____ I went to bed early.
+
+【選択肢】
+A. but … しかし（逆接）
+B. or … または（選択）
+C. so … だから（結果）【正解】
+D. because … なぜなら（理由）
+
+【正解の概要】
+「so」は「だから・そのため」という結果・結論を表す接続詞です。「疲れていた → だから早く寝た」という因果関係を表すには so が適切です。because は理由を述べる際に使います（I went to bed early because I was tired.）。
+
+【ヒント】
+疲れていた「結果」として早く寝た。「結果・結論」を表す接続詞は？
+
+① 和訳】
+私は疲れていたので、早く寝ました。
+
+② 重要単語】
+- tired … 疲れた / タイアード / I feel tired after work.
+- go to bed … 寝る、就寝する / ゴウ トゥ ベッド / I go to bed at 10 p.m.
+- early … 早く / アーリー / She wakes up early every morning.
+
+③ カタカナ】
+アイ ワズ タイアード、ブランク アイ ウェント トゥ ベッド アーリー。
+
+④ 文法解説】
+ルール: 等位接続詞 and / but / or / so
+説明: and（そして）、but（しかし）、or（または）、so（だから）の4つは等位接続詞で、2つの文を対等につなぎます。so は原因→結果の順、because は結果→原因の逆の順で使います。
+例文: It was cold, so I wore a coat. / I wore a coat because it was cold.
+
+⑤ 音読・スピーキング】
+音読: 「I was tired, so I went to bed early.」を5回。so の後ろで少し間。
+置き換え: so で原因と結果。例: It was raining, so I stayed inside. 等。
+会話: I'm sorry, but... / I'd love to, but... の断り方も便利。
+
+================================================================================
+■ gb-013
+================================================================================
+【問題文】
+Please give the book to _____.
+
+【選択肢】
+A. I … 私は（主語）
+B. me … 私に／私を（目的語）【正解】
+C. my … 私の（所有格）
+D. mine … 私のもの（所有代名詞）
+
+【正解の概要】
+前置詞（to）の後ろや動詞の目的語には目的格（me, him, her, us, them）を使います。「I」は主語の場合にのみ使います。
+
+【ヒント】
+「to」の後ろには主格（I）ではなく目的格を使います。
+
+① 和訳】
+その本を私にください。
+
+② 重要単語】
+- give … あげる、渡す / ギブ / Give me a call later.
+- object pronoun … 目的格代名詞 / オブジェクト プロナウン / Tell him the news.
+
+③ カタカナ】
+プリーズ ギブ ザ ブック トゥ ブランク。
+
+④ 文法解説】
+ルール: 人称代名詞の格（主格 vs 目的格）
+説明: I/you/he/she/we/they は主語として使う主格。me/you/him/her/us/them は動詞や前置詞の後ろで使う目的格。「Give I the book」は誤りで「Give me the book」が正解です。
+例文: She loves him. / Please call us. / I saw them at school.
+
+⑤ 音読・スピーキング】
+音読: 「Please give the book to me.」を5回。give me のつながりを練習。
+置き換え: me/him/her/them を使ったお願い。例: Please send the email to her. 等。
+会話: Can you show me...? / Tell me more.
+
+================================================================================
+■ gb-014
+================================================================================
+【問題文】
+This is _____ bag. She left it here.
+
+【選択肢】
+A. she … 彼女は（主格）
+B. her … 彼女の（所有格）【正解】
+C. hers … 彼女のもの（所有代名詞）
+D. him … 彼を／彼に（目的格）
+
+【正解の概要】
+名詞（bag）の前で「〜の」という所有を表すには所有形容詞（my, your, his, her, our, their）を使います。「彼女の」は her です。
+
+【ヒント】
+bag という名詞の前に置いて「彼女の」を表すには何を使いますか？
+
+① 和訳】
+これは彼女のバッグです。彼女はここに置いていきました。
+
+② 重要単語】
+- possessive adjective … 所有形容詞 / ポゼシブ アジェクティブ / This is my book.
+- leave … 置いていく、去る / リーブ / She left her umbrella on the bus.
+
+③ カタカナ】
+ディス イズ ブランク バッグ。シー レフト イット ヒア。
+
+④ 文法解説】
+ルール: 所有形容詞（my / your / his / her / our / their）
+説明: 所有形容詞は名詞の前に置いて「〜の」を表します。her bag（彼女のバッグ）、his phone（彼の電話）のように使います。her と hers を混同しないよう注意：her bag（形容詞）vs This is hers.（代名詞）
+例文: This is my house. / Is that your car? / Their children are cute.
+
+⑤ 音読・スピーキング】
+音読: 「This is her bag.」を5回。her の /h/ をはっきり。
+置き換え: 所有形容詞で所有を表す。例: This is my notebook. 等。
+会話: Is this your umbrella? は忘れ物に声をかけるときに。
+
+================================================================================
+■ gb-015
+================================================================================
+【問題文】
+This is the _____ movie I have ever seen.
+
+【選択肢】
+A. good … 良い（原級）
+B. better … より良い（比較級）
+C. best … 最も良い（最上級）【正解】
+D. more good … （誤った形）
+
+【正解の概要】
+「the + 最上級」は「最も〜」という意味で、3つ以上を比べるときに使います。「I have ever seen」（今まで見た中で）と組み合わせてよく使われます。good の最上級は best です（不規則変化）。
+
+【ヒント】
+「ever seen（今まで見た中で）」とあります。「最も〜」は最上級を使います。good の最上級は？
+
+① 和訳】
+これは私が今まで見た中で最高の映画です。
+
+② 重要単語】
+- ever … 今までに、かつて / エバー / Have you ever been to Europe?
+- good / better / best … 良い / より良い / 最も良い / グッド／ベター／ベスト / This is the best restaurant in town.
+
+③ カタカナ】
+ディス イズ ザ ブランク ムービー アイ ハブ エバー スィーン。
+
+④ 文法解説】
+ルール: 最上級（the + -est / the most）
+説明: 3つ以上を比べて「最も〜」というときは最上級を使います。short→shortest、happy→happiest（-y→-iest）、expensive→most expensive。不規則変化：good→best、bad→worst、many→most。必ず the を付けます。
+例文: She is the tallest in the class. / This is the most beautiful park I've ever visited.
+
+⑤ 音読・スピーキング】
+音読: 「This is the best movie I have ever seen.」を5回。the best をつなげる。
+置き換え: 最上級で感想。例: This is the worst weather I have ever experienced. 等。
+会話: This is the best _____ I've ever had! は感激を伝える便利なフレーズ。
+
+================================================================================
+■ gb-016
+================================================================================
+【問題文】
+We _____ going to visit our grandparents next week.
+
+【選択肢】
+A. is … （単数 be 動詞）
+B. are … 〜するつもり（複数 be 動詞）【正解】
+C. was … （過去の be 動詞）
+D. will … （will を be going to と重複不可）
+
+【正解の概要】
+「be going to + 動詞の原形」は計画・予定を表す未来形です。主語が we（複数）なので be 動詞は are を使います。
+
+【ヒント】
+「be going to」の be は主語に合わせて変化します。we の be 動詞は？
+
+① 和訳】
+私たちは来週、祖父母を訪ねる予定です。
+
+② 重要単語】
+- visit … 訪ねる、訪問する / ビジット / We will visit the museum tomorrow.
+- grandparents … 祖父母 / グランドペアレンツ / I love spending time with my grandparents.
+
+③ カタカナ】
+ウィー ブランク ゴウイング トゥ ビジット アワー グランドペアレンツ ネクスト ウィーク。
+
+④ 文法解説】
+ルール: be going to + 動詞原形（計画・予定）
+説明: be going to は「〜するつもりだ・〜する予定だ」という計画を表します。will が突発的な決定を表すのに対し、be going to は事前に決まっていた計画に使います。be は主語によって am/is/are に変化します。
+例文: I am going to study tonight. / She is going to travel to Japan. / They are going to get married.
+
+⑤ 音読・スピーキング】
+音読: 「We are going to visit our grandparents next week.」を5回。going to を速く言うと「ガナ」に聞こえることも。
+置き換え: be going to で週末の予定。例: I am going to study at the library this weekend. 等。
+会話: What are you going to do this weekend? は友達との会話でよく使う。
+
+================================================================================
+■ gb-017
+================================================================================
+【問題文】
+I need _____ information about the class.
+
+【選択肢】
+A. a … （不定冠詞：不可算名詞には使えない）
+B. an … （不定冠詞：不可算名詞には使えない）
+C. some … いくらかの（不可算・可算名詞に使う）【正解】
+D. many … たくさんの（可算名詞のみ）
+
+【正解の概要】
+information（情報）は不可算名詞で、a/an や数字と一緒に使えません。不可算名詞には some（いくらかの）や any（否定・疑問文で）、much（多くの）などを使います。
+
+【ヒント】
+information は数えられない名詞（不可算名詞）です。a や an は使えません。
+
+① 和訳】
+私はそのクラスについて何か情報が必要です。
+
+② 重要単語】
+- information … 情報（不可算名詞）/ インフォメーション / Can you give me some information?
+- some … いくらかの（肯定文）/ サム / I need some help.
+
+③ カタカナ】
+アイ ニード ブランク インフォメーション アバウト ザ クラス。
+
+④ 文法解説】
+ルール: 不可算名詞（Uncountable Nouns）
+説明: 不可算名詞は数えられないため a/an を使えず、複数形もありません。代表例：water, money, time, advice, information, homework, knowledge, news。数量は some, any, much, a lot of で表します。
+例文: I need some advice. / Do you have any money? / There is a lot of information online.
+
+⑤ 音読・スピーキング】
+音読: 「I need some information about the class.」を5回。information の強勢（3音節目）に注意。
+置き換え: some で必要なものを表す。例: I need some advice about my career. 等。
+会話: I'd like some information about... は窓口で丁寧に聞ける。
+
+================================================================================
+■ gb-018
+================================================================================
+【問題文】
+Have you ever _____ sushi?
+
+【選択肢】
+A. eat … 食べる（原形）
+B. ate … 食べた（過去形）
+C. eaten … 食べたことがある（過去分詞）【正解】
+D. eating … 食べている（現在分詞）
+
+【正解の概要】
+「Have you ever + 過去分詞?」は「〜したことがありますか？」という経験を尋ねる現在完了形です。eat の過去分詞は eaten（不規則変化）です。
+
+【ヒント】
+「Have you ever」の後ろには動詞の過去分詞を使います。eat の過去分詞は？
+
+① 和訳】
+あなたは今までに寿司を食べたことがありますか？
+
+② 重要単語】
+- ever … 今までに（疑問文・否定文）/ エバー / Have you ever been to Paris?
+- eat / ate / eaten … 食べる（原形/過去形/過去分詞）/ イート／エイト／イートゥン / I have eaten at that restaurant before.
+
+③ カタカナ】
+ハブ ユー エバー ブランク スーシー？
+
+④ 文法解説】
+ルール: 現在完了形（経験）Have you ever + 過去分詞？
+説明: 「Have you ever + 過去分詞？」で「〜したことがありますか？」という経験を尋ねます。答えは「Yes, I have.」または「No, I have never + 過去分詞.」です。
+例文: Have you ever tried Thai food? — Yes, I have. / Have you ever seen snow? — No, I never have.
+
+⑤ 音読・スピーキング】
+音読: 「Have you ever eaten sushi?」を5回。ever eaten をつなげる。
+置き換え: Have you ever で経験を尋ねる。例: Have you ever visited Japan? 等。
+会話: Have you ever been to...? は旅行の話に便利。
+
+================================================================================
+■ gb-019
+================================================================================
+【問題文】
+I like tea, _____ I don't like coffee.
+
+【選択肢】
+A. and … そして（追加）
+B. but … しかし（対比・逆接）【正解】
+C. so … だから（結果）
+D. because … なぜなら（理由）
+
+【正解の概要】
+「but」は対比・逆接を表す接続詞です。「お茶が好き ← 対比 → コーヒーは好きじゃない」という反対の内容をつなぐので but が適切です。
+
+【ヒント】
+お茶が好き「でも」コーヒーは好きじゃない。反対の内容をつなぐ接続詞は？
+
+① 和訳】
+私はお茶が好きですが、コーヒーは好きではありません。
+
+② 重要単語】
+- but … しかし、でも（逆接）/ バット / I want to go, but I'm busy.
+- however … しかしながら（文頭）/ ハウエバー / I like tea. However, I don't like coffee.
+
+③ カタカナ】
+アイ ライク ティー、ブランク アイ ドント ライク コーヒー。
+
+④ 文法解説】
+ルール: 逆接の接続詞 but
+説明: but（しかし）は前の内容と反対・対比の内容をつなぐ接続詞です。文の中で使います（A, but B）。文頭で使う逆接の接続詞は however（しかしながら）です。
+例文: He is smart, but he is lazy. / She wanted to come, but she was sick.
+
+⑤ 音読・スピーキング】
+音読: 「I like tea, but I don't like coffee.」を5回。but の前に少し間。
+置き換え: but で好みの対比。例: I like summer, but I don't like the heat. 等。
+会話: I agree with you, but... で反対意見を柔らかく。
+
+================================================================================
+■ gb-020
+================================================================================
+【問題文】
+She _____ her homework before dinner every day.
+
+【選択肢】
+A. finish … 終わらせる（三人称単数以外の現在）
+B. finishes … 終わらせる（三人称単数現在）【正解】
+C. finished … 終わらせた（過去形）
+D. is finishing … 終わらせている（現在進行形）
+
+【正解の概要】
+「every day（毎日）」は繰り返しの習慣を表すので現在形を使います。主語が she（三人称単数）なので finish に -es を付けて finishes となります（-sh で終わる動詞は -es）。
+
+【ヒント】
+「every day」は習慣を表します。she が主語なので動詞はどう変化しますか？
+
+① 和訳】
+彼女は毎日夕食前に宿題を終わらせます。
+
+② 重要単語】
+- finish … 終わらせる、完了する / フィニッシュ / Did you finish your project?
+- before … 〜の前に / ビフォア / Wash your hands before eating.
+- homework … 宿題 / ホームワーク / I always do my homework after school.
+
+③ カタカナ】
+シー ブランク ハー ホームワーク ビフォア ディナー エブリ デイ。
+
+④ 文法解説】
+ルール: 三人称単数現在形の -es（-sh/-ch/-o で終わる動詞）
+説明: 動詞が -sh, -ch, -x, -o, -ss で終わるときは -es を付けます。finish→finishes, watch→watches, do→does, go→goes, fix→fixes。every day, usually, always などの副詞が目印です。
+例文: She watches TV every night. / He does his homework early. / She goes to the gym on weekends.
+
+⑤ 音読・スピーキング】
+音読: 「She finishes her homework before dinner every day.」を5回。finishes の /ɪz/ に注意。
+置き換え: 毎日の習慣で三人称単数。例: He brushes his teeth before going to bed. 等。
+会話: What does she usually do after school? では does と動詞の両方に注意。
+
+================================================================================
+（以上 20問）
+================================================================================

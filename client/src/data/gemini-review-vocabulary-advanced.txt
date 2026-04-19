@@ -1,0 +1,853 @@
+================================================================================
+ジェミニ添削用：語彙・上級 20問（問題全文＋解説一式）
+出典: client/src/data/vocabulary-advanced.ts と同一内容
+================================================================================
+
+【依頼文（そのままコピーして先頭に付けてもOK）】
+以下は英語学習アプリの「語彙・上級」20問です。各問について、(1) 問題文・選択肢・正解が英語として妥当か、(2) 日本語の解説・和訳・用語説明に誤りや不自然さがないか、(3) カタカナ表記（完成文の読み）が発音の目安として適切か、を指摘してください。問題がなければ「問題なし」と簡潔に。
+
+================================================================================
+■ va-001
+================================================================================
+【問題文（英語）】
+The collapse of the company was _____, given the mounting debt and failed investments.
+
+【選択肢】
+A. preventable … 防げた
+B. inevitable … 避けられない、必然的な【正解】
+C. surprising … 驚くべき
+D. accidental … 偶発的な
+
+【正解の概要（explanation）】
+「mounting debt（累積する負債）」「failed investments（失敗した投資）」という状況から、会社の倒産は「inevitable（避けられない・必然的な）」だったと言えます。
+
+【ヒント（hint）】
+累積する負債と失敗した投資があれば、会社の倒産は避けられますか、避けられませんか？
+
+① 和訳（questionTranslation）】
+累積する負債と失敗した投資を考えると、その会社の倒産は避けられないことでした。
+
+② 重要単語（vocabularyItems）】
+- inevitable … 意味: 不可避の、必然的な / カタカナ: イネビタブル / 例: Change is inevitable in any organization.
+- mounting … 意味: 増大する、累積する / カタカナ: マウンティング / 例: There is mounting pressure to act.
+- collapse … 意味: 崩壊、倒産（名詞）/ 崩壊する（動詞） / カタカナ: コラプス / 例: The bridge collapsed under the weight.
+
+③ カタカナ読み（questionKatakana）】
+ザ コラプス オブ ザ カンパニー ワズ イネビタブル、ギブン ザ マウンティング デット アンド フェイルド インベストメンツ。
+
+④ 文法解説（grammarPoints）】
+ルール: given の分詞構文（前置詞的用法）
+説明: 「given + 名詞/節」は「〜を考慮すると、〜を踏まえると」という意味。formal な書き言葉でよく使われます。「Given the evidence, he was guilty.」「Given that she was new, she did well.」
+例文: Given the circumstances, the decision was reasonable. / Given his experience, he was the best candidate. / Given the cost, the plan was abandoned.
+
+⑤ 音読・スピーキング練習（speakingPractice）】
+音読指示: 「The collapse of the company was inevitable, given the mounting debt.」を5回音読してください。inevitable の5音節（in-ev-i-ta-ble）をゆっくり確認してから発音しましょう。
+置き換え練習:
+  元文: The collapse of the company was inevitable.
+  指示: inevitable を使って必然的な結果について話しましょう。
+  例: Given the lack of preparation, failure was almost inevitable. / Conflict between the two countries seemed inevitable. / Change is inevitable; what matters is how we respond.
+会話のヒント: 「It was inevitable.」（それは避けられなかった）は何かが起こった後の状況説明によく使われます。議論や分析で使うと論理的な印象を与えます。
+
+================================================================================
+■ va-002
+================================================================================
+【問題文（英語）】
+The poem's meaning is highly _____, with critics offering completely different interpretations.
+
+【選択肢】
+A. straightforward … わかりやすい
+B. literal … 文字通りの
+C. ambiguous … 曖昧な、多義的な【正解】
+D. explicit … 明確な
+
+【正解の概要（explanation）】
+「critics offering completely different interpretations（批評家がまったく異なる解釈をしている）」という文脈から、詩の意味が「ambiguous（曖昧で多義的）」であることが分かります。
+
+【ヒント（hint）】
+批評家が全く異なる解釈をしているということは、詩の意味はどんな状態ですか？
+
+① 和訳（questionTranslation）】
+その詩の意味は非常に曖昧で、批評家たちはまったく異なる解釈を提示しています。
+
+② 重要単語（vocabularyItems）】
+- ambiguous … 意味: 曖昧な、複数の意味を持つ / カタカナ: アンビギュアス / 例: The instruction was ambiguous.
+- interpretation … 意味: 解釈、理解 / カタカナ: インタープリテーション / 例: There are many interpretations of this painting.
+- explicit … 意味: 明確な、はっきりした / カタカナ: エクスプリシット / 例: The contract includes explicit instructions.
+
+③ カタカナ読み（questionKatakana）】
+ザ ポエムズ ミーニング イズ ハイリー アンビギュアス、ウィズ クリティックス オファリング コンプリートリー ディファレント インタープリテーションズ。
+
+④ 文法解説（grammarPoints）】
+ルール: ambiguous vs vague vs obscure の違い
+説明: ambiguous（複数の解釈が可能）、vague（漠然として不明確）、obscure（難解・わかりにくい）。「The answer is ambiguous.」（複数の解釈がある）「His directions were vague.」（漠然としている）「The reference is obscure.」（一般に知られていない）
+例文: The politician gave an ambiguous answer. / The instructions were vague. / The text uses obscure literary references.
+
+⑤ 音読・スピーキング練習（speakingPractice）】
+音読指示: 「The poem's meaning is highly ambiguous.」を5回音読してください。ambiguous の /æmˈbɪgjuəs/ というアクセントに注意しましょう。
+置き換え練習:
+  元文: The poem's meaning is highly ambiguous.
+  指示: ambiguous を使って解釈が多様なものについて話しましょう。
+  例: The court ruling was ambiguous, leaving room for different interpretations. / Please avoid ambiguous language in your report. / The outcome of the negotiation remains ambiguous.
+会話のヒント: 「That's a bit ambiguous. Can you clarify?」（それは少し曖昧です。明確にしてもらえますか？）はビジネスや学術的な場面で使う重要な質問フレーズです。
+
+================================================================================
+■ va-003
+================================================================================
+【問題文（英語）】
+The environmental organization _____ stricter regulations on industrial pollution.
+
+【選択肢】
+A. opposes … 反対する
+B. avoids … 避ける
+C. advocates … 提唱する、支持する【正解】
+D. doubts … 疑う
+
+【正解の概要（explanation）】
+環境団体が産業汚染に対する規制強化を「advocates（提唱する・支持する）」という文脈は最も自然です。opposes（反対する）は環境団体の立場に反します。
+
+【ヒント（hint）】
+環境団体が産業汚染の規制について取ると予想される立場は何ですか？
+
+① 和訳（questionTranslation）】
+その環境団体は産業汚染に対してより厳しい規制を求めています。
+
+② 重要単語（vocabularyItems）】
+- advocate (for) … 意味: 〜を提唱する、支持する / カタカナ: アドボケイト / 例: She advocates for equal rights.
+- stricter … 意味: より厳しい（strict の比較級） / カタカナ: ストリクター / 例: We need stricter safety rules.
+- industrial pollution … 意味: 産業汚染 / カタカナ: インダストリアル ポリューション / 例: Industrial pollution affects public health.
+
+③ カタカナ読み（questionKatakana）】
+ジ エンバイロンメンタル オーガナイゼーション アドボケイツ ストリクター レギュレーションズ オン インダストリアル ポリューション。
+
+④ 文法解説（grammarPoints）】
+ルール: advocate の品詞別用法
+説明: advocate（動詞）：advocate for（〜のために主張・支持する）、advocate + doing（〜することを勧める）。advocate（名詞）：an advocate of/for（〜の支持者・擁護者）。「She advocates for children's rights.」「He is an advocate of free speech.」
+例文: The group advocates for stricter food safety laws. / She is a strong advocate for environmental protection. / He advocated ending the war immediately.
+
+⑤ 音読・スピーキング練習（speakingPractice）】
+音読指示: 「The environmental organization advocates stricter regulations on industrial pollution.」を5回音読してください。advocates の /ˈædvəkeɪts/ というアクセントに注意しましょう。
+置き換え練習:
+  元文: The organization advocates stricter regulations on industrial pollution.
+  指示: advocate を使って支持や推奨の文を作りましょう。
+  例: The professor advocates a student-centered approach to learning. / Human rights organizations advocate for fair treatment of refugees. / She is an advocate for mental health awareness in schools.
+会話のヒント: 「I advocate for...」（私は〜を支持します）はディスカッションや議論で自分の立場を明確にするときに使う表現です。
+
+================================================================================
+■ va-004
+================================================================================
+【問題文（英語）】
+The CEO's primary _____ was to restore investor confidence after the scandal.
+
+【選択肢】
+A. obstacle … 障害
+B. concern … 懸念
+C. priority … 優先事項【正解】
+D. privilege … 特権
+
+【正解の概要（explanation）】
+スキャンダル後に投資家の信頼を回復することがCEOの「primary（最重要の）priority（優先事項）」という文脈です。obstacle（障害）とは意味が異なります。
+
+【ヒント（hint）】
+CEOがスキャンダル後に最も重要と考えた目標は何ですか？
+
+① 和訳（questionTranslation）】
+CEOの最優先事項はスキャンダルの後に投資家の信頼を回復することでした。
+
+② 重要単語（vocabularyItems）】
+- priority … 意味: 優先事項 / カタカナ: プライオリティー / 例: Health should be your top priority.
+- restore … 意味: 回復させる、取り戻す / カタカナ: リストア / 例: The new measures helped restore public trust.
+- confidence … 意味: 信頼、自信 / カタカナ: コンフィデンス / 例: Investor confidence fell after the news.
+
+③ カタカナ読み（questionKatakana）】
+ザ スィーイーオーズ プライマリー プライオリティー ワズ トゥ リストア インベスター コンフィデンス アフター ザ スキャンダル。
+
+④ 文法解説（grammarPoints）】
+ルール: priority の用法
+説明: priority（名詞）：top/first/main/primary priority（最優先事項）。「give priority to（〜を優先する）」「set priorities（優先順位をつける）」。「prioritize（動詞）：〜を優先する」も重要。「Let's prioritize safety.」
+例文: Safety is our top priority. / She prioritized her family over her career. / Please give priority to urgent requests.
+
+⑤ 音読・スピーキング練習（speakingPractice）】
+音読指示: 「The CEO's primary priority was to restore investor confidence.」を5回音読してください。priority の /praɪˈɒrɪti/ というアクセントに注意しましょう。
+置き換え練習:
+  元文: The CEO's primary priority was to restore investor confidence.
+  指示: priority を使って目標や優先事項について話しましょう。
+  例: My top priority this semester is to improve my writing skills. / The company's priority is to reduce its carbon footprint. / You need to prioritize your tasks to manage time effectively.
+会話のヒント: 「What's your top priority right now?」（今、最優先事項は何ですか？）は目標設定の会話で使える実践的な質問です。
+
+================================================================================
+■ va-005
+================================================================================
+【問題文（英語）】
+The medication helped to _____ the patient's chronic back pain significantly.
+
+【選択肢】
+A. worsen … 悪化させる
+B. cause … 引き起こす
+C. alleviate … 和らげる、軽減する【正解】
+D. ignore … 無視する
+
+【正解の概要（explanation）】
+「helped to（〜するのに役立った）」という文脈から、薬が慢性的な腰痛を「alleviate（和らげる）」ことを示しています。worsen（悪化させる）は反対の意味です。
+
+【ヒント（hint）】
+薬が患者の慢性的な腰痛に「役立った」とはどういう意味ですか？
+
+① 和訳（questionTranslation）】
+その薬は患者の慢性的な腰痛をかなり和らげるのに役立ちました。
+
+② 重要単語（vocabularyItems）】
+- alleviate … 意味: （痛みや苦しみを）和らげる、軽減する / カタカナ: アリービエイト / 例: This drug alleviates symptoms of anxiety.
+- chronic … 意味: 慢性的な（長期間続く） / カタカナ: クロニック / 例: She suffers from chronic fatigue.
+- relieve … 意味: 緩和する（alleviate より一般的） / カタカナ: リリーブ / 例: Exercise can relieve stress.
+
+③ カタカナ読み（questionKatakana）】
+ザ メディケーション ヘルプド トゥ アリービエイト ザ ペイシェンツ クロニック バック ペイン シグニフィカントリー。
+
+④ 文法解説（grammarPoints）】
+ルール: alleviate / relieve / mitigate の違い
+説明: alleviate（痛みや問題を部分的に軽くする）、relieve（苦痛・圧力から解放する・取り除く）、mitigate（深刻なマイナス効果を抑制する・緩和する）。「alleviate pain」「relieve stress」「mitigate risks」が典型的な組み合わせです。
+例文: The medicine alleviated her headache. / A hot bath relieves muscle tension. / We must mitigate the impact of climate change.
+
+⑤ 音読・スピーキング練習（speakingPractice）】
+音読指示: 「The medication helped to alleviate the patient's chronic back pain.」を5回音読してください。alleviate の /əˈliːvieɪt/ というアクセントに注意しましょう。
+置き換え練習:
+  元文: The medication helped to alleviate the patient's chronic back pain.
+  指示: alleviate/relieve/mitigate を使って問題の緩和について話しましょう。
+  例: Talking to a counselor can help alleviate feelings of anxiety. / Exercise is a great way to relieve stress after a long day. / We need policies to mitigate the effects of global warming.
+会話のヒント: 「This might help alleviate the problem.」（これが問題の緩和に役立つかもしれません）はビジネスや医療の文脈でよく使う表現です。
+
+================================================================================
+■ va-006
+================================================================================
+【問題文（英語）】
+The journalist _____ every claim in the article before it was published.
+
+【選択肢】
+A. created … 作り出した
+B. accepted … 受け入れた
+C. scrutinized … 精査した、詳しく調べた【正解】
+D. ignored … 無視した
+
+【正解の概要（explanation）】
+「before it was published（公開前に）」という文脈から、ジャーナリストが記事の各主張を「scrutinized（精査した・徹底的に調べた）」ことが最も適切です。
+
+【ヒント（hint）】
+ジャーナリストが記事を公開する前に各主張に対して何をするのが理想ですか？
+
+① 和訳（questionTranslation）】
+そのジャーナリストは記事が公開される前に、すべての主張を精査しました。
+
+② 重要単語（vocabularyItems）】
+- scrutinize … 意味: 精査する、細かく調べる / カタカナ: スクルーティナイズ / 例: The committee scrutinized every detail.
+- scrutiny … 意味: 精査、厳しい審査（名詞） / カタカナ: スクルーティニー / 例: The proposal came under scrutiny.
+- claim … 意味: 主張（名詞）/ 主張する（動詞） / カタカナ: クレイム / 例: His claims were not supported by evidence.
+
+③ カタカナ読み（questionKatakana）】
+ザ ジャーナリスト スクルーティナイズド エブリ クレイム イン ザ アーティクル ビフォア イット ワズ パブリッシュト。
+
+④ 文法解説（grammarPoints）】
+ルール: scrutinize / examine / investigate の違い
+説明: scrutinize（隅々まで精密に調べる・批判的に精査）、examine（詳しく調べる・検査する）、investigate（公的・体系的に調査する）。「scrutinize a document（文書を精査）」「examine a patient（患者を診察）」「investigate a crime（犯罪を捜査）」
+例文: Auditors scrutinized every financial record. / The doctor examined the patient carefully. / Police are investigating the robbery.
+
+⑤ 音読・スピーキング練習（speakingPractice）】
+音読指示: 「The journalist scrutinized every claim in the article before it was published.」を5回音読してください。scrutinized の /ˈskruːtɪnaɪzd/ という発音に注意しましょう。
+置き換え練習:
+  元文: The journalist scrutinized every claim before it was published.
+  指示: scrutinize を使って詳細な検討について話しましょう。
+  例: The auditors scrutinized the company's financial records for errors. / Her decision was scrutinized by the media and the public. / Before signing, you should scrutinize the contract carefully.
+会話のヒント: 「This deserves more scrutiny.」（これはもっとよく検討する必要があります）はビジネスや議論で批判的な視点を示すときに使う表現です。
+
+================================================================================
+■ va-007
+================================================================================
+【問題文（英語）】
+The rate of technological advancement in the 21st century is truly _____.
+
+【選択肢】
+A. outdated … 時代遅れの
+B. unprecedented … 前例のない【正解】
+C. gradual … 段階的な
+D. predictable … 予測可能な
+
+【正解の概要（explanation）】
+21世紀の技術進歩の速さが「truly（本当に）」「unprecedented（前例のない）」という文脈は、現代技術の急速な発展を表す最も適切な表現です。
+
+【ヒント（hint）】
+21世紀の技術進歩は過去に見られたことがない速さです。それを表す言葉は何ですか？
+
+① 和訳（questionTranslation）】
+21世紀における技術進歩の速度は本当に前例のないものです。
+
+② 重要単語（vocabularyItems）】
+- unprecedented … 意味: 前例のない、空前の / カタカナ: アンプレシデンテッド / 例: The pandemic caused unprecedented disruption.
+- advancement … 意味: 進歩、前進（名詞） / カタカナ: アドバンスメント / 例: Medical advancements have saved millions of lives.
+- rate … 意味: 速度、割合 / カタカナ: レイト / 例: The rate of change is increasing.
+
+③ カタカナ読み（questionKatakana）】
+ザ レイト オブ テクノロジカル アドバンスメント イン ザ トゥウェンティファースト センチュリー イズ トゥルーリー アンプレシデンテッド。
+
+④ 文法解説（grammarPoints）】
+ルール: un- 接頭辞（否定）の単語
+説明: un- は「否定・反対」を表す接頭辞。unprecedented（前例がない）、unexpected（予期しない）、unbelievable（信じられない）、uncommon（珍しい）、unacceptable（受け入れられない）。これらはすべて formal な文脈でよく使われます。
+例文: The decision was unprecedented. / His success was unexpected. / The level of pollution is unacceptable.
+
+⑤ 音読・スピーキング練習（speakingPractice）】
+音読指示: 「The rate of technological advancement in the 21st century is truly unprecedented.」を5回音読してください。unprecedented の /ʌnˈpresɪdentɪd/ というアクセントに注意しましょう。
+置き換え練習:
+  元文: The rate of technological advancement is truly unprecedented.
+  指示: unprecedented を使って前例のない出来事について話しましょう。
+  例: The election results were unprecedented in the country's history. / We are living in a time of unprecedented change. / The company achieved unprecedented growth in its first year.
+会話のヒント: 「This is unprecedented.」（これは前例がない）は重大なニュースや出来事を議論するときによく使う表現です。特にビジネスや政治の文脈で有効です。
+
+================================================================================
+■ va-008
+================================================================================
+【問題文（英語）】
+Despite their long-running feud, the two countries eventually managed to _____ their differences.
+
+【選択肢】
+A. ignore … 無視する
+B. deepen … 深める
+C. reconcile … 和解させる、折り合いをつける【正解】
+D. expand … 拡大する
+
+【正解の概要（explanation）】
+「long-running feud（長期的な争い）」があったにもかかわらず「eventually（最終的に）」対立を「reconcile（和解する・折り合いをつける）」したという文脈です。
+
+【ヒント（hint）】
+長年の争いの後に最終的に両国が違いに対してどうしたのですか？
+
+① 和訳（questionTranslation）】
+長年の争いにもかかわらず、2国は最終的に対立を和解させることができました。
+
+② 重要単語（vocabularyItems）】
+- reconcile … 意味: 和解させる、折り合いをつける / カタカナ: レコンサイル / 例: They reconciled after years of conflict.
+- feud … 意味: 長年の争い・確執 / カタカナ: フィード / 例: A family feud divided them for decades.
+- despite … 意味: 〜にもかかわらず / カタカナ: ディスパイト / 例: Despite the rain, she went jogging.
+
+③ カタカナ読み（questionKatakana）】
+ディスパイト ゼア ロングランニング フィード、ザ トゥー カントリーズ イベンチュアリー マネージド トゥ レコンサイル ゼア ディファレンシズ。
+
+④ 文法解説（grammarPoints）】
+ルール: reconcile の用法
+説明: reconcile（人・意見・事実などを）和解させる・調和させる。「reconcile differences（違いを折り合わせる）」「be reconciled with（〜と和解する）」「reconcile facts（事実を整合させる）」
+例文: The two sides were finally reconciled. / It is hard to reconcile his words with his actions. / They reconciled their conflicting views after long discussions.
+
+⑤ 音読・スピーキング練習（speakingPractice）】
+音読指示: 「The two countries eventually managed to reconcile their differences.」を5回音読してください。reconcile の /ˈrekənsaɪl/ というアクセントに注意しましょう。
+置き換え練習:
+  元文: The two countries managed to reconcile their differences.
+  指示: reconcile を使って和解や調整について話しましょう。
+  例: The couple went to counseling to reconcile their relationship. / It is difficult to reconcile environmental protection with economic growth. / After years of argument, the siblings finally reconciled.
+会話のヒント: 「We need to reconcile these two ideas.」（この2つのアイデアを調整する必要があります）はビジネスや交渉の場面でよく使う表現です。
+
+================================================================================
+■ va-009
+================================================================================
+【問題文（英語）】
+The lawyer needed more evidence to _____ her client's claim of innocence.
+
+【選択肢】
+A. contradict … 反論する
+B. substantiate … 裏付ける、証拠で実証する【正解】
+C. exaggerate … 誇張する
+D. dismiss … 却下する
+
+【正解の概要（explanation）】
+弁護士がクライアントの無実を証明するために証拠を使って「substantiate（裏付ける・証拠で実証する）」必要があるという文脈です。
+
+【ヒント（hint）】
+弁護士が依頼人の無実の主張に対して証拠を使って何をしますか？
+
+① 和訳（questionTranslation）】
+弁護士はクライアントの無実の主張を裏付けるためにさらなる証拠が必要でした。
+
+② 重要単語（vocabularyItems）】
+- substantiate … 意味: 証拠で裏付ける、実証する / カタカナ: サブスタンシエイト / 例: Can you substantiate that claim?
+- innocence … 意味: 無実、無罪 / カタカナ: イノセンス / 例: She maintained her innocence throughout the trial.
+- evidence … 意味: 証拠、根拠 / カタカナ: エビデンス / 例: The evidence against him was overwhelming.
+
+③ カタカナ読み（questionKatakana）】
+ザ ローヤー ニーデッド モア エビデンス トゥ サブスタンシエイト ハー クライエンツ クレイム オブ イノセンス。
+
+④ 文法解説（grammarPoints）】
+ルール: substantiate / support / corroborate の違い
+説明: substantiate（証拠を提示して主張の正しさを証明する）、support（賛成・根拠を示す）、corroborate（他の証拠・証人が確認・裏付ける）。「substantiate a claim」「support an argument」「corroborate a statement」
+例文: The data substantiates our hypothesis. / Evidence supports the theory. / His testimony was corroborated by two witnesses.
+
+⑤ 音読・スピーキング練習（speakingPractice）】
+音読指示: 「The lawyer needed more evidence to substantiate her client's claim of innocence.」を5回音読してください。substantiate の /səbˈstænʃieɪt/ というアクセントに注意しましょう。
+置き換え練習:
+  元文: The lawyer needed more evidence to substantiate the claim.
+  指示: substantiate/support/corroborate を使って証拠に関する文を作りましょう。
+  例: Can you substantiate that claim with credible sources? / The research data substantiates our initial hypothesis. / His alibi was corroborated by security camera footage.
+会話のヒント: 「Can you substantiate that?」（それを証拠で裏付けられますか？）は議論や研究発表で批判的思考を示す重要な問いかけです。
+
+================================================================================
+■ va-010
+================================================================================
+【問題文（英語）】
+The new flood barriers are designed to _____ the risk of damage to coastal communities.
+
+【選択肢】
+A. increase … 増大させる
+B. create … 生み出す
+C. mitigate … 緩和する、軽減する【正解】
+D. ignore … 無視する
+
+【正解の概要（explanation）】
+洪水バリアが設計された目的として、沿岸コミュニティへの被害リスクを「mitigate（緩和する・軽減する）」ことが最も適切です。increase（増大）は逆の意味です。
+
+【ヒント（hint）】
+洪水バリアが沿岸地域への被害リスクに対して設計された目的は何ですか？
+
+① 和訳（questionTranslation）】
+新しい洪水バリアは沿岸地域への被害リスクを軽減するために設計されています。
+
+② 重要単語（vocabularyItems）】
+- mitigate … 意味: 緩和する、軽減する / カタカナ: ミティゲイト / 例: Steps were taken to mitigate the risks.
+- coastal … 意味: 沿岸の、海岸沿いの / カタカナ: コースタル / 例: Rising sea levels threaten coastal cities.
+- barrier … 意味: 障壁、バリア / カタカナ: バリア / 例: The wall acts as a barrier against floods.
+
+③ カタカナ読み（questionKatakana）】
+ザ ニュー フラッド バリアーズ アー ディザインド トゥ ミティゲイト ザ リスク オブ ダメージ トゥ コースタル コミュニティーズ。
+
+④ 文法解説（grammarPoints）】
+ルール: mitigate / alleviate / reduce / minimize の比較
+説明: mitigate（深刻な悪影響を部分的に緩和する：主に formal・ビジネス・政策の文脈）、alleviate（苦しみや痛みを和らげる）、reduce（量・程度を減らす）、minimize（最小限にする）。「mitigate risks」「alleviate suffering」「reduce costs」「minimize waste」
+例文: We mitigated the damage. / The medication alleviated her pain. / We reduced expenses by 20%. / Minimize unnecessary steps.
+
+⑤ 音読・スピーキング練習（speakingPractice）】
+音読指示: 「The new flood barriers are designed to mitigate the risk of damage to coastal communities.」を5回音読してください。mitigate の /ˈmɪtɪɡeɪt/ というアクセントに注意しましょう。
+置き換え練習:
+  元文: The barriers are designed to mitigate the risk of damage.
+  指示: mitigate を使って対策に関する文を作りましょう。
+  例: Early warning systems help mitigate the impact of natural disasters. / The company introduced new policies to mitigate financial risks. / Urban planning can mitigate the effects of extreme heat.
+会話のヒント: 「We need to mitigate the risks.」（リスクを軽減する必要があります）はビジネスや政策の議論でよく使う表現です。
+
+================================================================================
+■ va-011
+================================================================================
+【問題文（英語）】
+Her _____ grasp of economic theory impressed both faculty and students.
+
+【選択肢】
+A. shallow … 浅い
+B. limited … 限られた
+C. comprehensive … 包括的な、徹底した【正解】
+D. occasional … 時折の
+
+【正解の概要（explanation）】
+教員も学生も感動させるほどの経済理論の理解力を表す形容詞として「comprehensive（包括的な・徹底した）」が最適です。shallow や limited は逆の意味です。
+
+【ヒント（hint）】
+教員も学生も感動させるほどの理解力はどんな理解力ですか？
+
+① 和訳（questionTranslation）】
+彼女の経済理論に対する包括的な理解は、教員も学生も感動させました。
+
+② 重要単語（vocabularyItems）】
+- comprehensive … 意味: 包括的な、徹底した / カタカナ: コンプリヘンシブ / 例: She gave a comprehensive overview of the topic.
+- grasp … 意味: 理解、把握（名詞）/ 把握する（動詞） / カタカナ: グラスプ / 例: He has a good grasp of mathematics.
+- faculty … 意味: 教員陣、学部（大学用語） / カタカナ: ファカルティ / 例: The faculty praised her research.
+
+③ カタカナ読み（questionKatakana）】
+ハー コンプリヘンシブ グラスプ オブ エコノミック セオリー インプレスト ボース ファカルティ アンド スチューデンツ。
+
+④ 文法解説（grammarPoints）】
+ルール: comprehensive vs thorough vs complete の違い
+説明: comprehensive（広範囲を網羅する）、thorough（細部まで徹底する）、complete（全部揃っている・完全な）。「a comprehensive guide（包括的なガイド）」「a thorough investigation（徹底した調査）」「a complete list（完全なリスト）」
+例文: We need a comprehensive plan. / The police conducted a thorough search. / Make sure the list is complete.
+
+⑤ 音読・スピーキング練習（speakingPractice）】
+音読指示: 「Her comprehensive grasp of economic theory impressed both faculty and students.」を5回音読してください。comprehensive の /ˌkɒmprɪˈhensɪv/ というアクセントに注意しましょう。
+置き換え練習:
+  元文: Her comprehensive grasp of economic theory impressed everyone.
+  指示: comprehensive を使って幅広い理解について話しましょう。
+  例: The report provides a comprehensive analysis of the market. / Students need a comprehensive understanding of grammar rules. / She has a comprehensive knowledge of Japanese history.
+会話のヒント: 「I need a more comprehensive understanding of this topic.」（このトピックについてより包括的な理解が必要です）はアカデミックな文脈でよく使う表現です。
+
+================================================================================
+■ va-012
+================================================================================
+【問題文（英語）】
+She felt _____ about accepting the promotion because it meant moving away from her family.
+
+【選択肢】
+A. confident … 自信のある
+B. enthusiastic … 熱心な
+C. ambivalent … 相反する感情を持つ、複雑な気持ちの【正解】
+D. indifferent … 無関心な
+
+【正解の概要（explanation）】
+昇進は良いことですが、家族から離れることになります。このプラスとマイナス両方の感情を同時に持つ状態が「ambivalent（相反する感情を持つ）」です。
+
+【ヒント（hint）】
+昇進はうれしいが、家族と離れなければならない。この「うれしいが悲しい」という複雑な感情を表す言葉は？
+
+① 和訳（questionTranslation）】
+昇進を受け入れることは家族から離れることを意味するため、彼女は複雑な気持ちでした。
+
+② 重要単語（vocabularyItems）】
+- ambivalent … 意味: 相反する感情を同時に持つ / カタカナ: アンビバレント / 例: I'm ambivalent about the new policy.
+- ambivalence … 意味: 相反する感情・葛藤（名詞） / カタカナ: アンビバレンス / 例: Her ambivalence about the job offer was evident.
+- promotion … 意味: 昇進、昇格 / カタカナ: プロモーション / 例: She received a promotion after three years.
+
+③ カタカナ読み（questionKatakana）】
+シー フェルト アンビバレント アバウト アクセプティング ザ プロモーション ビコーズ イット メント ムービング アウェイ フロム ハー ファミリー。
+
+④ 文法解説（grammarPoints）】
+ルール: feel + 形容詞（複雑な感情を表す上級形容詞）
+説明: feel + 形容詞で感情を表す上級語彙：ambivalent（相反する感情）、conflicted（葛藤がある）、reluctant（気が乗らない）、apprehensive（不安な）、overwhelmed（圧倒された）。
+例文: I feel ambivalent about this change. / She felt conflicted about her decision. / He was reluctant to speak in public.
+
+⑤ 音読・スピーキング練習（speakingPractice）】
+音読指示: 「She felt ambivalent about accepting the promotion because it meant moving away from her family.」を5回音読してください。ambivalent の /æmˈbɪvələnt/ というアクセントに注意しましょう。
+置き換え練習:
+  元文: She felt ambivalent about accepting the promotion.
+  指示: ambivalent を使って複雑な気持ちを表現しましょう。
+  例: He was ambivalent about moving to another country for work. / Many people feel ambivalent about new technology. / She was ambivalent about the merger — it had both advantages and disadvantages.
+会話のヒント: 「I'm a bit ambivalent about that.」（それについては複雑な気持ちです）は単純に「わからない」ではなく、両面があることを伝える sophisticated な表現です。
+
+================================================================================
+■ va-013
+================================================================================
+【問題文（英語）】
+Increasing traffic and pollution are likely to _____ the city's already serious air quality problem.
+
+【選択肢】
+A. resolve … 解決する
+B. improve … 改善する
+C. exacerbate … 悪化させる【正解】
+D. minimize … 最小化する
+
+【正解の概要（explanation）】
+「already serious（すでに深刻な）」大気汚染問題に対し、増加する交通量と汚染が「exacerbate（悪化させる）」という文脈が最適です。resolve や improve は逆の意味です。
+
+【ヒント（hint）】
+すでに深刻な大気汚染問題に、さらに汚染が増えるとどうなりますか？
+
+① 和訳（questionTranslation）】
+交通量と汚染の増加は、すでに深刻な都市の大気質問題をさらに悪化させる可能性があります。
+
+② 重要単語（vocabularyItems）】
+- exacerbate … 意味: 悪化させる、問題をさらにひどくする / カタカナ: イグザサーベイト / 例: Stress can exacerbate health problems.
+- air quality … 意味: 大気質 / カタカナ: エア クオリティー / 例: Poor air quality affects respiratory health.
+- aggravate … 意味: 悪化させる（exacerbate に近い） / カタカナ: アグラベイト / 例: Cold weather aggravates joint pain.
+
+③ カタカナ読み（questionKatakana）】
+インクリーシング トラフィック アンド ポリューション アー ライクリー トゥ イグザサーベイト ザ シティーズ オールレディ シリアス エア クオリティー プロブレム。
+
+④ 文法解説（grammarPoints）】
+ルール: exacerbate vs aggravate vs worsen の違い
+説明: exacerbate（問題・状況をさらに悪化させる：formal）、aggravate（問題・痛みを悪化させる：医療・日常）、worsen（悪化する/させる：最も一般的）。「exacerbate a crisis」「aggravate an injury」「the situation worsened」
+例文: The drought exacerbated the food shortage. / Don't aggravate the wound. / Economic conditions worsened.
+
+⑤ 音読・スピーキング練習（speakingPractice）】
+音読指示: 「Increasing pollution is likely to exacerbate the city's air quality problem.」を5回音読してください。exacerbate の /ɪɡˈzæsərbeɪt/ というアクセントに注意しましょう。
+置き換え練習:
+  元文: Increasing pollution is likely to exacerbate the air quality problem.
+  指示: exacerbate を使って問題の悪化について話しましょう。
+  例: Lack of sleep can exacerbate stress and anxiety. / The recession exacerbated the gap between rich and poor. / Poor communication can exacerbate conflicts in the workplace.
+会話のヒント: 「That will only exacerbate the problem.」（それは問題をさらに悪化させるだけです）は対策を議論するときに反論する際の effective な表現です。
+
+================================================================================
+■ va-014
+================================================================================
+【問題文（英語）】
+Her explanation of the complex theory was so _____ that even beginners could understand it.
+
+【選択肢】
+A. confusing … 紛らわしい
+B. technical … 専門的な
+C. lucid … 明快な、わかりやすい【正解】
+D. verbose … 冗長な
+
+【正解の概要（explanation）】
+「even beginners could understand it（初心者でも理解できるほど）」という文脈から、説明が「lucid（明快な・わかりやすい）」であることが分かります。confusing や verbose は逆の方向です。
+
+【ヒント（hint）】
+初心者でも複雑な理論を理解できたということは、説明がどんな質でしたか？
+
+① 和訳（questionTranslation）】
+複雑な理論に対する彼女の説明はとても明快で、初心者でも理解できました。
+
+② 重要単語（vocabularyItems）】
+- lucid … 意味: 明快な、わかりやすい / カタカナ: ルーシッド / 例: He gave a lucid explanation of the problem.
+- verbose … 意味: 冗長な、言葉が多すぎる / カタカナ: バーボース / 例: His writing is too verbose.
+- concise … 意味: 簡潔な（lucid に近いが短さを強調） / カタカナ: コンサイス / 例: Please give a concise summary.
+
+③ カタカナ読み（questionKatakana）】
+ハー エクスプラネーション オブ ザ コンプレックス セオリー ワズ ソウ ルーシッド ザット イーブン ビギナーズ クッド アンダースタンド イット。
+
+④ 文法解説（grammarPoints）】
+ルール: lucid / clear / concise / succinct の違い
+説明: lucid（論理的で明快・理解しやすい）、clear（明確・はっきり）、concise（簡潔：無駄のない短さ）、succinct（簡潔・要点を外さない）。「lucid prose」「a clear explanation」「a concise report」「a succinct summary」
+例文: The professor gave a lucid lecture. / Please be clear and concise. / She offered a succinct response.
+
+⑤ 音読・スピーキング練習（speakingPractice）】
+音読指示: 「Her explanation was so lucid that even beginners could understand it.」を5回音読してください。lucid の /ˈluːsɪd/ というアクセントに注意しましょう。
+置き換え練習:
+  元文: Her explanation was so lucid that even beginners could understand it.
+  指示: lucid/clear/concise を使って質の高い説明について話しましょう。
+  例: The textbook provides a lucid introduction to quantum physics. / A good teacher makes complex ideas lucid and accessible. / Please write a clear and concise conclusion for your essay.
+会話のヒント: 「Could you be more lucid?」（もっとわかりやすく説明していただけますか？）はアカデミックや professional な場面で使える洗練されたフレーズです。
+
+================================================================================
+■ va-015
+================================================================================
+【問題文（英語）】
+A love of learning is _____ in most children before formal education begins.
+
+【選択肢】
+A. artificial … 人工的な
+B. optional … 任意の
+C. inherent … 生まれ持った、本来備わった【正解】
+D. external … 外部の
+
+【正解の概要（explanation）】
+「before formal education begins（正式な教育が始まる前から）」という表現から、学習への愛着は子供に「inherent（生まれ持った・本来備わった）」ものだと言えます。
+
+【ヒント（hint）】
+正式な教育が始まる前から子供に学習への愛着があるということは、それは「生まれ持った」ものですか、「外から与えられた」ものですか？
+
+① 和訳（questionTranslation）】
+学習への愛着は、正式な教育が始まる前から多くの子供に生まれ持って備わっています。
+
+② 重要単語（vocabularyItems）】
+- inherent … 意味: 本来備わった、固有の / カタカナ: インヒアレント / 例: There are inherent risks in any investment.
+- innate … 意味: 生まれつきの（inherent に近い） / カタカナ: イネイト / 例: She has an innate talent for music.
+- intrinsic … 意味: 本質的な、内部からの / カタカナ: イントリンジック / 例: Intrinsic motivation leads to better learning.
+
+③ カタカナ読み（questionKatakana）】
+ア ラブ オブ ラーニング イズ インヒアレント イン モースト チルドレン ビフォア フォーマル エデュケーション ビギンズ。
+
+④ 文法解説（grammarPoints）】
+ルール: inherent / innate / intrinsic の違い
+説明: inherent（物・状況に本来備わった性質）、innate（生まれつき持っている能力・傾向）、intrinsic（外部要因に依存せず内側から来る：internal value/motivation）。「inherent risks（固有のリスク）」「innate ability（生来の能力）」「intrinsic motivation（内発的動機）」
+例文: There is an inherent tension in the relationship. / She has an innate sense of rhythm. / He is driven by intrinsic motivation.
+
+⑤ 音読・スピーキング練習（speakingPractice）】
+音読指示: 「A love of learning is inherent in most children before formal education begins.」を5回音読してください。inherent の /ɪnˈhɪərənt/ というアクセントに注意しましょう。
+置き換え練習:
+  元文: A love of learning is inherent in most children.
+  指示: inherent/innate/intrinsic を使って本来の性質について話しましょう。
+  例: There are inherent risks in any new business venture. / She has an innate ability to connect with people. / Intrinsic motivation is more powerful than external rewards.
+会話のヒント: 「There's an inherent problem with this approach.」（このアプローチには本質的な問題があります）はビジネスや議論で問題の根本を指摘するときの有効な表現です。
+
+================================================================================
+■ va-016
+================================================================================
+【問題文（英語）】
+The documentary made a _____ case for reforming the criminal justice system.
+
+【選択肢】
+A. weak … 弱い
+B. irrelevant … 無関係の
+C. compelling … 説得力のある、印象的な【正解】
+D. vague … 漠然とした
+
+【正解の概要（explanation）】
+「made a case for（〜の主張をした）」という表現と組み合わせて、強力で説得力のある主張を表す「compelling（説得力のある）」が最適です。
+
+【ヒント（hint）】
+ドキュメンタリーが刑事司法改革について強力な主張をしたとき、それはどんな主張でしたか？
+
+① 和訳（questionTranslation）】
+そのドキュメンタリーは刑事司法制度の改革に向けて説得力のある主張をしました。
+
+② 重要単語（vocabularyItems）】
+- compelling … 意味: 説得力のある、人を引き付ける / カタカナ: コンペリング / 例: She gave a compelling argument for change.
+- persuasive … 意味: 説得力のある（compelling に近い） / カタカナ: パースウェイシブ / 例: His speech was very persuasive.
+- make a case for … 意味: 〜への主張をする / カタカナ: メイク ア ケース フォー / 例: She made a strong case for the new policy.
+
+③ カタカナ読み（questionKatakana）】
+ザ ドキュメンタリー メイド ア コンペリング ケース フォー リフォーミング ザ クリミナル ジャスティス システム。
+
+④ 文法解説（grammarPoints）】
+ルール: compelling / persuasive / convincing の違い
+説明: compelling（反論するのが難しいほど強力・魅力的）、persuasive（相手を動かす説得力がある）、convincing（信じさせるほど説得力がある）。「compelling evidence」「persuasive argument」「convincing performance」
+例文: The evidence is compelling. / Her arguments were persuasive. / He gave a convincing performance.
+
+⑤ 音読・スピーキング練習（speakingPractice）】
+音読指示: 「The documentary made a compelling case for reforming the criminal justice system.」を5回音読してください。compelling の /kəmˈpelɪŋ/ というアクセントに注意しましょう。
+置き換え練習:
+  元文: The documentary made a compelling case for reform.
+  指示: compelling を使って強力な主張について話しましょう。
+  例: The author makes a compelling argument for universal basic income. / Her research provides compelling evidence for climate change. / He made a compelling case for investing in renewable energy.
+会話のヒント: 「That's a compelling argument.」（それは説得力のある議論ですね）はディスカッションで相手の意見を認める洗練された表現です。
+
+================================================================================
+■ va-017
+================================================================================
+【問題文（英語）】
+Excessive use of social media can be _____ to mental health, especially in teenagers.
+
+【選択肢】
+A. beneficial … 有益な
+B. neutral … 中立的な
+C. detrimental … 有害な、悪影響を与える【正解】
+D. irrelevant … 無関係な
+
+【正解の概要（explanation）】
+「excessive use（過剰使用）」とティーンエイジャーへの影響という文脈から、SNSの過剰使用がメンタルヘルスに「detrimental（有害な・悪影響を与える）」という判断が自然です。
+
+【ヒント（hint）】
+SNSの過剰使用がメンタルヘルスに与える影響はプラスですか、マイナスですか？
+
+① 和訳（questionTranslation）】
+SNSの過剰使用は、特に10代の若者のメンタルヘルスに有害である可能性があります。
+
+② 重要単語（vocabularyItems）】
+- detrimental … 意味: 有害な、マイナスの影響を与える / カタカナ: デトリメンタル / 例: Smoking is detrimental to your health.
+- excessive … 意味: 過剰な、度を超えた / カタカナ: エクセシブ / 例: Excessive exercise can cause injury.
+- harmful … 意味: 有害な（detrimental より一般的） / カタカナ: ハームフル / 例: Harmful chemicals were found in the water.
+
+③ カタカナ読み（questionKatakana）】
+エクセシブ ユーズ オブ ソーシャル メディア キャン ビー デトリメンタル トゥ メンタル ヘルス、エスペシャリー イン ティーンエイジャーズ。
+
+④ 文法解説（grammarPoints）】
+ルール: detrimental / harmful / adverse / damaging の違い
+説明: detrimental（harmful より formal・書き言葉）、harmful（一般的）、adverse（特に条件・状況・反応に使う：adverse effects/conditions）、damaging（評判・関係を傷つける：damaging to reputation）。
+例文: Pollution is detrimental to ecosystems. / Alcohol is harmful. / There were adverse side effects. / The scandal was damaging to his career.
+
+⑤ 音読・スピーキング練習（speakingPractice）】
+音読指示: 「Excessive use of social media can be detrimental to mental health.」を5回音読してください。detrimental の /ˌdetrɪˈmentəl/ というアクセントに注意しましょう。
+置き換え練習:
+  元文: Excessive use of social media can be detrimental to mental health.
+  指示: detrimental を使って有害な影響について話しましょう。
+  例: Lack of sleep is detrimental to cognitive function. / Air pollution is detrimental to the health of urban residents. / Poor diet can be detrimental to both physical and mental well-being.
+会話のヒント: 「This could be detrimental to our progress.」（これは私たちの進捗に悪影響を与える可能性があります）はリスクを指摘するときのプロフェッショナルな表現です。
+
+================================================================================
+■ va-018
+================================================================================
+【問題文（英語）】
+The new community center will _____ better communication between different cultural groups.
+
+【選択肢】
+A. prevent … 防ぐ
+B. hinder … 妨げる
+C. facilitate … 促進する、容易にする【正解】
+D. limit … 制限する
+
+【正解の概要（explanation）】
+コミュニティセンターが異文化グループ間のコミュニケーションを「facilitate（促進する・容易にする）」という文脈は最も自然です。prevent（防ぐ）や hinder（妨げる）は逆です。
+
+【ヒント（hint）】
+コミュニティセンターが異文化グループのコミュニケーションに対してどんな良い影響を与えますか？
+
+① 和訳（questionTranslation）】
+新しいコミュニティセンターは、異文化グループ間のコミュニケーションを促進するでしょう。
+
+② 重要単語（vocabularyItems）】
+- facilitate … 意味: 促進する、容易にする / カタカナ: ファシリテイト / 例: The new bridge facilitates transport.
+- foster … 意味: 育む、促進する（関係・感情に使うことが多い） / カタカナ: フォスター / 例: The program fosters international friendships.
+- promote … 意味: 促進する、宣伝する / カタカナ: プロモート / 例: Exercise promotes physical well-being.
+
+③ カタカナ読み（questionKatakana）】
+ザ ニュー コミュニティー センター ウィル ファシリテイト ベター コミュニケーション ビトゥウィーン ディファレント カルチャル グループス。
+
+④ 文法解説（grammarPoints）】
+ルール: facilitate / promote / foster / enable の違い
+説明: facilitate（プロセスを容易にする）、promote（行動・意識を奨励する）、foster（関係・成長を育む）、enable（可能にする）。「facilitate communication」「promote health」「foster creativity」「enable access」
+例文: Technology facilitates remote work. / The campaign promotes environmental awareness. / Good schools foster critical thinking. / The new law enables citizens to vote online.
+
+⑤ 音読・スピーキング練習（speakingPractice）】
+音読指示: 「The new community center will facilitate better communication between different cultural groups.」を5回音読してください。facilitate の /fəˈsɪlɪteɪt/ というアクセントに注意しましょう。
+置き換え練習:
+  元文: The community center will facilitate better communication between cultural groups.
+  指示: facilitate/promote/foster を使って促進に関する文を作りましょう。
+  例: Technology can facilitate learning outside the classroom. / The exchange program promotes international understanding. / A positive classroom environment fosters student creativity.
+会話のヒント: 「I'd like to facilitate a discussion on this topic.」（このトピックについて議論を進行させたいと思います）は会議や授業の司会者がよく使う表現です。
+
+================================================================================
+■ va-019
+================================================================================
+【問題文（英語）】
+Rather than following theory blindly, she took a _____ approach, focusing on what actually works.
+
+【選択肢】
+A. idealistic … 理想主義的な
+B. theoretical … 理論的な
+C. pragmatic … 実用主義的な、実際的な【正解】
+D. impulsive … 衝動的な
+
+【正解の概要（explanation）】
+「Rather than following theory blindly（理論に盲目的に従うのではなく）」「what actually works（実際に機能すること）に焦点を当てる」という文脈から、「pragmatic（実用主義的な）」が正解です。
+
+【ヒント（hint）】
+「理論より実際に機能することを重視する」アプローチとはどんなアプローチですか？
+
+① 和訳（questionTranslation）】
+理論に盲目的に従うのではなく、彼女は実際に機能することに焦点を当てた実用主義的なアプローチを取りました。
+
+② 重要単語（vocabularyItems）】
+- pragmatic … 意味: 実用主義的な、現実的な / カタカナ: プラグマティック / 例: We need a pragmatic solution.
+- pragmatism … 意味: 実用主義（名詞） / カタカナ: プラグマティズム / 例: His pragmatism helped resolve the conflict.
+- idealistic … 意味: 理想主義的な / カタカナ: アイディアリスティック / 例: Young students can be idealistic.
+
+③ カタカナ読み（questionKatakana）】
+ラザー ザン フォローイング セオリー ブラインドリー、シー トゥック ア プラグマティック アプローチ、フォーカシング オン ワット アクチュアリー ワークス。
+
+④ 文法解説（grammarPoints）】
+ルール: pragmatic / practical / realistic の違い
+説明: pragmatic（理論より結果・効果を重視する態度）、practical（実際的で応用しやすい）、realistic（現実に即している）。「a pragmatic approach」「practical advice」「a realistic goal」
+例文: She took a pragmatic approach to the budget. / He gave practical advice. / Set realistic expectations.
+
+⑤ 音読・スピーキング練習（speakingPractice）】
+音読指示: 「She took a pragmatic approach, focusing on what actually works.」を5回音読してください。pragmatic の /præɡˈmætɪk/ というアクセントに注意しましょう。
+置き換え練習:
+  元文: She took a pragmatic approach, focusing on what actually works.
+  指示: pragmatic を使って実際的なアプローチについて話しましょう。
+  例: We need a pragmatic solution to the housing crisis. / A good leader balances idealism with pragmatism. / His pragmatic attitude helped the team meet its deadline.
+会話のヒント: 「Let's be pragmatic about this.」（これについては現実的に考えましょう）は問題解決の場面で使える effective な表現です。
+
+================================================================================
+■ va-020
+================================================================================
+【問題文（英語）】
+The _____ between 'freedom' and 'liberty' is subtle but important in political science.
+
+【選択肢】
+A. similarity … 類似点
+B. definition … 定義
+C. nuance … ニュアンス、微妙な違い【正解】
+D. translation … 翻訳
+
+【正解の概要（explanation）】
+「subtle but important（微妙だが重要な）」という表現から、「freedom」と「liberty」の「nuance（ニュアンス・微妙な違い）」を指していることが分かります。similarity（類似点）は微妙な差異ではなく共通点を指します。
+
+【ヒント（hint）】
+「微妙だが重要な」差異を表す言葉は何ですか？
+
+① 和訳（questionTranslation）】
+「freedom」と「liberty」の間のニュアンスは微妙ですが、政治学において重要です。
+
+② 重要単語（vocabularyItems）】
+- nuance … 意味: ニュアンス、微妙な差異 / カタカナ: ニュアンス / 例: She understood the nuance of the poem.
+- subtle … 意味: 微妙な、繊細な / カタカナ: サトル / 例: There is a subtle difference between the two.
+- distinction … 意味: 区別、相違点 / カタカナ: ディスティンクション / 例: The distinction between the two concepts is important.
+
+③ カタカナ読み（questionKatakana）】
+ザ ニュアンス ビトゥウィーン フリーダム アンド リバティー イズ サトル バット インポータント イン ポリティカル サイエンス。
+
+④ 文法解説（grammarPoints）】
+ルール: nuance / distinction / difference の違い
+説明: nuance（微妙なニュアンス・文脈による意味の差）、distinction（はっきりとした区別）、difference（一般的な差異）。「a nuance in meaning」「a clear distinction」「a significant difference」
+例文: There are subtle nuances in the two words. / Make a clear distinction between fact and opinion. / What is the difference between the two methods?
+
+⑤ 音読・スピーキング練習（speakingPractice）】
+音読指示: 「The nuance between 'freedom' and 'liberty' is subtle but important in political science.」を5回音読してください。nuance の /ˈnjuːɑːns/ というアクセントに注意しましょう。
+置き換え練習:
+  元文: The nuance between 'freedom' and 'liberty' is subtle but important.
+  指示: nuance を使って言語の微妙な差について話しましょう。
+  例: Understanding cultural nuances is essential for effective communication. / The nuance in her tone suggested she was not fully satisfied. / Advanced learners appreciate the nuances of idiomatic expressions.
+会話のヒント: 「There's a nuance here that's easy to miss.」（ここに見落としやすいニュアンスがあります）は言語学習や文化の議論で使える sophisticated な表現です。
+
+================================================================================
+（以上 va-001〜va-020）
+================================================================================
+
+

@@ -1,0 +1,852 @@
+================================================================================
+ジェミニ添削用：語彙・初級 20問（問題全文＋解説一式）
+出典: client/src/data/vocabulary-beginner.ts と同一内容
+================================================================================
+
+【依頼文（そのままコピーして先頭に付けてもOK）】
+以下は英語学習アプリの「語彙・初級」20問です。各問について、(1) 問題文・選択肢・正解が英語として妥当か、(2) 日本語の解説・和訳・用語説明に誤りや不自然さがないか、(3) カタカナ表記（完成文の読み）が発音の目安として適切か、を指摘してください。問題がなければ「問題なし」と簡潔に。
+
+================================================================================
+■ vb-001
+================================================================================
+【問題文（英語）】
+She felt very _____ after hearing the good news.
+
+【選択肢】
+A. happy … うれしい、幸せな【正解】
+B. angry … 怒った
+C. tired … 疲れた
+D. hungry … お腹が空いた
+
+【正解の概要（explanation）】
+良いニュースを聞いた後の感情として最も自然なのは「happy（うれしい・幸せな）」です。感情を表す形容詞のうち、happy はポジティブな感情を表します。
+
+【ヒント（hint）】
+良いニュースを聞いたときの気持ちはどれですか？
+
+① 和訳（questionTranslation）】
+彼女は良いニュースを聞いてとてもうれしく感じました。
+
+② 重要単語（vocabularyItems）】
+- happy … 意味: うれしい、幸せな / カタカナ: ハッピー / 例: I am happy to see you.
+- angry … 意味: 怒っている / カタカナ: アングリー / 例: He was angry about the delay.
+- tired … 意味: 疲れた / カタカナ: タイアード / 例: She felt tired after the long trip.
+
+③ カタカナ読み（questionKatakana）】
+シー フェルト ベリー ハッピー アフター ヒアリング ザ グッド ニューズ。
+
+④ 文法解説（grammarPoints）】
+ルール: 感情を表す形容詞
+説明: 感情を表す形容詞は「feel + 形容詞」または「be + 形容詞」の形で使います。happy（うれしい）、sad（悲しい）、angry（怒った）、excited（興奮した）、nervous（緊張した）などを覚えましょう。
+例文: I feel happy. / She is excited. / He was angry about the news.
+
+⑤ 音読・スピーキング練習（speakingPractice）】
+音読指示: 「She felt very happy after hearing the good news.」を5回音読してください。happy の /æ/ 音をはっきり発音しましょう。
+置き換え練習:
+  元文: She felt very happy after hearing the good news.
+  指示: 感情を表す形容詞を変えて文を作ってみましょう。
+  例: She felt very excited after hearing the good news. / He felt sad after hearing the bad news. / They felt relieved after hearing the result.
+会話のヒント: 「How do you feel?」（気分はどうですか？）と聞かれたら「I feel happy/tired/nervous」などと答えましょう。感情を素直に伝えることがコミュニケーションの第一歩です。
+
+================================================================================
+■ vb-002
+================================================================================
+【問題文（英語）】
+The elephant is a very _____ animal.
+
+【選択肢】
+A. small … 小さい
+B. big … 大きい【正解】
+C. fast … 速い
+D. quiet … 静かな
+
+【正解の概要（explanation）】
+ゾウは地上最大の陸上動物の一つです。「big（大きい）」が最も適切な形容詞です。
+
+【ヒント（hint）】
+ゾウはどんな大きさですか？
+
+① 和訳（questionTranslation）】
+ゾウはとても大きな動物です。
+
+② 重要単語（vocabularyItems）】
+- big / large … 意味: 大きい / カタカナ: ビッグ／ラージ / 例: This is a big city.
+- small / little … 意味: 小さい / カタカナ: スモール／リトル / 例: She has a small dog.
+- huge / enormous … 意味: 巨大な（さらに大きい） / カタカナ: ヒュージ／イノーマス / 例: The whale is a huge animal.
+
+③ カタカナ読み（questionKatakana）】
+ジ エレファント イズ ア ベリー ビッグ アニマル。
+
+④ 文法解説（grammarPoints）】
+ルール: 大きさを表す形容詞（サイズ）
+説明: 大きさを表す形容詞のグラデーション：tiny（極小）< small（小さい）< medium（中くらい）< big/large（大きい）< huge/enormous（巨大な）。状況に応じて使い分けましょう。
+例文: A mouse is tiny. A cat is small. A cow is big. An elephant is huge.
+
+⑤ 音読・スピーキング練習（speakingPractice）】
+音読指示: 「The elephant is a very big animal.」を5回音読してください。big の /ɪ/ 音を短くはっきり発音しましょう。
+置き換え練習:
+  元文: The elephant is a very big animal.
+  指示: 大きさを表す形容詞を使って動物を説明しましょう。
+  例: The cat is a small animal. / The whale is an enormous animal. / The ant is a tiny insect.
+会話のヒント: 「Is this room big enough?」（この部屋は十分な広さですか？）のように、big / large は日常会話でよく使います。
+
+================================================================================
+■ vb-003
+================================================================================
+【問題文（英語）】
+I need to _____ a new pen at the store.
+
+【選択肢】
+A. sell … 売る
+B. buy … 買う【正解】
+C. find … 見つける
+D. make … 作る
+
+【正解の概要（explanation）】
+「at the store（お店で）」という場所の表現と組み合わせると、お店で行う動作は「buy（買う）」が最も自然です。sell はお店側が行う動作です。
+
+【ヒント（hint）】
+お店に行って何かをするとき、お客さんがする行動は何ですか？
+
+① 和訳（questionTranslation）】
+私はお店で新しいペンを買う必要があります。
+
+② 重要単語（vocabularyItems）】
+- buy … 意味: 買う / カタカナ: バイ / 例: I want to buy a new phone.
+- sell … 意味: 売る / カタカナ: セル / 例: They sell fresh vegetables here.
+- shop … 意味: 買い物をする（動詞） / カタカナ: ショップ / 例: She loves to shop online.
+
+③ カタカナ読み（questionKatakana）】
+アイ ニード トゥ バイ ア ニュー ペン アット ザ ストア。
+
+④ 文法解説（grammarPoints）】
+ルール: buy と sell の違い（方向性）
+説明: buy（買う）は「お金を払って物を得る」こと、sell（売る）は「物を渡してお金を得る」こと。buy は消費者側、sell は販売者側の動作です。「buy from（〜から買う）」「sell to（〜に売る）」というフレーズも覚えましょう。
+例文: I bought this shirt from that shop. / They sell handmade goods at the market.
+
+⑤ 音読・スピーキング練習（speakingPractice）】
+音読指示: 「I need to buy a new pen at the store.」を5回音読してください。buy の /aɪ/ 音（バイ）を正確に発音しましょう。
+置き換え練習:
+  元文: I need to buy a new pen at the store.
+  指示: buy を使って買い物の文を作りましょう。
+  例: I want to buy some groceries at the supermarket. / She needs to buy a birthday present for her friend. / He bought a laptop at the electronics store.
+会話のヒント: 「Where can I buy ___?」（〜はどこで買えますか？）はよく使う質問フレーズです。初めての場所でお店を探すときに便利です。
+
+================================================================================
+■ vb-004
+================================================================================
+【問題文（英語）】
+The test was very _____, so many students failed.
+
+【選択肢】
+A. easy … 簡単な
+B. difficult … 難しい【正解】
+C. short … 短い
+D. interesting … おもしろい
+
+【正解の概要（explanation）】
+多くの学生が不合格になったという結果から、テストは「difficult（難しい）」だったと判断できます。easy なら多くの人が合格するはずです。
+
+【ヒント（hint）】
+多くの学生が不合格になったということは、テストはどうでしたか？
+
+① 和訳（questionTranslation）】
+そのテストはとても難しかったので、多くの学生が不合格になりました。
+
+② 重要単語（vocabularyItems）】
+- difficult / hard … 意味: 難しい / カタカナ: ディフィカルト／ハード / 例: This math problem is very difficult.
+- easy / simple … 意味: 簡単な / カタカナ: イージー／シンプル / 例: The first question was easy.
+- fail … 意味: 不合格になる、失敗する / カタカナ: フェイル / 例: She didn't want to fail the exam.
+
+③ カタカナ読み（questionKatakana）】
+ザ テスト ワズ ベリー ディフィカルト、ソウ メニー スチューデンツ フェイルド。
+
+④ 文法解説（grammarPoints）】
+ルール: 難易度を表す形容詞
+説明: 難易度のグラデーション：easy（簡単）→ manageable（なんとかなる）→ challenging（やりがいのある難しさ）→ difficult/hard（難しい）→ impossible（不可能）。文脈によって使い分けましょう。
+例文: Level 1 is easy. Level 5 is challenging. Level 10 is extremely difficult.
+
+⑤ 音読・スピーキング練習（speakingPractice）】
+音読指示: 「The test was very difficult, so many students failed.」を5回音読してください。difficult の3音節（dif-fi-cult）を意識して発音しましょう。
+置き換え練習:
+  元文: The test was very difficult, so many students failed.
+  指示: difficult と easy を使って文を作りましょう。
+  例: The interview was very difficult, so I was nervous. / The instructions were easy to follow. / Learning a new language is challenging but rewarding.
+会話のヒント: 「Was it difficult?」（難しかった？）と聞かれたら「Yes, it was really hard.」「Not really, it was manageable.」などと答えましょう。
+
+================================================================================
+■ vb-005
+================================================================================
+【問題文（英語）】
+It is _____ to wear a seatbelt when you are in a car.
+
+【選択肢】
+A. boring … 退屈な
+B. important … 重要な、大切な【正解】
+C. funny … おかしい
+D. strange … 奇妙な
+
+【正解の概要（explanation）】
+シートベルトの着用は安全のために「important（重要な・大切な）」ことです。boring（退屈な）、funny（おかしい）、strange（奇妙な）は状況に合いません。
+
+【ヒント（hint）】
+シートベルトをすることは安全のために何ですか？
+
+① 和訳（questionTranslation）】
+車に乗るときシートベルトを着用することは大切です。
+
+② 重要単語（vocabularyItems）】
+- important … 意味: 重要な、大切な / カタカナ: インポータント / 例: Exercise is important for good health.
+- seatbelt … 意味: シートベルト / カタカナ: スィートベルト / 例: Always buckle your seatbelt.
+- necessary … 意味: 必要な / カタカナ: ネセサリー / 例: It is necessary to study hard.
+
+③ カタカナ読み（questionKatakana）】
+イット イズ インポータント トゥ ウェア ア スィートベルト ウェン ユー アー イン ア カー。
+
+④ 文法解説（grammarPoints）】
+ルール: It is + 形容詞 + to 不定詞（〜することは〜だ）
+説明: 「It is + 形容詞 + to do」は「〜することは〜だ」という意味の重要構文です。It は形式主語で、本当の主語は to do 以下です。It is important to sleep well. / It is easy to make mistakes.
+例文: It is important to drink water. / It is necessary to study every day. / It is dangerous to text while driving.
+
+⑤ 音読・スピーキング練習（speakingPractice）】
+音読指示: 「It is important to wear a seatbelt when you are in a car.」を5回音読してください。important の /ɪm'pɔːrtənt/ というアクセントに注意しましょう。
+置き換え練習:
+  元文: It is important to wear a seatbelt when you are in a car.
+  指示: It is important/necessary/good to... を使って大切なことを言いましょう。
+  例: It is important to wash your hands before eating. / It is necessary to get enough sleep every night. / It is good to exercise regularly.
+会話のヒント: 「It's important that...」や「It's essential to...」はルールや習慣を説明するときに使います。授業やミーティングでよく聞かれる表現です。
+
+================================================================================
+■ vb-006
+================================================================================
+【問題文（英語）】
+Can you _____ me carry these heavy bags?
+
+【選択肢】
+A. help … 手伝う【正解】
+B. stop … 止める
+C. leave … 去る
+D. push … 押す
+
+【正解の概要（explanation）】
+重い荷物を運ぶのに「手伝って」とお願いする文です。「help（手伝う）」が最適です。「Can you help me + 動詞の原形」は依頼の定番フレーズです。
+
+【ヒント（hint）】
+重い荷物を持つのを誰かに頼むとき、何とお願いしますか？
+
+① 和訳（questionTranslation）】
+これらの重いバッグを運ぶのを手伝っていただけますか？
+
+② 重要単語（vocabularyItems）】
+- help … 意味: 助ける、手伝う / カタカナ: ヘルプ / 例: Could you help me with this?
+- carry … 意味: 運ぶ、持つ / カタカナ: キャリー / 例: He carried the boxes to the truck.
+- assist … 意味: 手伝う（やや丁寧） / カタカナ: アシスト / 例: The staff will assist you.
+
+③ カタカナ読み（questionKatakana）】
+キャン ユー ヘルプ ミー キャリー ジーズ ヘビー バッグズ？
+
+④ 文法解説（grammarPoints）】
+ルール: help + 目的語 + 動詞原形（または to 不定詞）
+説明: 「help + 人 + 動詞原形」は「人が〜するのを助ける」という意味です。to は省略されることが多いです。「Can you help me (to) carry this?」「She helped him (to) study.」
+例文: He helped me move the furniture. / Can you help me find my phone? / She helped her mother clean the house.
+
+⑤ 音読・スピーキング練習（speakingPractice）】
+音読指示: 「Can you help me carry these heavy bags?」を5回音読してください。help me をつなげて「ヘルプミー」と発音しましょう。
+置き換え練習:
+  元文: Can you help me carry these heavy bags?
+  指示: Can you help me...? を使ってお願いの文を作りましょう。
+  例: Can you help me find the library? / Could you help me with this math problem? / Can you help me understand this word?
+会話のヒント: 「Excuse me, could you help me?」はどんな状況でも使える万能のお願いフレーズです。道に迷ったときや困ったときに積極的に使いましょう。
+
+================================================================================
+■ vb-007
+================================================================================
+【問題文（英語）】
+Please _____ your name at the top of the form.
+
+【選択肢】
+A. write … 書く【正解】
+B. read … 読む
+C. draw … 描く
+D. cut … 切る
+
+【正解の概要（explanation）】
+「please + 動詞の原形」は丁寧な命令文です。「at the top of the form（書式の上部に）」に名前を「書く（write）」のが正解です。
+
+【ヒント（hint）】
+フォームの上部に名前を入れる動作は何ですか？
+
+① 和訳（questionTranslation）】
+フォームの上部にあなたの名前を書いてください。
+
+② 重要単語（vocabularyItems）】
+- write … 意味: 書く / カタカナ: ライト / 例: Please write your address here.
+- fill in / fill out … 意味: （フォームに）記入する / カタカナ: フィル イン／アウト / 例: Please fill in this form.
+- form … 意味: 書式、フォーム / カタカナ: フォーム / 例: You need to complete the application form.
+
+③ カタカナ読み（questionKatakana）】
+プリーズ ライト ユア ネイム アット ザ トップ オブ ザ フォーム。
+
+④ 文法解説（grammarPoints）】
+ルール: write vs draw の違い
+説明: write（書く）は文字・単語・文章を書くこと。draw（描く）は絵や図形を描くこと。「write a letter（手紙を書く）」「draw a picture（絵を描く）」と使い分けます。
+例文: Write your name here. / She drew a map to show me the way.
+
+⑤ 音読・スピーキング練習（speakingPractice）】
+音読指示: 「Please write your name at the top of the form.」を5回音読してください。Please をゆっくり丁寧に言いましょう。
+置き換え練習:
+  元文: Please write your name at the top of the form.
+  指示: write を使った指示の文を作りましょう。
+  例: Please write your answers clearly. / Write your phone number in this box. / Could you write that down for me?
+会話のヒント: 「Could you write that down?」（それを書き留めてもらえますか？）は電話やミーティングで使う便利なフレーズです。
+
+================================================================================
+■ vb-008
+================================================================================
+【問題文（英語）】
+The movie will _____ at 7:00 p.m. Don't be late.
+
+【選択肢】
+A. end … 終わる
+B. stop … 止まる
+C. begin … 始まる【正解】
+D. open … 開く
+
+【正解の概要（explanation）】
+「Don't be late（遅れないで）」という文脈から、これから何かが「始まる（begin）」という意味が適切です。begin と start はほぼ同じ意味で使えます。
+
+【ヒント（hint）】
+「Don't be late（遅れないで）」という指示から、何が起こりますか？
+
+① 和訳（questionTranslation）】
+映画は午後7時に始まります。遅れないでください。
+
+② 重要単語（vocabularyItems）】
+- begin / start … 意味: 始まる、始める / カタカナ: ビギン／スタート / 例: The class begins at 9 a.m.
+- end / finish … 意味: 終わる、終える / カタカナ: エンド／フィニッシュ / 例: The meeting ends at 5 p.m.
+- late … 意味: 遅い、遅刻して / カタカナ: レイト / 例: Sorry, I'm late.
+
+③ カタカナ読み（questionKatakana）】
+ザ ムービー ウィル ビギン アット セブン ピーエム。ドント ビー レイト。
+
+④ 文法解説（grammarPoints）】
+ルール: begin と start の違い
+説明: begin と start はほぼ同じ意味で使えます（始まる/始める）。わずかな違い：begin はやや formal、start は日常的によく使われます。どちらも「+ to 不定詞」または「+ -ing」を取ります：begin/start to work / working。
+例文: The concert begins at 8. / Let's start the meeting. / She began to cry. / He started working.
+
+⑤ 音読・スピーキング練習（speakingPractice）】
+音読指示: 「The movie will begin at 7:00 p.m. Don't be late.」を5回音読してください。begin の /ɪ/ 音を短く発音しましょう。
+置き換え練習:
+  元文: The movie will begin at 7:00 p.m.
+  指示: begin/start を使って予定を言いましょう。
+  例: The concert starts at 8:30 p.m. / Classes begin on Monday. / The new semester starts next week.
+会話のヒント: 「What time does it start?」（何時に始まりますか？）は映画やイベントで使う基本フレーズです。
+
+================================================================================
+■ vb-009
+================================================================================
+【問題文（英語）】
+This jacket is very _____, so I can't buy it.
+
+【選択肢】
+A. cheap … 安い
+B. expensive … 高い（値段）【正解】
+C. light … 軽い
+D. colorful … カラフルな
+
+【正解の概要（explanation）】
+「so I can't buy it（だから買えない）」という結果から、ジャケットが「expensive（高い・値段が高い）」であることが分かります。cheap なら買えるはずです。
+
+【ヒント（hint）】
+買えない理由として考えられるのは、値段が「高い」か「安い」か、どちらですか？
+
+① 和訳（questionTranslation）】
+このジャケットはとても高いので、買うことができません。
+
+② 重要単語（vocabularyItems）】
+- expensive … 意味: 高価な、値段が高い / カタカナ: イクスペンシブ / 例: That restaurant is too expensive for me.
+- cheap … 意味: 安い（値段） / カタカナ: チープ / 例: This market has cheap vegetables.
+- affordable … 意味: 手ごろな値段の / カタカナ: アフォーダブル / 例: We need an affordable option.
+
+③ カタカナ読み（questionKatakana）】
+ディス ジャケット イズ ベリー エクスペンシブ、ソウ アイ キャント バイ イット。
+
+④ 文法解説（grammarPoints）】
+ルール: 値段を表す形容詞
+説明: 値段のグラデーション：free（無料）< cheap/inexpensive（安い）< affordable（手ごろ）< moderate（適度）< expensive（高い）< pricey/costly（かなり高い）< luxurious（超高級）。
+例文: This shirt is cheap. That watch is expensive. The hotel was affordable.
+
+⑤ 音読・スピーキング練習（speakingPractice）】
+音読指示: 「This jacket is very expensive, so I can't buy it.」を5回音読してください。expensive の /ɪk'spensɪv/ というアクセントに注意しましょう。
+置き換え練習:
+  元文: This jacket is very expensive, so I can't buy it.
+  指示: 値段について話す文を作りましょう。
+  例: This apartment is too expensive, so I'm looking for another one. / The tickets were cheap, so we bought four of them. / Is this price affordable for you?
+会話のヒント: 「Is this on sale?」（セール中ですか？）「Do you have anything cheaper?」（もっと安いものはありますか？）はショッピングで使える便利なフレーズです。
+
+================================================================================
+■ vb-010
+================================================================================
+【問題文（英語）】
+Please _____ your name on the list if you want to join the club.
+
+【選択肢】
+A. remove … 取り除く
+B. forget … 忘れる
+C. add … 加える、追加する【正解】
+D. change … 変える
+
+【正解の概要（explanation）】
+クラブに参加したい場合、リストに名前を「追加する（add）」のが正解です。remove は「取り除く」の意味で逆です。
+
+【ヒント（hint）】
+クラブに参加したい場合、リストに名前を「追加」するのか「削除」するのかどちらですか？
+
+① 和訳（questionTranslation）】
+クラブに参加したい場合は、リストにあなたの名前を加えてください。
+
+② 重要単語（vocabularyItems）】
+- add … 意味: 加える、追加する / カタカナ: アッド / 例: Please add your email address.
+- remove … 意味: 取り除く、削除する / カタカナ: リムーブ / 例: Remove your name from the list.
+- join … 意味: 参加する、加入する / カタカナ: ジョイン / 例: Would you like to join our team?
+
+③ カタカナ読み（questionKatakana）】
+プリーズ アド ユア ネイム オン ザ リスト イフ ユー ウォント トゥ ジョイン ザ クラブ。
+
+④ 文法解説（grammarPoints）】
+ルール: add と remove の対義語関係
+説明: add（加える）⇔ remove（取り除く）は対義語です。似た対義語のペア：include（含む）⇔ exclude（除外する）、connect（つなぐ）⇔ disconnect（切り離す）、turn on（つける）⇔ turn off（切る）。
+例文: Add some salt. / Remove the seeds. / Include everyone in the plan.
+
+⑤ 音読・スピーキング練習（speakingPractice）】
+音読指示: 「Please add your name on the list if you want to join the club.」を5回音読してください。add の /æ/ 音を強くはっきり言いましょう。
+置き換え練習:
+  元文: Please add your name on the list.
+  指示: add を使って指示する文を作りましょう。
+  例: Please add me to the email list. / Can you add more details to your report? / She added her signature to the document.
+会話のヒント: 「Can you add me to the group chat?」（グループチャットに追加してもらえますか？）はSNS時代によく使うフレーズです。
+
+================================================================================
+■ vb-011
+================================================================================
+【問題文（英語）】
+I always _____ my keys. I can never find them.
+
+【選択肢】
+A. remember … 覚えている
+B. find … 見つける
+C. lose … なくす【正解】
+D. keep … 保つ、取っておく
+
+【正解の概要（explanation）】
+「I can never find them（いつも見つからない）」という文脈から、鍵を「なくす（lose）」という動詞が最適です。
+
+【ヒント（hint）】
+「いつも見つからない」ということは、鍵を「なくして」いるのですか、「覚えて」いるのですか？
+
+① 和訳（questionTranslation）】
+私はいつも鍵をなくします。見つけることができません。
+
+② 重要単語（vocabularyItems）】
+- lose … 意味: なくす、失う / カタカナ: ルーズ / 例: Don't lose your passport.
+- find … 意味: 見つける / カタカナ: ファインド / 例: I can't find my glasses.
+- keep … 意味: 取っておく、保つ / カタカナ: キープ / 例: Keep your receipt.
+
+③ カタカナ読み（questionKatakana）】
+アイ オールウェイズ ルーズ マイ キーズ。アイ キャン ネバー ファインド ゼム。
+
+④ 文法解説（grammarPoints）】
+ルール: lose と miss の違い
+説明: lose（なくす）は物が行方不明になること。miss（乗り遅れる/さびしく思う）は機会を逃すことや人を恋しく思うことです。「I lost my phone.」（スマホをなくした）「I missed the bus.」（バスに乗り遅れた）「I miss my family.」（家族が恋しい）
+例文: I lost my wallet. / I missed the meeting. / She misses her hometown.
+
+⑤ 音読・スピーキング練習（speakingPractice）】
+音読指示: 「I always lose my keys. I can never find them.」を5回音読してください。lose の /uː/ 音（ルーズ）を長く発音しましょう。
+置き換え練習:
+  元文: I always lose my keys.
+  指示: lose を使って困り事を話す文を作りましょう。
+  例: I often lose my umbrella on the train. / She lost her phone at the restaurant. / Don't lose the ticket or you can't get in.
+会話のヒント: 「I think I lost my _____.」（〜をなくしてしまったと思います）は紛失物を報告するときに使います。lost and found（落し物センター）という単語も一緒に覚えましょう。
+
+================================================================================
+■ vb-012
+================================================================================
+【問題文（英語）】
+You can _____ any seat you like. The theater is empty.
+
+【選択肢】
+A. choose … 選ぶ【正解】
+B. close … 閉める
+C. use … 使う
+D. save … 取っておく、節約する
+
+【正解の概要（explanation）】
+劇場が空いていて「any seat you like（好きな席）」と言っているので、「choose（選ぶ）」が最適です。
+
+【ヒント（hint）】
+「any seat you like（好きな席）」とあります。何をしますか？
+
+① 和訳（questionTranslation）】
+好きな席を選んでよいですよ。劇場は空いています。
+
+② 重要単語（vocabularyItems）】
+- choose … 意味: 選ぶ / カタカナ: チューズ / 例: Choose the answer you think is correct.
+- select … 意味: 選ぶ（やや丁寧） / カタカナ: セレクト / 例: Please select your preferred date.
+- decide … 意味: 決める / カタカナ: ディサイド / 例: Have you decided what to order?
+
+③ カタカナ読み（questionKatakana）】
+ユー キャン チューズ エニー スィート ユー ライク。ザ シアター イズ エンプティー。
+
+④ 文法解説（grammarPoints）】
+ルール: choose / select / pick の違い
+説明: choose（選ぶ）は最も一般的。select（選択する）はより formal で慎重に選ぶ場合。pick（選ぶ）はカジュアルな会話で使います。「Choose your answer carefully.」「She was selected for the team.」「Just pick one.」
+例文: Choose a restaurant. / The committee selected a winner. / Just pick a color you like.
+
+⑤ 音読・スピーキング練習（speakingPractice）】
+音読指示: 「You can choose any seat you like.」を5回音読してください。choose の /uː/ 音（チューズ）を長く発音しましょう。
+置き換え練習:
+  元文: You can choose any seat you like.
+  指示: choose を使って選択の文を作りましょう。
+  例: You can choose any topic for your essay. / Please choose one of the following options. / She chose the blue dress for the party.
+会話のヒント: 「You can choose whatever you want.」（何でも好きなものを選んでいいよ）は相手に自由を与える表現です。レストランや買い物でよく使います。
+
+================================================================================
+■ vb-013
+================================================================================
+【問題文（英語）】
+The train will _____ at platform 3 in ten minutes.
+
+【選択肢】
+A. leave … 出発する
+B. arrive … 到着する【正解】
+C. stop … 止まる
+D. turn … 曲がる
+
+【正解の概要（explanation）】
+「at platform 3（3番ホームに）」という目的地への到着を表すのは「arrive（到着する）」です。leave（出発する）は反対の動作です。
+
+【ヒント（hint）】
+「platform 3（3番ホーム）に」という表現から、電車はそこに「到着」するのですか「出発」するのですか？
+
+① 和訳（questionTranslation）】
+電車は10分後に3番ホームに到着します。
+
+② 重要単語（vocabularyItems）】
+- arrive … 意味: 到着する / カタカナ: アライブ / 例: We arrived at the hotel at noon.
+- depart / leave … 意味: 出発する / カタカナ: ディパート／リーブ / 例: The train departs at 8:00 a.m.
+- platform … 意味: （駅の）ホーム / カタカナ: プラットフォーム / 例: The train is at platform 2.
+
+③ カタカナ読み（questionKatakana）】
+ザ トレイン ウィル アライブ アット プラットフォーム スリー イン テン ミニッツ。
+
+④ 文法解説（grammarPoints）】
+ルール: arrive at vs arrive in の使い分け
+説明: arrive at：小さい場所・建物（arrive at the station, at the airport, at the hotel）。arrive in：大きい場所・都市・国（arrive in Tokyo, in Japan, in New York）。「I arrived at the station.」「We arrived in Paris.」
+例文: She arrived at school early. / They arrived in London on Monday. / The package arrived at our office.
+
+⑤ 音読・スピーキング練習（speakingPractice）】
+音読指示: 「The train will arrive at platform 3 in ten minutes.」を5回音読してください。arrive at をつなげて発音しましょう。
+置き換え練習:
+  元文: The train will arrive at platform 3 in ten minutes.
+  指示: arrive を使って到着に関する文を作りましょう。
+  例: The guests will arrive at the hotel tomorrow morning. / She arrived in New York after a long flight. / What time does the bus arrive at the terminal?
+会話のヒント: 「What time does the train arrive?」（電車は何時に着きますか？）は交通機関を使うときに必須の質問フレーズです。
+
+================================================================================
+■ vb-014
+================================================================================
+【問題文（英語）】
+The room was very _____, so we opened the window.
+
+【選択肢】
+A. cold … 寒い
+B. quiet … 静かな
+C. hot … 暑い、熱い【正解】
+D. dark … 暗い
+
+【正解の概要（explanation）】
+窓を開けたという行動から、部屋が「hot（暑い）」だったと推測できます。暑い場合に換気のために窓を開けることは自然な行動です。
+
+【ヒント（hint）】
+なぜ窓を開けたのですか？部屋の状態を考えましょう。
+
+① 和訳（questionTranslation）】
+部屋がとても暑かったので、窓を開けました。
+
+② 重要単語（vocabularyItems）】
+- hot … 意味: 暑い、熱い / カタカナ: ホット / 例: It is very hot in August.
+- warm … 意味: 暖かい / カタカナ: ウォーム / 例: The spring weather is warm and pleasant.
+- cool … 意味: 涼しい / カタカナ: クール / 例: It's cool in the shade.
+- cold … 意味: 寒い、冷たい / カタカナ: コールド / 例: The water is cold.
+
+③ カタカナ読み（questionKatakana）】
+ザ ルーム ワズ ベリー ホット、ソウ ウィー オープンド ザ ウィンドウ。
+
+④ 文法解説（grammarPoints）】
+ルール: 温度・気温を表す形容詞のグラデーション
+説明: 温度の段階：freezing（極寒）< cold（寒い）< cool（涼しい）< warm（暖かい）< hot（暑い・熱い）< boiling（灼熱）。天気を話すときは「It is + 形容詞」を使います。
+例文: It was freezing this morning. / The coffee is too hot. / Isn't it warm today?
+
+⑤ 音読・スピーキング練習（speakingPractice）】
+音読指示: 「The room was very hot, so we opened the window.」を5回音読してください。hot の /ɑː/ 音（ホット）をはっきり発音しましょう。
+置き換え練習:
+  元文: The room was very hot, so we opened the window.
+  指示: 温度に関する形容詞を使って文を作りましょう。
+  例: It was cold outside, so she wore a coat. / The soup was too hot to eat. / It's warm and sunny today, perfect for a walk.
+会話のヒント: 「It's so hot today, isn't it?」（今日は本当に暑いですね？）は天気の雑談で使う定番フレーズです。相手への話しかけのきっかけとして使えます。
+
+================================================================================
+■ vb-015
+================================================================================
+【問題文（英語）】
+She speaks very _____, so it is hard to hear her.
+
+【選択肢】
+A. loudly … 大きな声で
+B. clearly … はっきりと
+C. quickly … 速く
+D. quietly … 静かに、小さな声で【正解】
+
+【正解の概要（explanation）】
+「it is hard to hear her（聞こえにくい）」という結果から、彼女は「quietly（静かに・小さな声で）」話していることが分かります。loudly ならよく聞こえるはずです。
+
+【ヒント（hint）】
+聞こえにくいのは声が大きいからですか、小さいからですか？
+
+① 和訳（questionTranslation）】
+彼女はとても静かに話すので、声が聞こえにくいです。
+
+② 重要単語（vocabularyItems）】
+- quietly … 意味: 静かに、小さな声で / カタカナ: クワイエットリー / 例: Please speak more quietly in the library.
+- loudly … 意味: 大きな声で、うるさく / カタカナ: ラウドリー / 例: He was talking loudly on the phone.
+- clearly … 意味: はっきりと、明確に / カタカナ: クリアリー / 例: Please speak clearly and slowly.
+
+③ カタカナ読み（questionKatakana）】
+シー スピークス ベリー クワイエットリー、ソウ イット イズ ハード トゥ ヒア ハー。
+
+④ 文法解説（grammarPoints）】
+ルール: 形容詞から副詞への変換（-ly）
+説明: 多くの形容詞に -ly を付けると副詞になります：quiet→quietly, loud→loudly, clear→clearly, slow→slowly, quick→quickly, careful→carefully。動詞を修飾するときは副詞を使います。「She speaks quietly.」（動詞 speaks を修飾）
+例文: He drives carefully. / She sings beautifully. / They worked hard. / He speaks too quickly.
+
+⑤ 音読・スピーキング練習（speakingPractice）】
+音読指示: 「She speaks very quietly, so it is hard to hear her.」を5回音読してください。quietly の4音節（qui-et-ly）を区切って発音しましょう。
+置き換え練習:
+  元文: She speaks very quietly.
+  指示: 話し方を表す副詞を使って文を作りましょう。
+  例: Please speak more slowly. I can't follow you. / He always speaks clearly and confidently. / She read the story loudly so everyone could hear.
+会話のヒント: 「Could you speak more slowly?」（もっとゆっくり話してもらえますか？）は語学学習者が使う最も重要なフレーズの一つです。遠慮せず使いましょう。
+
+================================================================================
+■ vb-016
+================================================================================
+【問題文（英語）】
+I feel _____ after eating that large meal.
+
+【選択肢】
+A. thirsty … 喉が渇いた
+B. hungry … お腹が空いた
+C. full … お腹がいっぱいの【正解】
+D. light … 軽い
+
+【正解の概要（explanation）】
+大きな食事の後の状態として「full（お腹がいっぱい）」が最適です。hungry はお腹が空いた状態なので逆です。
+
+【ヒント（hint）】
+大きな食事を食べた後、お腹はどんな状態になりますか？
+
+① 和訳（questionTranslation）】
+たくさん食べた後、お腹がいっぱいです。
+
+② 重要単語（vocabularyItems）】
+- full … 意味: お腹がいっぱいの / カタカナ: フル / 例: I'm full. I can't eat anymore.
+- hungry … 意味: お腹が空いた / カタカナ: ハングリー / 例: Are you hungry? Let's get lunch.
+- thirsty … 意味: 喉が渇いた / カタカナ: サースティー / 例: I'm thirsty. Can I have some water?
+
+③ カタカナ読み（questionKatakana）】
+アイ フィール フル アフター イーティング ザット ラージ ミール。
+
+④ 文法解説（grammarPoints）】
+ルール: 空腹・満腹を表す表現
+説明: 「I'm hungry.」（お腹空いた）「I'm full.」（お腹いっぱい）は食事の場面で必須表現です。「I'm starving.」（激しくお腹が空いている）はより強い表現。「I couldn't eat another bite.」（もう一口も食べられない）というフレーズも覚えておきましょう。
+例文: I'm a bit hungry. Shall we eat? / I'm stuffed. That was delicious!
+
+⑤ 音読・スピーキング練習（speakingPractice）】
+音読指示: 「I feel full after eating that large meal.」を5回音読してください。full の /ʊ/ 音（フル）を丸く発音しましょう。
+置き換え練習:
+  元文: I feel full after eating that large meal.
+  指示: 空腹・満腹・喉の渇きについて話す文を作りましょう。
+  例: I'm so hungry. Can we stop for lunch? / I'm thirsty. Could I have some water, please? / I'm full. The meal was absolutely delicious!
+会話のヒント: 食事の後は「I'm so full. That was delicious!」（すごくお腹いっぱい。美味しかった！）と言うと相手も喜びます。日本語の「お腹いっぱいです」がそのまま使えます。
+
+================================================================================
+■ vb-017
+================================================================================
+【問題文（英語）】
+The library is _____ the park and the school.
+
+【選択肢】
+A. behind … 〜の後ろに
+B. between … 〜の間に（2つの物の）【正解】
+C. above … 〜の上に（位置）
+D. near … 〜の近くに
+
+【正解の概要（explanation）】
+「between A and B」は「A と B の間に」という意味で、2つのものの間を表します。the park と the school という2つの場所の間に図書館があるので between が正解です。
+
+【ヒント（hint）】
+「the park and the school」という2つの場所。2つのものの「間」を表す前置詞は？
+
+① 和訳（questionTranslation）】
+図書館は公園と学校の間にあります。
+
+② 重要単語（vocabularyItems）】
+- between … 意味: 〜の間（2つ） / カタカナ: ビトゥウィーン / 例: The store is between the bank and the pharmacy.
+- among … 意味: 〜の間（3つ以上） / カタカナ: アマング / 例: She is popular among her classmates.
+- next to / beside … 意味: 〜の隣に / カタカナ: ネクスト トゥ／ビサイド / 例: The café is next to the bookstore.
+
+③ カタカナ読み（questionKatakana）】
+ザ ライブラリー イズ ビトゥウィーン ザ パーク アンド ザ スクール。
+
+④ 文法解説（grammarPoints）】
+ルール: between と among の違い
+説明: between：2つのものの間（between A and B）。among：3つ以上のものの中（among the students）。「between three things」も使えますが、特定の2者間を強調するときは between、多数の中では among を使います。
+例文: The book is between the lamp and the vase. / She was standing among a crowd of people.
+
+⑤ 音読・スピーキング練習（speakingPractice）】
+音読指示: 「The library is between the park and the school.」を5回音読してください。between の /ɪ/ 音に注意して発音しましょう。
+置き換え練習:
+  元文: The library is between the park and the school.
+  指示: between を使って場所を説明しましょう。
+  例: The café is between the bookstore and the pharmacy. / She sat between her mother and her sister. / The small town is located between two mountains.
+会話のヒント: 道を教えるときに「It's between the post office and the bank.」（郵便局と銀行の間にあります）というフレーズはとても実用的です。
+
+================================================================================
+■ vb-018
+================================================================================
+【問題文（英語）】
+She was _____ after her long run, so she drank two bottles of water.
+
+【選択肢】
+A. full … お腹がいっぱい
+B. bored … 退屈な
+C. thirsty … 喉が渇いた【正解】
+D. cold … 寒い
+
+【正解の概要（explanation）】
+長い距離を走った後に水を2本飲むという行動から、「thirsty（喉が渇いた）」が最適です。運動後に喉が渇くのは自然なことです。
+
+【ヒント（hint）】
+長距離を走った後、水を大量に飲んだ理由は何ですか？
+
+① 和訳（questionTranslation）】
+彼女は長い距離を走った後、喉が渇いたので水を2本飲みました。
+
+② 重要単語（vocabularyItems）】
+- thirsty … 意味: 喉が渇いた / カタカナ: サースティー / 例: I'm really thirsty after the game.
+- run … 意味: 走ること（名詞） / カタカナ: ラン / 例: She goes for a run every morning.
+- dehydrated … 意味: 脱水状態の（上級表現） / カタカナ: ディハイドレイテッド / 例: Drink water to avoid dehydration.
+
+③ カタカナ読み（questionKatakana）】
+シー ワズ サースティー アフター ハー ロング ラン、ソウ シー ドランク トゥー ボトルズ オブ ウォーター。
+
+④ 文法解説（grammarPoints）】
+ルール: 身体の状態を表す形容詞
+説明: 身体の状態を表す形容詞を「be / feel + 形容詞」で使います。tired（疲れた）、hungry（空腹）、thirsty（喉が渇いた）、sleepy（眠い）、sick（具合が悪い）、sore（筋肉痛など痛い）など。
+例文: I feel tired. Are you hungry? She was very thirsty after the hike.
+
+⑤ 音読・スピーキング練習（speakingPractice）】
+音読指示: 「She was thirsty after her long run, so she drank two bottles of water.」を5回音読してください。thirsty の /θ/ 音に注意しましょう。
+置き換え練習:
+  元文: She was thirsty after her long run.
+  指示: 運動後の体の状態を話す文を作りましょう。
+  例: I was exhausted after the hiking trip. / He was thirsty and hungry after the soccer game. / We felt tired but happy after the marathon.
+会話のヒント: 「Can I get some water? I'm really thirsty.」はレストランやカフェで使える実用的なフレーズです。水をお願いするときにすぐ使えます。
+
+================================================================================
+■ vb-019
+================================================================================
+【問題文（英語）】
+Please _____ the door when you leave the room.
+
+【選択肢】
+A. open … 開ける
+B. break … 壊す
+C. close … 閉める【正解】
+D. wash … 洗う
+
+【正解の概要（explanation）】
+「when you leave the room（部屋を出るとき）」というのは退室時の指示です。この文脈では「close（閉める）」が最も自然です。
+
+【ヒント（hint）】
+部屋を出るときにドアをどうしますか？
+
+① 和訳（questionTranslation）】
+部屋を出るときはドアを閉めてください。
+
+② 重要単語（vocabularyItems）】
+- close / shut … 意味: 閉める / カタカナ: クローズ／シャット / 例: Please close the window.
+- open … 意味: 開ける / カタカナ: オープン / 例: Open the door for me, please.
+- lock … 意味: 鍵をかける / カタカナ: ロック / 例: Lock the door before you go to bed.
+
+③ カタカナ読み（questionKatakana）】
+プリーズ クローズ ザ ドア ウェン ユー リーブ ザ ルーム。
+
+④ 文法解説（grammarPoints）】
+ルール: close と shut の違い
+説明: close と shut はほぼ同じ意味（閉める）ですが、shut は突然・勢いよく閉めるニュアンスがあります。「Close the door gently.」「She shut the book.」また「lock」（鍵をかける）は close より一歩進んだ動作です。
+例文: Please close the windows. / She shut the door behind her. / Don't forget to lock up when you leave.
+
+⑤ 音読・スピーキング練習（speakingPractice）】
+音読指示: 「Please close the door when you leave the room.」を5回音読してください。close の /oʊ/ 音（クローズ）を長く発音しましょう。
+置き換え練習:
+  元文: Please close the door when you leave the room.
+  指示: open/close を使って指示の文を作りましょう。
+  例: Please close your textbooks and listen. / Could you open the window? It's hot in here. / Close your eyes and take a deep breath.
+会話のヒント: 「Mind if I close the window?」（窓を閉めてもいいですか？）は許可を求める丁寧な表現です。「Mind if I...?」は日常会話でよく使う慣用表現です。
+
+================================================================================
+■ vb-020
+================================================================================
+【問題文（英語）】
+I need to _____ studying early today because the exam is tomorrow.
+
+【選択肢】
+A. stop … やめる
+B. begin … 始める【正解】
+C. forget … 忘れる
+D. delay … 遅らせる
+
+【正解の概要（explanation）】
+「because the exam is tomorrow（明日試験があるから）」という理由から、早めに勉強を「始める（begin）」ことが自然な行動です。stop（やめる）やdelay（遅らせる）は逆の方向です。
+
+【ヒント（hint）】
+明日試験があるから、今日早めにどうすべきですか？
+
+① 和訳（questionTranslation）】
+明日試験があるので、今日は早くから勉強を始める必要があります。
+
+② 重要単語（vocabularyItems）】
+- begin / start … 意味: 始める / カタカナ: ビギン／スタート / 例: Let's begin the presentation.
+- early … 意味: 早く、早い時間に / カタカナ: アーリー / 例: She always arrives early.
+- prepare … 意味: 準備する / カタカナ: プリペア / 例: I need to prepare for the meeting.
+
+③ カタカナ読み（questionKatakana）】
+アイ ニード トゥ ビギン スタディング アーリー トゥデイ ビコーズ ザ イグザム イズ トゥモロウ。
+
+④ 文法解説（grammarPoints）】
+ルール: begin + 動名詞（-ing）
+説明: 「begin + -ing」または「begin + to 不定詞」はどちらも使えます（意味の差はほぼない）。「begin studying」「begin to study」は同じ意味。ただし begin / start の後ろに -ing が来るときは「状態が継続中に始まる動作」には to 不定詞を好む場合があります。
+例文: She began studying at 8 p.m. / He started to feel nervous. / I began to understand the problem.
+
+⑤ 音読・スピーキング練習（speakingPractice）】
+音読指示: 「I need to begin studying early today because the exam is tomorrow.」を5回音読してください。begin studying をつなげて発音しましょう。
+置き換え練習:
+  元文: I need to begin studying early today because the exam is tomorrow.
+  指示: begin/start を使って早めの行動について話しましょう。
+  例: I should start packing now because we leave early tomorrow. / She began preparing for the interview a week in advance. / It's never too early to begin learning a new skill.
+会話のヒント: 「I should get started on this.」（これに取り掛からないといけない）は勉強や仕事を始めるときのカジュアルな表現です。
+
+================================================================================
+（以上 vb-001〜vb-020）
+================================================================================
