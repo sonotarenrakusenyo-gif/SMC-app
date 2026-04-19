@@ -1,7 +1,10 @@
 import { getAllQuizzes, type QuizQuestion, type VocabularyItem } from "./quizzes";
 
+/** 単語帳に載せる語数（厳選50語） */
+export const CURATED_VOCAB_LIST_SIZE = 50;
+
 /**
- * 厳選25語：getAllQuizzes() から vocabularyItems を収集し、
+ * 厳選50語：getAllQuizzes() から vocabularyItems を収集し、
  * SMC・アメリカの学生生活に関連しやすい語をスコアリングして選定（quizzes.ts は変更しない）。
  */
 export type VocabListCuratedEntry = VocabularyItem & {
@@ -76,13 +79,14 @@ function buildCuratedList(): VocabListCuratedEntry[] {
   buckets.vocabulary.sort((a, b) => sortKey(b) - sortKey(a) || (a.word ?? "").localeCompare(b.word ?? ""));
   buckets.reading.sort((a, b) => sortKey(b) - sortKey(a) || (a.word ?? "").localeCompare(b.word ?? ""));
 
+  const target = CURATED_VOCAB_LIST_SIZE;
   const out: VocabListCuratedEntry[] = [];
   const order: QuizQuestion["category"][] = ["vocabulary", "reading", "grammar"];
   let round = 0;
-  while (out.length < 25) {
+  while (out.length < target) {
     let progressed = false;
     for (const cat of order) {
-      if (out.length >= 25) break;
+      if (out.length >= target) break;
       const b = buckets[cat];
       if (round < b.length) {
         out.push(b[round]);
@@ -93,13 +97,13 @@ function buildCuratedList(): VocabListCuratedEntry[] {
     round++;
   }
 
-  if (out.length < 25) {
+  if (out.length < target) {
     const rest = Array.from(best.values())
       .map((x) => x.entry)
       .sort((a, b) => sortKey(b) - sortKey(a));
     const seen = new Set(out.map((e) => normalizeWord(e.word!)));
     for (const e of rest) {
-      if (out.length >= 25) break;
+      if (out.length >= target) break;
       const k = normalizeWord(e.word!);
       if (seen.has(k)) continue;
       seen.add(k);
@@ -107,7 +111,8 @@ function buildCuratedList(): VocabListCuratedEntry[] {
     }
   }
 
-  return out.slice(0, 25);
+  return out.slice(0, target);
 }
 
-export const CURATED_VOCAB_LIST_25: VocabListCuratedEntry[] = buildCuratedList();
+/** 単語帳一覧（50語） */
+export const CURATED_VOCAB_LIST: VocabListCuratedEntry[] = buildCuratedList();

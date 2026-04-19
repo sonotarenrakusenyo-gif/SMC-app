@@ -3,7 +3,7 @@ import { useLocation } from "wouter";
 import { Button } from "@/components/ui/button";
 import { Card } from "@/components/ui/card";
 import { ChevronLeft, Loader2, Sparkles } from "lucide-react";
-import { CURATED_VOCAB_LIST_25, type VocabListCuratedEntry } from "@/data/vocab-list-curated";
+import { CURATED_VOCAB_LIST, CURATED_VOCAB_LIST_SIZE, type VocabListCuratedEntry } from "@/data/vocab-list-curated";
 import { toast } from "sonner";
 
 type AiBlock = {
@@ -70,7 +70,9 @@ export default function VocabListPage() {
             ホーム
           </Button>
           <div className="min-w-0">
-            <h1 className="text-lg sm:text-xl font-bold text-slate-900 truncate">厳選25語 · 単語帳</h1>
+            <h1 className="text-lg sm:text-xl font-bold text-slate-900 truncate">
+              厳選{CURATED_VOCAB_LIST_SIZE}語 · 単語帳
+            </h1>
             <p className="text-xs text-slate-500 truncate">
               クイズ教材から選定 · AIでSMC向けの別例文を生成
             </p>
@@ -80,11 +82,11 @@ export default function VocabListPage() {
 
       <main className="container mx-auto px-4 py-6 max-w-4xl pb-16">
         <p className="text-sm text-slate-600 mb-6">
-          各語はアプリの問題データに基づきます。「別の例文をAIで作る」で、サンタモニカカレッジの学生がキャンパスや日常生活で使える英文・和訳・リンキングのコツを表示します（APIキー設定が必要です）。
+          各語はアプリの問題データに基づきます（全{CURATED_VOCAB_LIST_SIZE}語）。「別の例文をAIで作る」で、サンタモニカカレッジの学生がキャンパスや日常生活で使える英文・和訳・リンキングのコツを表示します（APIキー設定が必要です）。
         </p>
 
         <ul className="space-y-4">
-          {CURATED_VOCAB_LIST_25.map((entry) => {
+          {CURATED_VOCAB_LIST.map((entry) => {
             const ai = aiById[entry.listId];
             const busy = loadingId === entry.listId;
             return (
