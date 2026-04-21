@@ -122,6 +122,11 @@ export const useStudyHistory = () => {
     localStorage.removeItem(STORAGE_KEY);
   };
 
+  /** 不正解の記録のみ除去（正解の履歴は残す）。復習用「間違えた問題」リストをクリアする。 */
+  const clearIncorrectHistory = useCallback(() => {
+    setHistory((prev) => prev.filter((r) => r.isCorrect));
+  }, []);
+
   // Remove a question from incorrect list (when user gets it right in review mode)
   const markQuestionAsCorrectInReview = (questionId: string) => {
     setHistory((prev) =>
@@ -155,6 +160,7 @@ export const useStudyHistory = () => {
     getIncorrectQuestions,
     getIncorrectQuestionsByCategory,
     clearHistory,
+    clearIncorrectHistory,
     getStatistics,
     markQuestionAsCorrectInReview,
   };

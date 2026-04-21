@@ -3,10 +3,8 @@ import tailwindcss from "@tailwindcss/vite";
 import react from "@vitejs/plugin-react";
 import fs from "node:fs";
 import path from "node:path";
-import type { IncomingMessage } from "node:http";
 import { defineConfig, type Plugin, type ViteDevServer } from "vite";
 import { vitePluginManusRuntime } from "vite-plugin-manus-runtime";
-import { generateVocabExampleAi } from "./server/vocabAiGemini";
 
 // =============================================================================
 // Manus Debug Collector - Vite Plugin
@@ -152,67 +150,12 @@ function vitePluginManusDebugCollector(): Plugin {
   };
 }
 
-function readJsonBody(req: IncomingMessage): Promise<string> {
-  return new Promise((resolve, reject) => {
-    let body = "";
-    req.on("data", (chunk) => {
-      body += chunk.toString();
-    });
-    req.on("end", () => resolve(body));
-    req.on("error", reject);
-  });
-}
-
-/** Dev-only: POST /api/vocab-example-ai → Gemini（本番は server/index.ts と同一パス） */
-function vitePluginVocabAiApi(): Plugin {
-  return {
-    name: "vocab-ai-example-api",
-    configureServer(server) {
-      server.middlewares.use(async (req, res, next) => {
-        if (req.url !== "/api/vocab-example-ai" || req.method !== "POST") {
-          next();
-          return;
-        }
-        try {
-          const raw = await readJsonBody(req);
-          const body = JSON.parse(raw || "{}") as {
-            word?: string;
-            meaning?: string;
-            originalExample?: string;
-          };
-          const word = typeof body.word === "string" ? body.word.trim() : "";
-          const meaning = typeof body.meaning === "string" ? body.meaning.trim() : "";
-          const originalExample =
-            typeof body.originalExample === "string" ? body.originalExample.trim() : "";
-          if (!word || !meaning) {
-            res.statusCode = 400;
-            res.setHeader("Content-Type", "application/json");
-            res.end(JSON.stringify({ error: "word and meaning are required" }));
-            return;
-          }
-          const result = await generateVocabExampleAi({ word, meaning, originalExample });
-          res.statusCode = 200;
-          res.setHeader("Content-Type", "application/json");
-          res.end(JSON.stringify(result));
-        } catch (e) {
-          const msg = e instanceof Error ? e.message : "Unknown error";
-          const status = msg.includes("GEMINI_API_KEY") ? 503 : 500;
-          res.statusCode = status;
-          res.setHeader("Content-Type", "application/json");
-          res.end(JSON.stringify({ error: msg }));
-        }
-      });
-    },
-  };
-}
-
 const plugins = [
   react(),
   tailwindcss(),
   jsxLocPlugin(),
   vitePluginManusRuntime(),
   vitePluginManusDebugCollector(),
-  vitePluginVocabAiApi(),
 ];
 
 export default defineConfig({
@@ -224,7 +167,7 @@ export default defineConfig({
       "@assets": path.resolve(import.meta.dirname, "attached_assets"),
     },
   },
-  envDir: path.resolve(import.meta.dirname),
+  envDir: path.resolve(import.meta.dirname, "client"),
   root: path.resolve(import.meta.dirname, "client"),
   build: {
     outDir: path.resolve(import.meta.dirname, "dist/public"),

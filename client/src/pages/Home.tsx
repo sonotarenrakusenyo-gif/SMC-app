@@ -119,10 +119,20 @@ export default function Home() {
               />
               <div>
                 <WeakAreasDisplay weakAreas={weakAreas} />
-                {incorrectQuestions.length > 0 && (
+                {stats.totalQuestions > 0 && (
                   <div className="mt-4 p-4 bg-orange-50 border border-orange-200 rounded-lg">
                     <p className="text-sm text-orange-900 mb-3">
-                      <strong>改善の準備はできていますか？</strong> 間違えた問題だけを復習して、弱点を克服しましょう。
+                      {incorrectQuestions.length > 0 ? (
+                        <>
+                          <strong>改善の準備はできていますか？</strong>{" "}
+                          間違えた問題だけを復習して、弱点を克服しましょう。
+                        </>
+                      ) : (
+                        <>
+                          <strong>いまは記録上の未正解がありません。</strong>{" "}
+                          復習画面ではメッセージの確認や、履歴のリセット後の状態をそのまま開けます。
+                        </>
+                      )}
                     </p>
                     <Button
                       onClick={() => setLocation("/mistakes-review")}

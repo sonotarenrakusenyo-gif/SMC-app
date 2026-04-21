@@ -2,6 +2,14 @@ import { useState, useEffect } from "react";
 import { useLocation } from "wouter";
 import { Button } from "@/components/ui/button";
 import { Card } from "@/components/ui/card";
+import {
+  Dialog,
+  DialogContent,
+  DialogDescription,
+  DialogFooter,
+  DialogHeader,
+  DialogTitle,
+} from "@/components/ui/dialog";
 import { ChevronLeft, CheckCircle, XCircle } from "lucide-react";
 import { useStudyHistory } from "@/hooks/useStudyHistory";
 import { getAllQuizzes } from "@/data/quizzes";
@@ -9,13 +17,20 @@ import type { QuizQuestion } from "@/data/quizzes";
 
 export default function MistakesReviewPage() {
   const [, setLocation] = useLocation();
-  const { history, isLoaded: historyLoaded, addRecord, getIncorrectQuestions, markQuestionAsCorrectInReview } = useStudyHistory();
-  
+  const {
+    isLoaded: historyLoaded,
+    addRecord,
+    getIncorrectQuestions,
+    markQuestionAsCorrectInReview,
+    clearIncorrectHistory,
+  } = useStudyHistory();
+
   const [mistakeQuestions, setMistakeQuestions] = useState<QuizQuestion[]>([]);
   const [currentQuestionIndex, setCurrentQuestionIndex] = useState(0);
   const [selectedAnswer, setSelectedAnswer] = useState<string | null>(null);
   const [showFeedback, setShowFeedback] = useState(false);
   const [isLoaded, setIsLoaded] = useState(false);
+  const [resetConfirmOpen, setResetConfirmOpen] = useState(false);
 
   // マウント時に1回だけ実行 — historyLoaded が true になったタイミングで問題を確定させる
   // history の変更（addRecord 等）では再実行しない（復習中に問題リストがリセットされるのを防ぐ）
@@ -125,11 +140,37 @@ export default function MistakesReviewPage() {
     }
   };
 
+  const handleConfirmResetIncorrect = () => {
+    clearIncorrectHistory();
+    setMistakeQuestions([]);
+    setCurrentQuestionIndex(0);
+    setSelectedAnswer(null);
+    setShowFeedback(false);
+    setResetConfirmOpen(false);
+  };
+
   return (
     <div className="min-h-screen bg-gradient-to-br from-orange-50 to-red-50 p-4 sm:p-6">
       <div className="max-w-3xl mx-auto">
+        <Dialog open={resetConfirmOpen} onOpenChange={setResetConfirmOpen}>
+          <DialogContent showCloseButton={false} className="sm:max-w-md">
+            <DialogHeader>
+              <DialogTitle>学習履歴のリセット</DialogTitle>
+              <DialogDescription>本当に学習履歴をリセットしますか？</DialogDescription>
+            </DialogHeader>
+            <DialogFooter className="gap-2 sm:gap-0">
+              <Button type="button" variant="outline" onClick={() => setResetConfirmOpen(false)}>
+                キャンセル
+              </Button>
+              <Button type="button" variant="destructive" onClick={handleConfirmResetIncorrect}>
+                はい、リセットします
+              </Button>
+            </DialogFooter>
+          </DialogContent>
+        </Dialog>
+
         {/* Header */}
-        <div className="flex items-center justify-between mb-6">
+        <div className="flex flex-wrap items-center justify-between gap-3 mb-6">
           <Button
             variant="ghost"
             onClick={() => setLocation("/")}
@@ -138,8 +179,13 @@ export default function MistakesReviewPage() {
             <ChevronLeft className="h-4 w-4" />
             <span className="hidden sm:inline">ホームに戻る</span>
           </Button>
-          <div className="text-sm font-medium text-slate-600">
-            {currentQuestionIndex + 1} / {mistakeQuestions.length}
+          <div className="flex flex-wrap items-center gap-2 sm:gap-3">
+            <div className="text-sm font-medium text-slate-600">
+              {currentQuestionIndex + 1} / {mistakeQuestions.length}
+            </div>
+            <Button type="button" variant="outline" size="sm" onClick={() => setResetConfirmOpen(true)}>
+              学習履歴をリセット
+            </Button>
           </div>
         </div>
 

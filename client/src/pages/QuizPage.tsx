@@ -8,6 +8,7 @@ import { useQuizState } from "@/hooks/useQuizState";
 import { useStudyHistory } from "@/hooks/useStudyHistory";
 import ScorePage from "./ScorePage";
 import { ChevronLeft } from "lucide-react";
+import { LogicalConnectorText } from "@/components/LogicalConnectorText";
 
 interface QuizPageProps {
   categoryId: string;
@@ -489,14 +490,33 @@ export default function QuizPage({ categoryId, level, onBack }: QuizPageProps) {
                             className="border-l-4 border-purple-400 pl-3"
                           >
                             <p className="font-semibold text-slate-900">
-                              {point.rule}
+                              {categoryId === "reading" ? (
+                                <LogicalConnectorText text={point.rule} />
+                              ) : (
+                                point.rule
+                              )}
                             </p>
                             <p className="text-sm text-slate-700 mt-1">
-                              {point.explanation}
+                              {categoryId === "reading" ? (
+                                <LogicalConnectorText
+                                  text={point.explanation}
+                                  className="text-sm text-slate-700"
+                                />
+                              ) : (
+                                point.explanation
+                              )}
                             </p>
                             {point.example && (
                               <p className="text-xs text-slate-600 italic mt-2">
-                                例：{point.example}
+                                例：
+                                {categoryId === "reading" ? (
+                                  <LogicalConnectorText
+                                    text={point.example}
+                                    className="text-xs text-slate-600 italic"
+                                  />
+                                ) : (
+                                  point.example
+                                )}
                               </p>
                             )}
                           </div>
